@@ -22,7 +22,7 @@ as can the behavioral characteristics of risk aversion, perceived efficacy of pr
 measures and worry about flooding.
 
 "
-featured: true
+featured: false
 tags: ["Behavioral insurance", "Moral hazard", "Lab experiment", "Natural disasters", "Damage-reduction measures"]
 publication: "*Journal of Behavioral and Experimental Economics*"
 url_pdf: "publication/mol-2019-b/postprint-mol-2019-b.pdf"

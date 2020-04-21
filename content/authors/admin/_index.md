@@ -44,4 +44,4 @@ I am a PhD researcher in the department of Environmental Economics of the Instit
 
 I have a research master in Neuroeconomics from Maastricht University, with a particular focus on experimental economics and behavioural economics. My MSc thesis examined the possibilities of virtual reality (VR) as a new tool in experimental economics.
 
-My supervisors are [Wouter Botzen](https://research.vu.nl/en/persons/wjw-botzen) and [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch). I expect to complete my PhD in Fall 2020. 
+My supervisors are [Wouter Botzen](https://research.vu.nl/en/persons/wjw-botzen) and [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch). I expect to complete my PhD at the end of 2020. 
