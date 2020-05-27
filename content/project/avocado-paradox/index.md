@@ -10,22 +10,20 @@ links:
   name: 
   url: 
 slides: 
-summary: Millennials' motivations and misconceptions of sustainable diets. With Meike Morren, Julia Blasch and &#381;iga Malek.
+summary: Changing diets - The role of motivations, knowledge and foodprint information for sustainable dietary choices. With Meike Morren, Julia Blasch and &#381;iga Malek.
 tags:
 - 
-title: The avocado paradox
+title: Changing diets 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-<h3> The avocado paradox: Millennials' motivations and misconceptions of sustainable diets. </h3> 
+<h3> Changing diets - The role of motivations, knowledge and `foodprint' information for sustainable dietary choices </h3> 
 With [Meike Morren](https://www.meikemorren.com/), [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch) and [&#381;iga Malek](https://research.vu.nl/en/persons/%C5%BEiga-malek). 
 
 <b>Abstract:</b>
-In the coming decades, society has to provide food security for the growing global population, while simultaneously shifting to healthier diets and decreasing humanity's impact on the climate, freshwater and biodiversity. Demand side strategies for sustainable food production include the promotion of alternative diets. These dietary choices are often driven by various extrinsic and intrinsic motivations. Besides, many consumers have misconceptions about the environmental impact of food products as well as about what constitutes a 'healthy diet'. A particularly relevant consumer group to shape the consumption patterns of the future are Millennials, who currently account for 27% of the world population and who grew up with alternative dietary choices like vegetarian and vegan diets. 
-
-This paper aims to understand extrinsic and intrinsic motivations of Millennials' adoption of alternative diets and the extent to which misconceptions about healthy and sustainable food choices affect the adoption of alternative diets. To explore the drivers and misconceptions, we analyse self-reported diet, food-related price-sensitivity, health attitudes and environmental concern from an online survey among 305 Millennials. In a follow-up survey, 63 participants uploaded detailed information about five home-cooked meals. These barcodes and receipts were scored on the respective food products' impact on land-use and their wider environmental sustainability. Furthermore, we conducted 23 qualitative interviews with a diverse subsample to explore the underlying associations with food sustainability, and how the misconceptions guide dietary choices. Based on our results, policy interventions could be designed to stimulate the uptake of sustainable diets by this important group of consumers. 
+In the coming decades, a shift to healthier and more sustainable diets could provide food security and reduce the pressure on the environment. Yet, research has shown that many consumers have misconceptions about the environmental impact of food products as well as about what constitutes a healthy diet. A scoping study aimed to understand the misconceptions regarding the sustainability of food products and their motivations to adopt alternative diets. Subsequently, an intervention study in a large representative sample allowed us to test the impact of providing information about the environmental or health impact of dietary choices versus suggestions of more sustainable or healthier meals. \hl{We show that knowledge about sustainable or healthy diets does not relate to the dietary choices. Additionally, those who received meal suggestions make more sustainable food choices compared to those who received information about impact. The effect is larger when treating health instead of environmental impact.} Based on our results, policy interventions could be designed to stimulate more sustainable diets by this important group of consumers.
 
 [project in data analysis phase]
