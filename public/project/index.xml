@@ -1,31 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Jantsje Mol</title>
+    <title>Projects | Jantsje Mol</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>Jantsje Mol &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
     
-	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Tropical Cyclone Hazard Scale</title>
+      <link>/project/tropical-cyclones/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/tropical-cyclones/</guid>
+      <description>&lt;h3&gt; Adequately reflecting the potential impact of tropical cyclones using the new Tropical Cyclone Hazard Scale. &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://research.vu.nl/en/persons/nadia-bloemendaal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nadia Bloemendaal&lt;/a&gt;, 
+&lt;a href=&#34;https://research.vu.nl/en/persons/hans-de-moel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans de Moel&lt;/a&gt;, Priscilla Bosma, 
+&lt;a href=&#34;https://www.usf.edu/honors/about-us/amypolen.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amy Polen&lt;/a&gt; and 
+&lt;a href=&#34;http://hennarot.forest.usf.edu/main/depts/geosci/faculty/jcollins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jennifer Collins&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+For decades, meteorologists and governments have been warning communities in coastal areas for an imminent tropical cyclone (TC) using the Saffir-Simpson Hurricane Wind Scale (SSHWS). The SSHWS categorizes a TC based on its maximum wind speeds, and has been used in defining evacuation strategies and humanitarian response. The SSHWS, however, only considers the TC’s wind hazard, whereas a TC can also cause major damage and harm through storm surges and extreme rainfall, inducing flooding. As a consequence, the SSHWS fails to mirror the TC’s total hazard potential. This becomes evident when looking at past events such as Hurricane Harvey (2017), which was classified as a Tropical Storm while it caused widespread flooding in the Houston (TX) area, with precipitation totals exceeding 1.5 m. Because of this, adequate risk communication can be challenging, as the public can (mistakenly) perceive a low-category TC as a low-risk TC. To overcome this weakness of the SSHWS, we propose the new Tropical Cyclone Hazard Scale (TCHS) that includes all three major TC hazards in its classification. The new scale preserves the categorization as used in the SSHWS, to maintain familiarity amongst the general public. In addition, we extend the TCHS with a Category 6, to support communication about the most extreme TCs. Applying the TCHS to an event set of high-impact historical landfalling TCs results in 26 TCs being classified as a Category 5 or 6, whereas only five of these were classified as a Category 5 on the SSHWS.&lt;/p&gt;
+&lt;p&gt;[in review]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>After the virtual flood</title>
       <link>/project/after-the-vr-flood/</link>
-      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/project/after-the-vr-flood/</guid>
-      <description>&lt;p&gt;&lt;h3&gt; After the virtual flood:
-Risk perceptions, emotions and preparedness after flood risk communication in virtual reality.&lt;/h3&gt;
-With &lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34;&gt;Wouter Botzen&lt;/a&gt; and &lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;h3&gt; After the virtual flood: risk perceptions, emotions and preparedness after flood risk communication in virtual reality  &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
+&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Flooding is one of the most deathly and costly natural disasters in the world and its impacts are expected to increase due to increased urbanization in coastal areas and climate change. Effective risk communication may increase investments in voluntary damage reduction measures by individual homeowners. We know from previous survey research that the strongest predictors of flood preparedness are emotions, coping values and personal norms. Generally, homeowners with (recent) flood risk experience are better prepared, which is mediated through emotions and a better understanding of the consequences of flooding. This research uses high-immersive virtual reality technology to examine whether risk perception, coping appraisal, negative emotions and damage-reducing investment behavior can be enhanced through the experience of a virtual flood. We use a repeated measures design to examine (1) whether these effects last and (2) whether respondents have engaged in flood preparedness behavior at home by installing (more) measures.&lt;/p&gt;
-
-&lt;p&gt;[project in design phase]&lt;/p&gt;
+&lt;p&gt;[manuscript submitted]&lt;/p&gt;
+&lt;p&gt;Working paper available 
+&lt;a href=&#34;https://riskcenter.wharton.upenn.edu/wp-content/uploads/2020/05/Social-norms_Mol-etal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -33,14 +50,14 @@ Flooding is one of the most deathly and costly natural disasters in the world an
       <title>Changing diets</title>
       <link>/project/avocado-paradox/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>/project/avocado-paradox/</guid>
-      <description>&lt;p&gt;&lt;h3&gt; Changing diets - The role of motivations, knowledge and `foodprint&amp;rsquo; information for sustainable dietary choices &lt;/h3&gt;
-With &lt;a href=&#34;https://www.meikemorren.com/&#34; target=&#34;_blank&#34;&gt;Meike Morren&lt;/a&gt;, &lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34;&gt;Julia Blasch&lt;/a&gt; and &lt;a href=&#34;https://research.vu.nl/en/persons/%C5%BEiga-malek&#34; target=&#34;_blank&#34;&gt;&amp;#381;iga Malek&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;h3&gt; Changing diets - The role of motivations, knowledge and &#34;foodprint&#34; information for sustainable dietary choices &lt;/h3&gt;
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.meikemorren.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meike Morren&lt;/a&gt;, 
+&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt; and 
+&lt;a href=&#34;https://research.vu.nl/en/persons/%C5%BEiga-malek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Žiga Malek&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-In the coming decades, a shift to healthier and more sustainable diets could provide food security and reduce the pressure on the environment. Yet, research has shown that many consumers have misconceptions about the environmental impact of food products as well as about what constitutes a healthy diet. A scoping study aimed to understand the misconceptions regarding the sustainability of food products and their motivations to adopt alternative diets. Subsequently, an intervention study in a large representative sample allowed us to test the impact of providing information about the environmental or health impact of dietary choices versus suggestions of more sustainable or healthier meals. \hl{We show that knowledge about sustainable or healthy diets does not relate to the dietary choices. Additionally, those who received meal suggestions make more sustainable food choices compared to those who received information about impact. The effect is larger when treating health instead of environmental impact.} Based on our results, policy interventions could be designed to stimulate more sustainable diets by this important group of consumers.&lt;/p&gt;
-
+In the coming decades, a shift to healthier and more sustainable diets could provide food security and reduce the pressure on the environment. Yet, research has shown that many consumers have misconceptions about the environmental impact of food products as well as about what constitutes a healthy diet. A scoping study aimed to understand the misconceptions regarding the sustainability of food products and their motivations to adopt alternative diets. Subsequently, an intervention study in a large representative sample allowed us to test the impact of providing information about the environmental or health impact of dietary choices versus suggestions of more sustainable or healthier meals. Based on our results, policy interventions could be designed to stimulate more sustainable diets by this important group of consumers.&lt;/p&gt;
 &lt;p&gt;[project in data analysis phase]&lt;/p&gt;
 </description>
     </item>
@@ -49,17 +66,18 @@ In the coming decades, a shift to healthier and more sustainable diets could pro
       <title>Social norms for flood preparedness</title>
       <link>/project/social-norms/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>/project/social-norms/</guid>
-      <description>&lt;p&gt;&lt;h3&gt; All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners &lt;/h3&gt;
-With &lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34;&gt;Wouter Botzen&lt;/a&gt;, &lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34;&gt;Julia Blasch&lt;/a&gt;, &lt;a href=&#34;https://riskcenter.wharton.upenn.edu/elissa-kranzler/&#34; target=&#34;_blank&#34;&gt;Elissa Kranzler&lt;/a&gt; and &lt;a href=&#34;https://oid.wharton.upenn.edu/profile/kunreuth/&#34; target=&#34;_blank&#34;&gt;Howard Kunreuther&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;h3&gt; All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt;, 
+&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;, 
+&lt;a href=&#34;https://riskcenter.wharton.upenn.edu/elissa-kranzler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elissa Kranzler&lt;/a&gt; and 
+&lt;a href=&#34;https://oid.wharton.upenn.edu/profile/kunreuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Kunreuther&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Social norms are rules of behavior that are commonly approved by society. Nudges based on social norms (norm-nudges) are compelling interventions compared to traditional interventions, but they have to be carefully designed to be effective. This paper adds to the growing literature on the effectiveness of norm-nudges by analyzing the effectiveness of different norm-nudge messages with varying transparency on individual flood preparedness. We test two empirical norm-nudge frames with a large sample in two European countries, to evaluate the possible interactions between norm-nudge effectiveness, individual characteristics and intercultural differences. We contrast these empirical norm-nudge treatments with a control treatment and a norm focusing treatment, where respondents are first asked to guess what other respondents would do, before making a decision relevant for their own payoff. We conclude with policy recommendations about norm-nudge messages in the context of communicating risk reduction.&lt;/p&gt;
-
 &lt;p&gt;[manuscript submitted]&lt;/p&gt;
-
-&lt;p&gt;Working paper available &lt;a href=&#34;https://riskcenter.wharton.upenn.edu/wp-content/uploads/2020/05/Social-norms_Mol-etal.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Working paper available 
+&lt;a href=&#34;https://riskcenter.wharton.upenn.edu/wp-content/uploads/2020/05/Social-norms_Mol-etal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

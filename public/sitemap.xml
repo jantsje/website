@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -18,45 +18,33 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/tag/affect-heuristic/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/affect-heuristic/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/availability-heuristic/</loc>
+    <loc>/tag/availability-heuristic/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/flood-preparedness/</loc>
+    <loc>/tag/flood-preparedness/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/hans-de-moel/</loc>
+    <loc>/author/hans-de-moel/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -65,33 +53,28 @@
   </url>
   
   <url>
-    <loc>/authors/jantsje-m-mol/</loc>
+    <loc>/author/jantsje-m-mol/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/julia-e-blasch/</loc>
+    <loc>/author/julia-e-blasch/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/objective-risk/</loc>
+    <loc>/tag/objective-risk/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -100,21 +83,18 @@
   </url>
   
   <url>
-    <loc>/tags/risk-perception/</loc>
+    <loc>/tag/risk-perception/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/w-j-wouter-botzen/</loc>
+    <loc>/author/w-j-wouter-botzen/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -128,44 +108,53 @@
   </url>
   
   <url>
-    <loc>/project/after-the-vr-flood/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/behavioral-insurance/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/tag/risk-communication/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/damage-reduction-measures/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/tag/saffir-simpson-hurricane-wind-scale/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/lab-experiment/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/project/tropical-cyclones/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/moral-hazard/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/tag/tropical-cyclones/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/natural-disasters/</loc>
+    <loc>/tag/behavioral-insurance/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tag/damage-reduction-measures/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lab-experiment/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/moral-hazard/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/natural-disasters/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -179,33 +168,28 @@
   </url>
   
   <url>
-    <loc>/tags/cheating/</loc>
+    <loc>/tag/cheating/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/eline-c-m-van-der-heijden/</loc>
+    <loc>/author/eline-c-m-van-der-heijden/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/jan-j-m-potters/</loc>
+    <loc>/author/jan-j-m-potters/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/virtual-reality-experiment/</loc>
+    <loc>/tag/virtual-reality-experiment/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/watching-eyes-effect/</loc>
+    <loc>/tag/watching-eyes-effect/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -224,7 +208,37 @@
   </url>
   
   <url>
+    <loc>/project/after-the-vr-flood/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/avocado-paradox/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/homeowners/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lab-in-the-field-experiment/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/norm-nudges/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/social-information/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/social-norms/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -244,9 +258,13 @@
   </url>
   
   <url>
-    <loc>/tags/experimental-economics/</loc>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/experimental-economics/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -255,21 +273,18 @@
   </url>
   
   <url>
-    <loc>/tags/high-immersive-virtual-environments/</loc>
+    <loc>/tag/high-immersive-virtual-environments/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/laboratory-methods/</loc>
+    <loc>/tag/laboratory-methods/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/virtual-reality/</loc>
+    <loc>/tag/virtual-reality/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -280,7 +295,6 @@
   <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -294,27 +308,13 @@
   </url>
   
   <url>
-    <loc>/tags/disaster-damage-reduction/</loc>
+    <loc>/tag/disaster-damage-reduction/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/homeowners/</loc>
+    <loc>/tag/self-insurance/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/lab-in-the-field-experiment/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/self-insurance/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -323,16 +323,16 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
 </urlset>

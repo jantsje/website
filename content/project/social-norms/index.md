@@ -12,7 +12,12 @@ links:
 slides: 
 summary: All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners. With Wouter Botzen, Julia Blasch, Elissa Kranzler and Howard Kunreuther.
 tags:
-- 
+- Flood preparedness
+- Homeowners
+- Lab-in-the-field experiment
+- Norm-nudges
+- Social information
+- Social norms
 title: Social norms for flood preparedness
 url_code: ""
 url_pdf: "https://riskcenter.wharton.upenn.edu/wp-content/uploads/2020/05/Social-norms_Mol-etal.pdf"
@@ -21,6 +26,7 @@ url_video: ""
 ---
 
 <h3> All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners </h3> 
+
 With [Wouter Botzen](https://research.vu.nl/en/persons/wjw-botzen), [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch), [Elissa Kranzler](https://riskcenter.wharton.upenn.edu/elissa-kranzler/) and [Howard Kunreuther](https://oid.wharton.upenn.edu/profile/kunreuth/). 
 
 <b>Abstract:</b>

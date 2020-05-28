@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Jantsje Mol</title>
+    <title>Recent &amp; Upcoming Talks | Jantsje Mol</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>Jantsje Mol &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 19 Feb 2020 09:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Wed, 19 Feb 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
     
     <item>
       <title>Experimental Economics for the Environment (poster)</title>
       <link>/talk/heidelberg2020/</link>
       <pubDate>Wed, 19 Feb 2020 09:00:00 +0000</pubDate>
-      
       <guid>/talk/heidelberg2020/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>NoBeC 2019 (poster)</title>
       <link>/talk/nobec2019/</link>
       <pubDate>Fri, 18 Oct 2019 12:12:15 +0000</pubDate>
-      
       <guid>/talk/nobec2019/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>BEEMA5</title>
       <link>/talk/beema5/</link>
       <pubDate>Fri, 04 Oct 2019 09:00:00 +0000</pubDate>
-      
       <guid>/talk/beema5/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>SPUDM 2019 (poster)</title>
       <link>/talk/spudm2019/</link>
       <pubDate>Wed, 21 Aug 2019 14:30:00 +0000</pubDate>
-      
       <guid>/talk/spudm2019/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>WINK</title>
       <link>/talk/wink-2019/</link>
       <pubDate>Wed, 19 Jun 2019 15:00:00 +0000</pubDate>
-      
       <guid>/talk/wink-2019/</guid>
       <description></description>
     </item>
@@ -61,7 +56,6 @@
       <title>Opening ASI</title>
       <link>/talk/opening_asi/</link>
       <pubDate>Thu, 16 May 2019 15:00:00 +0000</pubDate>
-      
       <guid>/talk/opening_asi/</guid>
       <description></description>
     </item>
@@ -70,7 +64,6 @@
       <title>European conference on risk perception</title>
       <link>/talk/paris-risk/</link>
       <pubDate>Wed, 13 Mar 2019 15:00:00 +0000</pubDate>
-      
       <guid>/talk/paris-risk/</guid>
       <description></description>
     </item>

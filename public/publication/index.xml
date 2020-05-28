@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Jantsje Mol</title>
+    <title>Publications | Jantsje Mol</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>Jantsje Mol &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
       <title>Insights into flood risk misperceptions of homeowners in the Dutch river delta</title>
       <link>/publication/mol-2020-b/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publication/mol-2020-b/</guid>
       <description></description>
     </item>
@@ -25,9 +24,8 @@
       <title>Risk reduction in compulsory disaster insurance: Experimental evidence on moral hazard and financial incentives</title>
       <link>/publication/mol-2019-b/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publication/mol-2019-b/</guid>
-      <description>&lt;hr /&gt;
+      <description>&lt;hr&gt;
 </description>
     </item>
     
@@ -35,7 +33,6 @@
       <title>(Not) alone in the world: Cheating in the presence of a virtual observer</title>
       <link>/publication/mol-2020/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publication/mol-2020/</guid>
       <description></description>
     </item>
@@ -44,7 +41,6 @@
       <title>Goggles in the lab: Economic experiments in immersive virtual environments</title>
       <link>/publication/mol-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/mol-2019/</guid>
       <description></description>
     </item>
@@ -53,7 +49,6 @@
       <title>Behavioral motivations for self-insurance under different disaster risk insurance schemes</title>
       <link>/publication/mol-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/mol-2018/</guid>
       <description></description>
     </item>
