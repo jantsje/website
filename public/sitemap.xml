@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-07-22T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-07-22T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/sabe2020/</loc>
+    <lastmod>2020-07-22T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -58,11 +73,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/julia-e-blasch/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -99,11 +109,6 @@
   
   <url>
     <loc>/talk/heidelberg2020/</loc>
-    <lastmod>2020-02-19T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2020-02-19T09:00:00+00:00</lastmod>
   </url>
   
