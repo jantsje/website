@@ -28,5 +28,5 @@ title: SABE 2020 (online)
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/OaQolYpMRwA?t=1680"
 ---

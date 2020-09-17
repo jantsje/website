@@ -10,7 +10,7 @@ links:
   name: 
   url: 
 slides: 
-summary: Changing diets - The role of motivations, knowledge and foodprint information for sustainable dietary choices. With Meike Morren, Julia Blasch and &#381;iga Malek.
+summary: Changing diets - Testing the impact of knowledge and information nudges on sustainable dietary choices. With Meike Morren, Julia Blasch and &#381;iga Malek.
 tags:
 - 
 title: Changing diets 
@@ -20,11 +20,11 @@ url_slides: ""
 url_video: ""
 ---
 
-<h3> Changing diets - The role of motivations, knowledge and "foodprint" information for sustainable dietary choices </h3>
+<h3> Changing diets - Testing the impact of knowledge and information nudges on sustainable dietary choices </h3>
 
 With [Meike Morren](https://www.meikemorren.com/), [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch) and [&#381;iga Malek](https://research.vu.nl/en/persons/%C5%BEiga-malek). 
 
 <b>Abstract:</b>
-In the coming decades, a shift to healthier and more sustainable diets could provide food security and reduce the pressure on the environment. Yet, research has shown that many consumers have misconceptions about the environmental impact of food products as well as about what constitutes a healthy diet. A scoping study aimed to understand the misconceptions regarding the sustainability of food products and their motivations to adopt alternative diets. Subsequently, an intervention study in a large representative sample allowed us to test the impact of providing information about the environmental or health impact of dietary choices versus suggestions of more sustainable or healthier meals. Based on our results, policy interventions could be designed to stimulate more sustainable diets by this important group of consumers.
+A shift to more sustainable diets is needed to ensure food security and to reduce the pressure on the environment. Yet, many consumers have misconceptions about the environmental impacts of their diets and lack knowledge on how to prepare sustainable meals. This study uses a mixed-methods approach to develop four information nudges and to test their impact on dietary choices among a representative sample of Dutch consumers. A 2 X 2 between-subjects design crossing type of information (procedural versus declarative) with type of impacts (health versus environmental) is applied. The environmental impact is measured in terms of CO2 emissions, land use and water use. We find that pre-intervention knowledge about sustainable or healthy diets is related to the sustainability of participants' dietary choices. Procedural knowledge on how to prepare a healthier meal has the greatest potential to influence dietary behavior, in particular for participants without prior self-reported dietary restrictions.
 
-[project in data analysis phase]
+[manuscript submitted]

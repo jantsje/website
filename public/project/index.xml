@@ -13,19 +13,19 @@
     </image>
     
     <item>
-      <title>Tropical Cyclone Hazard Scale</title>
+      <title>Tropical Cyclone Severity Scale</title>
       <link>/project/tropical-cyclones/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/project/tropical-cyclones/</guid>
-      <description>&lt;h3&gt; Adequately reflecting the potential impact of tropical cyclones using the new Tropical Cyclone Hazard Scale. &lt;/h3&gt; 
+      <description>&lt;h3&gt; Adequately reflecting the severity of tropical cyclones using the new Tropical Cyclone Severity Scale. &lt;/h3&gt; 
 &lt;p&gt;With 
 &lt;a href=&#34;https://research.vu.nl/en/persons/nadia-bloemendaal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nadia Bloemendaal&lt;/a&gt;, 
 &lt;a href=&#34;https://research.vu.nl/en/persons/hans-de-moel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans de Moel&lt;/a&gt;, Priscilla Bosma, 
 &lt;a href=&#34;https://www.usf.edu/honors/about-us/amypolen.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amy Polen&lt;/a&gt; and 
 &lt;a href=&#34;http://hennarot.forest.usf.edu/main/depts/geosci/faculty/jcollins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jennifer Collins&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-For decades, meteorologists and governments have been warning communities in coastal areas for an imminent tropical cyclone (TC) using the Saffir-Simpson Hurricane Wind Scale (SSHWS). The SSHWS categorizes a TC based on its maximum wind speeds, and has been used in defining evacuation strategies and humanitarian response. The SSHWS, however, only considers the TC’s wind hazard, whereas a TC can also cause major damage and harm through storm surges and extreme rainfall, inducing flooding. As a consequence, the SSHWS fails to mirror the TC’s total hazard potential. This becomes evident when looking at past events such as Hurricane Harvey (2017), which was classified as a Tropical Storm while it caused widespread flooding in the Houston (TX) area, with precipitation totals exceeding 1.5 m. Because of this, adequate risk communication can be challenging, as the public can (mistakenly) perceive a low-category TC as a low-risk TC. To overcome this weakness of the SSHWS, we propose the new Tropical Cyclone Hazard Scale (TCHS) that includes all three major TC hazards in its classification. The new scale preserves the categorization as used in the SSHWS, to maintain familiarity amongst the general public. In addition, we extend the TCHS with a Category 6, to support communication about the most extreme TCs. Applying the TCHS to an event set of high-impact historical landfalling TCs results in 26 TCs being classified as a Category 5 or 6, whereas only five of these were classified as a Category 5 on the SSHWS.&lt;/p&gt;
-&lt;p&gt;[in review]&lt;/p&gt;
+For decades, meteorologists and governments have been warning communities in coastal areas for an imminent tropical cyclone (TC) using the Saffir-Simpson Hurricane Wind Scale (SSHWS). The SSHWS categorizes a TC based on its maximum wind speeds, and is used in defining evacuation strategies and humanitarian response. However, the SSHWS considers only wind hazard, whereas a TC can also cause severe conditions through its high storm surges and extreme rainfall, triggering coastal and inland flooding. Consequently, the SSHWS fails to mirror the TC’s total severity. This becomes evident when looking at past events such as Hurricane Harvey (2017), which was classified as a Tropical Storm while it caused widespread flooding in the Houston (TX) area, with precipitation totals exceeding 1.5 m. With the absence of storm surge and rainfall, adequate risk communication with the SSHWS can be challenging, as the public can (mistakenly) perceive a low-category TC as a low-risk TC. To overcome this, we propose the new Tropical Cyclone Severity Scale (TCSS) that includes all three major TC hazards in its classification. The new scale preserves the categorization as used in the SSHWS, to maintain familiarity amongst the general public. In addition, to support communication about the most extreme TCs, we extend the TCSS with a Category 6. While the SSHWS is currently used to communicate about the total event severity, the TCSS is primarily designed to be applied on a local-scale, hereby supporting local-scale risk communication efforts and evacuation strategies prior to a TC landfall.&lt;/p&gt;
+&lt;p&gt;[revise &amp;amp; resubmit]&lt;/p&gt;
 </description>
     </item>
     
@@ -40,9 +40,7 @@ For decades, meteorologists and governments have been warning communities in coa
 &lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Flooding is one of the most deathly and costly natural disasters in the world and its impacts are expected to increase due to increased urbanization in coastal areas and climate change. Effective risk communication may increase investments in voluntary damage reduction measures by individual homeowners. We know from previous survey research that the strongest predictors of flood preparedness are emotions, coping values and personal norms. Generally, homeowners with (recent) flood risk experience are better prepared, which is mediated through emotions and a better understanding of the consequences of flooding. This research uses high-immersive virtual reality technology to examine whether risk perception, coping appraisal, negative emotions and damage-reducing investment behavior can be enhanced through the experience of a virtual flood. We use a repeated measures design to examine (1) whether these effects last and (2) whether respondents have engaged in flood preparedness behavior at home by installing (more) measures.&lt;/p&gt;
-&lt;p&gt;[manuscript submitted]&lt;/p&gt;
-&lt;p&gt;Working paper available 
-&lt;a href=&#34;https://riskcenter.wharton.upenn.edu/wp-content/uploads/2020/05/Social-norms_Mol-etal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[registered report submitted, data collection scheduled]&lt;/p&gt;
 </description>
     </item>
     
@@ -51,14 +49,14 @@ Flooding is one of the most deathly and costly natural disasters in the world an
       <link>/project/avocado-paradox/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/project/avocado-paradox/</guid>
-      <description>&lt;h3&gt; Changing diets - The role of motivations, knowledge and &#34;foodprint&#34; information for sustainable dietary choices &lt;/h3&gt;
+      <description>&lt;h3&gt; Changing diets - Testing the impact of knowledge and information nudges on sustainable dietary choices &lt;/h3&gt;
 &lt;p&gt;With 
 &lt;a href=&#34;https://www.meikemorren.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meike Morren&lt;/a&gt;, 
 &lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt; and 
 &lt;a href=&#34;https://research.vu.nl/en/persons/%C5%BEiga-malek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Žiga Malek&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-In the coming decades, a shift to healthier and more sustainable diets could provide food security and reduce the pressure on the environment. Yet, research has shown that many consumers have misconceptions about the environmental impact of food products as well as about what constitutes a healthy diet. A scoping study aimed to understand the misconceptions regarding the sustainability of food products and their motivations to adopt alternative diets. Subsequently, an intervention study in a large representative sample allowed us to test the impact of providing information about the environmental or health impact of dietary choices versus suggestions of more sustainable or healthier meals. Based on our results, policy interventions could be designed to stimulate more sustainable diets by this important group of consumers.&lt;/p&gt;
-&lt;p&gt;[project in data analysis phase]&lt;/p&gt;
+A shift to more sustainable diets is needed to ensure food security and to reduce the pressure on the environment. Yet, many consumers have misconceptions about the environmental impacts of their diets and lack knowledge on how to prepare sustainable meals. This study uses a mixed-methods approach to develop four information nudges and to test their impact on dietary choices among a representative sample of Dutch consumers. A 2 X 2 between-subjects design crossing type of information (procedural versus declarative) with type of impacts (health versus environmental) is applied. The environmental impact is measured in terms of CO2 emissions, land use and water use. We find that pre-intervention knowledge about sustainable or healthy diets is related to the sustainability of participants&amp;rsquo; dietary choices. Procedural knowledge on how to prepare a healthier meal has the greatest potential to influence dietary behavior, in particular for participants without prior self-reported dietary restrictions.&lt;/p&gt;
+&lt;p&gt;[manuscript submitted]&lt;/p&gt;
 </description>
     </item>
     
@@ -75,7 +73,7 @@ In the coming decades, a shift to healthier and more sustainable diets could pro
 &lt;a href=&#34;https://oid.wharton.upenn.edu/profile/kunreuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Kunreuther&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Social norms are rules of behavior that are commonly approved by society. Nudges based on social norms (norm-nudges) are compelling interventions compared to traditional interventions, but they have to be carefully designed to be effective. This paper adds to the growing literature on the effectiveness of norm-nudges by analyzing the effectiveness of different norm-nudge messages with varying transparency on individual flood preparedness. We test two empirical norm-nudge frames with a large sample in two European countries, to evaluate the possible interactions between norm-nudge effectiveness, individual characteristics and intercultural differences. We contrast these empirical norm-nudge treatments with a control treatment and a norm focusing treatment, where respondents are first asked to guess what other respondents would do, before making a decision relevant for their own payoff. We conclude with policy recommendations about norm-nudge messages in the context of communicating risk reduction.&lt;/p&gt;
-&lt;p&gt;[manuscript submitted]&lt;/p&gt;
+&lt;p&gt;[revise &amp;amp; resubmit]&lt;/p&gt;
 &lt;p&gt;Working paper available 
 &lt;a href=&#34;https://riskcenter.wharton.upenn.edu/wp-content/uploads/2020/05/Social-norms_Mol-etal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
