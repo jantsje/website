@@ -5,7 +5,7 @@
     <link>/tag/flood-preparedness/</link>
       <atom:link href="/tag/flood-preparedness/index.xml" rel="self" type="application/rss+xml" />
     <description>Flood preparedness</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Flood preparedness</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
+      <title>After the virtual flood</title>
+      <link>/project/after-the-vr-flood/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/after-the-vr-flood/</guid>
+      <description>&lt;h3&gt; After the virtual flood: risk perceptions and flood preparedness after virtual reality risk communication  &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
+&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Many individuals experience problems understanding and preparing for low-probability impact risk, like natural disasters and pandemics – unless they experience these events, yet then it is often too late to avoid damages. Individuals with recent disaster risk experience are, on average, better prepared. This seems to be mediated through emotions and a better understanding of the consequences. In this study, we use immersive virtual reality (VR) technology to examine whether a simulated disaster can stimulate people to invest in risk reducing measures in the context of flooding, which is one of the deathliest and most damaging natural disasters in the world. We investigate the possibility to boost risk perception, coping appraisal, negative emotions and damage-reducing behavior through a simulated flooding experience. An important novelty of the current set-up is that we examine the persistence of the effects by using a follow-up survey several weeks after the VR intervention.&lt;/p&gt;
+&lt;p&gt;[in data analysis phase]&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/482506190&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
       <title>Insights into flood risk misperceptions of homeowners in the Dutch river delta</title>
       <link>/publication/mol-2020-b/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/mol-2020-b/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>After the virtual flood</title>
-      <link>/project/after-the-vr-flood/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/after-the-vr-flood/</guid>
-      <description>&lt;h3&gt; After the virtual flood: risk perceptions, emotions and preparedness after flood risk communication in virtual reality  &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
-&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Flooding is one of the most deathly and costly natural disasters in the world and its impacts are expected to increase due to increased urbanization in coastal areas and climate change. Effective risk communication may increase investments in voluntary damage reduction measures by individual homeowners. We know from previous survey research that the strongest predictors of flood preparedness are emotions, coping values and personal norms. Generally, homeowners with (recent) flood risk experience are better prepared, which is mediated through emotions and a better understanding of the consequences of flooding. This research uses high-immersive virtual reality technology to examine whether risk perception, coping appraisal, negative emotions and damage-reducing investment behavior can be enhanced through the experience of a virtual flood. We use a repeated measures design to examine (1) whether these effects last and (2) whether respondents have engaged in flood preparedness behavior at home by installing (more) measures.&lt;/p&gt;
-&lt;p&gt;[registered report submitted, data collection scheduled]&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -47,10 +47,10 @@ Flooding is one of the most deathly and costly natural disasters in the world an
 &lt;a href=&#34;https://riskcenter.wharton.upenn.edu/elissa-kranzler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elissa Kranzler&lt;/a&gt; and 
 &lt;a href=&#34;https://oid.wharton.upenn.edu/profile/kunreuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Kunreuther&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Social norms are rules of behavior that are commonly approved by society. Nudges based on social norms (norm-nudges) are compelling interventions compared to traditional interventions, but they have to be carefully designed to be effective. This paper adds to the growing literature on the effectiveness of norm-nudges by analyzing the effectiveness of different norm-nudge messages with varying transparency on individual flood preparedness. We test two empirical norm-nudge frames with a large sample in two European countries, to evaluate the possible interactions between norm-nudge effectiveness, individual characteristics and intercultural differences. We contrast these empirical norm-nudge treatments with a control treatment and a norm focusing treatment, where respondents are first asked to guess what other respondents would do, before making a decision relevant for their own payoff. We conclude with policy recommendations about norm-nudge messages in the context of communicating risk reduction.&lt;/p&gt;
+Nudges based on social norms (norm-nudges) can be compelling behavioral interventions compared to traditional interventions such as taxes and regulations, but they do not work in all circumstances. We tested two empirical norm-nudge frames in an online experiment on taking measures for flood preparedness with large samples of homeowners (N = 1805) in two European countries, to evaluate the possible interactions between norm-nudge effectiveness, individual characteristics and intercultural differences. We contrasted these norm-nudge treatments with a control and norm focusing treatment by asking respondents to express their beliefs about what other respondents would do before making a decision relevant to their own payoff. We find no evidence of a treatment effect, suggesting that our social norm-nudges do not affect flood preparedness in the context of a flood risk investment game.&lt;/p&gt;
 &lt;p&gt;[revise &amp;amp; resubmit]&lt;/p&gt;
 &lt;p&gt;Working paper available 
-&lt;a href=&#34;https://riskcenter.wharton.upenn.edu/wp-content/uploads/2020/05/Social-norms_Mol-etal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://dx.doi.org/10.2139/ssrn.3616189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

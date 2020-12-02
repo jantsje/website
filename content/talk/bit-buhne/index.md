@@ -9,10 +9,6 @@ image:
   caption: ''
   focal_point: Right
 links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
 location: Online (WebEx)
 math: true
 projects:
@@ -20,10 +16,10 @@ publishDate: "2020-06-25T00:00:00Z"
 slides: 
 summary: 
 tags: []
-title: BIT Bühne gedrag en klimaat
+title: BIT Bühne gedrag en klimaat (Dutch)
 url_code: ""
 url_pdf: 
-url_slides: 
+url_slides: bit-jantsje.pdf
 url_video: ""
 ---
 <h3> Hoe stimuleer je klimaatbewust gedrag? </h3>

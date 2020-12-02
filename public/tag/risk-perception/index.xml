@@ -5,12 +5,27 @@
     <link>/tag/risk-perception/</link>
       <atom:link href="/tag/risk-perception/index.xml" rel="self" type="application/rss+xml" />
     <description>Risk perception</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Risk perception</title>
       <link>/tag/risk-perception/</link>
     </image>
+    
+    <item>
+      <title>After the virtual flood</title>
+      <link>/project/after-the-vr-flood/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/after-the-vr-flood/</guid>
+      <description>&lt;h3&gt; After the virtual flood: risk perceptions and flood preparedness after virtual reality risk communication  &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
+&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Many individuals experience problems understanding and preparing for low-probability impact risk, like natural disasters and pandemics – unless they experience these events, yet then it is often too late to avoid damages. Individuals with recent disaster risk experience are, on average, better prepared. This seems to be mediated through emotions and a better understanding of the consequences. In this study, we use immersive virtual reality (VR) technology to examine whether a simulated disaster can stimulate people to invest in risk reducing measures in the context of flooding, which is one of the deathliest and most damaging natural disasters in the world. We investigate the possibility to boost risk perception, coping appraisal, negative emotions and damage-reducing behavior through a simulated flooding experience. An important novelty of the current set-up is that we examine the persistence of the effects by using a follow-up survey several weeks after the VR intervention.&lt;/p&gt;
+&lt;p&gt;[in data analysis phase]&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/482506190&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>Insights into flood risk misperceptions of homeowners in the Dutch river delta</title>
@@ -32,23 +47,8 @@
 &lt;a href=&#34;https://www.usf.edu/honors/about-us/amypolen.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amy Polen&lt;/a&gt; and 
 &lt;a href=&#34;http://hennarot.forest.usf.edu/main/depts/geosci/faculty/jcollins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jennifer Collins&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-For decades, meteorologists and governments have been warning communities in coastal areas for an imminent tropical cyclone (TC) using the Saffir-Simpson Hurricane Wind Scale (SSHWS). The SSHWS categorizes a TC based on its maximum wind speeds, and is used in defining evacuation strategies and humanitarian response. However, the SSHWS considers only wind hazard, whereas a TC can also cause severe conditions through its high storm surges and extreme rainfall, triggering coastal and inland flooding. Consequently, the SSHWS fails to mirror the TC’s total severity. This becomes evident when looking at past events such as Hurricane Harvey (2017), which was classified as a Tropical Storm while it caused widespread flooding in the Houston (TX) area, with precipitation totals exceeding 1.5 m. With the absence of storm surge and rainfall, adequate risk communication with the SSHWS can be challenging, as the public can (mistakenly) perceive a low-category TC as a low-risk TC. To overcome this, we propose the new Tropical Cyclone Severity Scale (TCSS) that includes all three major TC hazards in its classification. The new scale preserves the categorization as used in the SSHWS, to maintain familiarity amongst the general public. In addition, to support communication about the most extreme TCs, we extend the TCSS with a Category 6. While the SSHWS is currently used to communicate about the total event severity, the TCSS is primarily designed to be applied on a local-scale, hereby supporting local-scale risk communication efforts and evacuation strategies prior to a TC landfall.&lt;/p&gt;
-&lt;p&gt;[revise &amp;amp; resubmit]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>After the virtual flood</title>
-      <link>/project/after-the-vr-flood/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/after-the-vr-flood/</guid>
-      <description>&lt;h3&gt; After the virtual flood: risk perceptions, emotions and preparedness after flood risk communication in virtual reality  &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
-&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Flooding is one of the most deathly and costly natural disasters in the world and its impacts are expected to increase due to increased urbanization in coastal areas and climate change. Effective risk communication may increase investments in voluntary damage reduction measures by individual homeowners. We know from previous survey research that the strongest predictors of flood preparedness are emotions, coping values and personal norms. Generally, homeowners with (recent) flood risk experience are better prepared, which is mediated through emotions and a better understanding of the consequences of flooding. This research uses high-immersive virtual reality technology to examine whether risk perception, coping appraisal, negative emotions and damage-reducing investment behavior can be enhanced through the experience of a virtual flood. We use a repeated measures design to examine (1) whether these effects last and (2) whether respondents have engaged in flood preparedness behavior at home by installing (more) measures.&lt;/p&gt;
-&lt;p&gt;[registered report submitted, data collection scheduled]&lt;/p&gt;
+For decades, meteorologists and governments have been warning communities in coastal areas for an imminent tropical cyclone (TC) using the Saffir-Simpson Hurricane Wind Scale (SSHWS). The SSHWS categorizes a TC based on its maximum wind speed, and is used in defining evacuation strategies and humanitarian response. However, the SSHWS considers only the wind hazard of a TC, whereas a TC can also cause severe conditions through its high storm surges and extreme rainfall, triggering coastal and inland flooding. Consequently, the SSHWS fails to mirror the TC’s total severity. This becomes evident when looking at past events such as Hurricane Harvey (2017), which was classified as a Tropical Storm while it caused widespread flooding in the Houston (TX) area, with precipitation totals exceeding 1.5 m. Without including storm surge and rainfall information, adequate risk communication with the SSHWS can be challenging, as the public can (mistakenly) perceive a low-category TC as a low-risk TC. To overcome this, we propose the new Tropical Cyclone Severity Scale (TCSS) that includes all three major TC hazards in its classification. The new scale preserves the categorization as used in the SSHWS, to maintain familiarity amongst the general public. In addition, we extend the scale with a Category 6, to support communication about the most extreme TCs with multiple hazards. The TCSS is designed to be applied on a local-scale, hereby supporting local-scale risk communication efforts and evacuation strategies prior to a TC landfall. The scale can be used for risk communication on both the total TC risk and on the categories of the separate hazards, which can be valuable especially in cases when one hazard is the predominant risk factor, such as excess rainfall triggering flooding.&lt;/p&gt;
+&lt;p&gt;[accepted for publication at Environmental Research Letters]&lt;/p&gt;
 </description>
     </item>
     

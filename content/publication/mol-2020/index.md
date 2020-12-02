@@ -13,6 +13,8 @@ publication: "*Experimental Economics*"
 tags: ["Virtual reality experiment", "Cheating", "Watching eyes effect"]
 url_pdf: "publication/mol-2020/postprint-mol-2020.pdf"
 doi: "10.1007/s10683-020-09644-0"
+url_code: "https://doi.org/10.34894/RZTSWA"
+url_dataset: "https://doi.org/10.34894/RZTSWA"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:

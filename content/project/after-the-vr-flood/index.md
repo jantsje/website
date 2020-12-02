@@ -1,5 +1,5 @@
 ---
-date: "2019-08-16T00:00:00Z"
+date: "2020-11-27T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -21,15 +21,17 @@ title: After the virtual flood
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://vimeo.com/482506190"
 ---
 
-<h3> After the virtual flood: risk perceptions, emotions and preparedness after flood risk communication in virtual reality  </h3> 
+<h3> After the virtual flood: risk perceptions and flood preparedness after virtual reality risk communication  </h3> 
 
 With [Wouter Botzen](https://research.vu.nl/en/persons/wjw-botzen) and [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch).
 
 <b>Abstract:</b>
-Flooding is one of the most deathly and costly natural disasters in the world and its impacts are expected to increase due to increased urbanization in coastal areas and climate change. Effective risk communication may increase investments in voluntary damage reduction measures by individual homeowners. We know from previous survey research that the strongest predictors of flood preparedness are emotions, coping values and personal norms. Generally, homeowners with (recent) flood risk experience are better prepared, which is mediated through emotions and a better understanding of the consequences of flooding. This research uses high-immersive virtual reality technology to examine whether risk perception, coping appraisal, negative emotions and damage-reducing investment behavior can be enhanced through the experience of a virtual flood. We use a repeated measures design to examine (1) whether these effects last and (2) whether respondents have engaged in flood preparedness behavior at home by installing (more) measures.
+Many individuals experience problems understanding and preparing for low-probability impact risk, like natural disasters and pandemics – unless they experience these events, yet then it is often too late to avoid damages. Individuals with recent disaster risk experience are, on average, better prepared. This seems to be mediated through emotions and a better understanding of the consequences. In this study, we use immersive virtual reality (VR) technology to examine whether a simulated disaster can stimulate people to invest in risk reducing measures in the context of flooding, which is one of the deathliest and most damaging natural disasters in the world. We investigate the possibility to boost risk perception, coping appraisal, negative emotions and damage-reducing behavior through a simulated flooding experience. An important novelty of the current set-up is that we examine the persistence of the effects by using a follow-up survey several weeks after the VR intervention. 
 
 
-[registered report submitted, data collection scheduled] 
+[in data analysis phase] 
+
+<iframe src="https://player.vimeo.com/video/482506190" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

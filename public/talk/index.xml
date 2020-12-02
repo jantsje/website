@@ -5,12 +5,26 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Fri, 11 Sep 2020 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Tue, 24 Nov 2020 12:15:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Dag van het Gedrag (Dutch)</title>
+      <link>/talk/dvhg2020/</link>
+      <pubDate>Tue, 24 Nov 2020 12:15:00 +0000</pubDate>
+      <guid>/talk/dvhg2020/</guid>
+      <description>&lt;h3&gt; Dag van het Gedrag &lt;/h3&gt;
+&lt;p&gt;De Dag van het gedrag wordt jaarlijks georganiseerd door het Behavioural Insights Netwerk Nederland (BIN NL). Dit is een samenwerkingsverband van alle ministeries op het gebied van gedragswetenschappen en is bedoeld voor het uitwisselen van kennis en ervaring. Tijdens de Dag van het gedrag brengen we kennis, wetenschap en praktijkervaringen bij elkaar. We leren van opgedane ervaringen en bieden inspiratie om zelf aan de slag te gaan en nieuwe samenwerkingspartners te vinden.&lt;/p&gt;
+&lt;p&gt;De Dag van het gedrag is bedoeld voor beleidsmakers, uitvoerders, toezichthouders, wetgevingsjuristen en communicatiedeskundigen op alle overheidsniveaus, voor geïnteresseerden uit de wetenschap én professionals werkzaam bij kennisinstellingen en adviesbureaus. &lt;a href=&#34;http://www.dagvanhetgedrag.nl&#34;&gt;www.dagvanhetgedrag.nl&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt; Sessie: Klimaatbewust gedrag bij huiseigenaren&lt;/h3&gt;
+&lt;p&gt;Uit onderzoek blijkt dat er veel obstakels zijn die klimaatbewust gedrag in de weg staan. Hoe kunnen we klimaatbewust gedrag het beste sturen? In deze sessie wordt eerst kort de theoretische kant belicht. Daarna zullen we de resultaten van verschillende onderzoeken presenteren, waarin lab- en veldexperimenten zijn gebruikt om te testen hoe bepaalde prikkels klimaatbewust gedrag kunnen stimuleren. Als afsluiting zullen beide sprekers reflecteren op de vraag; waar en hoe werken wetenschap en beleid op dit thema het beste samen?&lt;/p&gt;
+&lt;h3&gt;Video terugkijken&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/k1yayl3azs0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>ESA 2020 (online)</title>
@@ -29,7 +43,7 @@
     </item>
     
     <item>
-      <title>BIT Bühne gedrag en klimaat</title>
+      <title>BIT Bühne gedrag en klimaat (Dutch)</title>
       <link>/talk/bit-buhne/</link>
       <pubDate>Thu, 25 Jun 2020 10:00:00 +0000</pubDate>
       <guid>/talk/bit-buhne/</guid>

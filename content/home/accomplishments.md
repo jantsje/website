@@ -94,7 +94,8 @@ lab sessions in which students get familiar with statistical analysis using R.""
   date_end = ""
   description = """This graduate course gives an introduction to the economic analysis of
 environmental problems for students in the MSc programme Environmental and Resource Management (ERM).
-I teach tutorials and interactive events, such as classroom games. I give an (online) lecture about experimental economics. I created assignments and assist in grading."""  
+I teach tutorials and interactive events, such as classroom games. I give an (online) lecture about experimental economics. I created assignments and assist in grading. I programmed several <a href="https://github.com/jantsje/classroom_pgg" target="_blank">online classroom public goods games</a>
+and an <a href="https://github.com/jantsje/classroom_aia" target="_blank">online classroom all-in-water-auction</a>."""  
 
   
 

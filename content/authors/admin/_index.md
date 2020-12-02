@@ -42,6 +42,6 @@ user_groups:
 
 I am a PhD researcher in the department of Environmental Economics of the Institute for Environmental Studies (IVM) at the Vrije Universiteit Amsterdam. My main interests are experimental economics and behavioral economics. My PhD project aims at improving individual flood-preparedness by finding the determinants of individual decisions to invest in flood damage mitigation measures. 
 
-I have a research master in Neuroeconomics from Maastricht University, with a particular focus on experimental economics and behavioural economics. My MSc thesis examined the possibilities of virtual reality (VR) as a new tool in experimental economics.
+I have a research master in Neuroeconomics from Maastricht University, with a particular focus on experimental economics and behavioural economics. My PhD supervisors are [Wouter Botzen](https://research.vu.nl/en/persons/wjw-botzen) and [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch). I expect to complete my PhD at the end of 2020. 
 
-My supervisors are [Wouter Botzen](https://research.vu.nl/en/persons/wjw-botzen) and [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch). I expect to complete my PhD at the end of 2020. 
+I will join the amazing team of [Shaul Shalvi](https://www.uva.nl/profiel/s/h/s.shalvi/s.shalvi.html) at [CREED](https://www.creedexperiment.nl/creed/) (University of Amsterdam) as a postdoctoral researcher in January 2021.

@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Fri, 11 Sep 2020 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jantsje Mol</title>
@@ -55,6 +55,35 @@
     </item>
     
     <item>
+      <title>After the virtual flood</title>
+      <link>/project/after-the-vr-flood/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/after-the-vr-flood/</guid>
+      <description>&lt;h3&gt; After the virtual flood: risk perceptions and flood preparedness after virtual reality risk communication  &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
+&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Many individuals experience problems understanding and preparing for low-probability impact risk, like natural disasters and pandemics – unless they experience these events, yet then it is often too late to avoid damages. Individuals with recent disaster risk experience are, on average, better prepared. This seems to be mediated through emotions and a better understanding of the consequences. In this study, we use immersive virtual reality (VR) technology to examine whether a simulated disaster can stimulate people to invest in risk reducing measures in the context of flooding, which is one of the deathliest and most damaging natural disasters in the world. We investigate the possibility to boost risk perception, coping appraisal, negative emotions and damage-reducing behavior through a simulated flooding experience. An important novelty of the current set-up is that we examine the persistence of the effects by using a follow-up survey several weeks after the VR intervention.&lt;/p&gt;
+&lt;p&gt;[in data analysis phase]&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/482506190&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dag van het Gedrag (Dutch)</title>
+      <link>/talk/dvhg2020/</link>
+      <pubDate>Tue, 24 Nov 2020 12:15:00 +0000</pubDate>
+      <guid>/talk/dvhg2020/</guid>
+      <description>&lt;h3&gt; Dag van het Gedrag &lt;/h3&gt;
+&lt;p&gt;De Dag van het gedrag wordt jaarlijks georganiseerd door het Behavioural Insights Netwerk Nederland (BIN NL). Dit is een samenwerkingsverband van alle ministeries op het gebied van gedragswetenschappen en is bedoeld voor het uitwisselen van kennis en ervaring. Tijdens de Dag van het gedrag brengen we kennis, wetenschap en praktijkervaringen bij elkaar. We leren van opgedane ervaringen en bieden inspiratie om zelf aan de slag te gaan en nieuwe samenwerkingspartners te vinden.&lt;/p&gt;
+&lt;p&gt;De Dag van het gedrag is bedoeld voor beleidsmakers, uitvoerders, toezichthouders, wetgevingsjuristen en communicatiedeskundigen op alle overheidsniveaus, voor geïnteresseerden uit de wetenschap én professionals werkzaam bij kennisinstellingen en adviesbureaus. &lt;a href=&#34;http://www.dagvanhetgedrag.nl&#34;&gt;www.dagvanhetgedrag.nl&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt; Sessie: Klimaatbewust gedrag bij huiseigenaren&lt;/h3&gt;
+&lt;p&gt;Uit onderzoek blijkt dat er veel obstakels zijn die klimaatbewust gedrag in de weg staan. Hoe kunnen we klimaatbewust gedrag het beste sturen? In deze sessie wordt eerst kort de theoretische kant belicht. Daarna zullen we de resultaten van verschillende onderzoeken presenteren, waarin lab- en veldexperimenten zijn gebruikt om te testen hoe bepaalde prikkels klimaatbewust gedrag kunnen stimuleren. Als afsluiting zullen beide sprekers reflecteren op de vraag; waar en hoe werken wetenschap en beleid op dit thema het beste samen?&lt;/p&gt;
+&lt;h3&gt;Video terugkijken&lt;/h3&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/k1yayl3azs0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
       <title>ESA 2020 (online)</title>
       <link>/talk/esa2020/</link>
       <pubDate>Fri, 11 Sep 2020 09:00:00 +0000</pubDate>
@@ -71,7 +100,7 @@
     </item>
     
     <item>
-      <title>BIT Bühne gedrag en klimaat</title>
+      <title>BIT Bühne gedrag en klimaat (Dutch)</title>
       <link>/talk/bit-buhne/</link>
       <pubDate>Thu, 25 Jun 2020 10:00:00 +0000</pubDate>
       <guid>/talk/bit-buhne/</guid>
@@ -114,8 +143,8 @@ Link naar de slides van &lt;a href=&#34;bit-jantsje.pdf&#34; target=&#34;_blank&
 &lt;a href=&#34;https://www.usf.edu/honors/about-us/amypolen.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amy Polen&lt;/a&gt; and 
 &lt;a href=&#34;http://hennarot.forest.usf.edu/main/depts/geosci/faculty/jcollins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jennifer Collins&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-For decades, meteorologists and governments have been warning communities in coastal areas for an imminent tropical cyclone (TC) using the Saffir-Simpson Hurricane Wind Scale (SSHWS). The SSHWS categorizes a TC based on its maximum wind speeds, and is used in defining evacuation strategies and humanitarian response. However, the SSHWS considers only wind hazard, whereas a TC can also cause severe conditions through its high storm surges and extreme rainfall, triggering coastal and inland flooding. Consequently, the SSHWS fails to mirror the TC’s total severity. This becomes evident when looking at past events such as Hurricane Harvey (2017), which was classified as a Tropical Storm while it caused widespread flooding in the Houston (TX) area, with precipitation totals exceeding 1.5 m. With the absence of storm surge and rainfall, adequate risk communication with the SSHWS can be challenging, as the public can (mistakenly) perceive a low-category TC as a low-risk TC. To overcome this, we propose the new Tropical Cyclone Severity Scale (TCSS) that includes all three major TC hazards in its classification. The new scale preserves the categorization as used in the SSHWS, to maintain familiarity amongst the general public. In addition, to support communication about the most extreme TCs, we extend the TCSS with a Category 6. While the SSHWS is currently used to communicate about the total event severity, the TCSS is primarily designed to be applied on a local-scale, hereby supporting local-scale risk communication efforts and evacuation strategies prior to a TC landfall.&lt;/p&gt;
-&lt;p&gt;[revise &amp;amp; resubmit]&lt;/p&gt;
+For decades, meteorologists and governments have been warning communities in coastal areas for an imminent tropical cyclone (TC) using the Saffir-Simpson Hurricane Wind Scale (SSHWS). The SSHWS categorizes a TC based on its maximum wind speed, and is used in defining evacuation strategies and humanitarian response. However, the SSHWS considers only the wind hazard of a TC, whereas a TC can also cause severe conditions through its high storm surges and extreme rainfall, triggering coastal and inland flooding. Consequently, the SSHWS fails to mirror the TC’s total severity. This becomes evident when looking at past events such as Hurricane Harvey (2017), which was classified as a Tropical Storm while it caused widespread flooding in the Houston (TX) area, with precipitation totals exceeding 1.5 m. Without including storm surge and rainfall information, adequate risk communication with the SSHWS can be challenging, as the public can (mistakenly) perceive a low-category TC as a low-risk TC. To overcome this, we propose the new Tropical Cyclone Severity Scale (TCSS) that includes all three major TC hazards in its classification. The new scale preserves the categorization as used in the SSHWS, to maintain familiarity amongst the general public. In addition, we extend the scale with a Category 6, to support communication about the most extreme TCs with multiple hazards. The TCSS is designed to be applied on a local-scale, hereby supporting local-scale risk communication efforts and evacuation strategies prior to a TC landfall. The scale can be used for risk communication on both the total TC risk and on the categories of the separate hazards, which can be valuable especially in cases when one hazard is the predominant risk factor, such as excess rainfall triggering flooding.&lt;/p&gt;
+&lt;p&gt;[accepted for publication at Environmental Research Letters]&lt;/p&gt;
 </description>
     </item>
     
@@ -161,21 +190,6 @@ For decades, meteorologists and governments have been warning communities in coa
     </item>
     
     <item>
-      <title>After the virtual flood</title>
-      <link>/project/after-the-vr-flood/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/after-the-vr-flood/</guid>
-      <description>&lt;h3&gt; After the virtual flood: risk perceptions, emotions and preparedness after flood risk communication in virtual reality  &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
-&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Flooding is one of the most deathly and costly natural disasters in the world and its impacts are expected to increase due to increased urbanization in coastal areas and climate change. Effective risk communication may increase investments in voluntary damage reduction measures by individual homeowners. We know from previous survey research that the strongest predictors of flood preparedness are emotions, coping values and personal norms. Generally, homeowners with (recent) flood risk experience are better prepared, which is mediated through emotions and a better understanding of the consequences of flooding. This research uses high-immersive virtual reality technology to examine whether risk perception, coping appraisal, negative emotions and damage-reducing investment behavior can be enhanced through the experience of a virtual flood. We use a repeated measures design to examine (1) whether these effects last and (2) whether respondents have engaged in flood preparedness behavior at home by installing (more) measures.&lt;/p&gt;
-&lt;p&gt;[registered report submitted, data collection scheduled]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Changing diets</title>
       <link>/project/avocado-paradox/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
@@ -187,7 +201,7 @@ Flooding is one of the most deathly and costly natural disasters in the world an
 &lt;a href=&#34;https://research.vu.nl/en/persons/%C5%BEiga-malek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Žiga Malek&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 A shift to more sustainable diets is needed to ensure food security and to reduce the pressure on the environment. Yet, many consumers have misconceptions about the environmental impacts of their diets and lack knowledge on how to prepare sustainable meals. This study uses a mixed-methods approach to develop four information nudges and to test their impact on dietary choices among a representative sample of Dutch consumers. A 2 X 2 between-subjects design crossing type of information (procedural versus declarative) with type of impacts (health versus environmental) is applied. The environmental impact is measured in terms of CO2 emissions, land use and water use. We find that pre-intervention knowledge about sustainable or healthy diets is related to the sustainability of participants&amp;rsquo; dietary choices. Procedural knowledge on how to prepare a healthier meal has the greatest potential to influence dietary behavior, in particular for participants without prior self-reported dietary restrictions.&lt;/p&gt;
-&lt;p&gt;[manuscript submitted]&lt;/p&gt;
+&lt;p&gt;[manuscript in review]&lt;/p&gt;
 </description>
     </item>
     
@@ -203,10 +217,10 @@ A shift to more sustainable diets is needed to ensure food security and to reduc
 &lt;a href=&#34;https://riskcenter.wharton.upenn.edu/elissa-kranzler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elissa Kranzler&lt;/a&gt; and 
 &lt;a href=&#34;https://oid.wharton.upenn.edu/profile/kunreuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Kunreuther&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Social norms are rules of behavior that are commonly approved by society. Nudges based on social norms (norm-nudges) are compelling interventions compared to traditional interventions, but they have to be carefully designed to be effective. This paper adds to the growing literature on the effectiveness of norm-nudges by analyzing the effectiveness of different norm-nudge messages with varying transparency on individual flood preparedness. We test two empirical norm-nudge frames with a large sample in two European countries, to evaluate the possible interactions between norm-nudge effectiveness, individual characteristics and intercultural differences. We contrast these empirical norm-nudge treatments with a control treatment and a norm focusing treatment, where respondents are first asked to guess what other respondents would do, before making a decision relevant for their own payoff. We conclude with policy recommendations about norm-nudge messages in the context of communicating risk reduction.&lt;/p&gt;
+Nudges based on social norms (norm-nudges) can be compelling behavioral interventions compared to traditional interventions such as taxes and regulations, but they do not work in all circumstances. We tested two empirical norm-nudge frames in an online experiment on taking measures for flood preparedness with large samples of homeowners (N = 1805) in two European countries, to evaluate the possible interactions between norm-nudge effectiveness, individual characteristics and intercultural differences. We contrasted these norm-nudge treatments with a control and norm focusing treatment by asking respondents to express their beliefs about what other respondents would do before making a decision relevant to their own payoff. We find no evidence of a treatment effect, suggesting that our social norm-nudges do not affect flood preparedness in the context of a flood risk investment game.&lt;/p&gt;
 &lt;p&gt;[revise &amp;amp; resubmit]&lt;/p&gt;
 &lt;p&gt;Working paper available 
-&lt;a href=&#34;https://riskcenter.wharton.upenn.edu/wp-content/uploads/2020/05/Social-norms_Mol-etal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://dx.doi.org/10.2139/ssrn.3616189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
