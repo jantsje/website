@@ -5,12 +5,20 @@
     <link>/tag/flood-preparedness/</link>
       <atom:link href="/tag/flood-preparedness/index.xml" rel="self" type="application/rss+xml" />
     <description>Flood preparedness</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Flood preparedness</title>
       <link>/tag/flood-preparedness/</link>
     </image>
+    
+    <item>
+      <title>Behavioral motivations for self-insurance under different disaster risk insurance schemes</title>
+      <link>/publication/mol-2018/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mol-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>After the virtual flood</title>
@@ -52,14 +60,6 @@ Nudges based on social norms (norm-nudges) can be compelling behavioral interven
 &lt;p&gt;Working paper available 
 &lt;a href=&#34;https://dx.doi.org/10.2139/ssrn.3616189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Behavioral motivations for self-insurance under different disaster risk insurance schemes</title>
-      <link>/publication/mol-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2018/</guid>
-      <description></description>
     </item>
     
   </channel>

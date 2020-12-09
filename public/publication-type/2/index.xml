@@ -5,12 +5,28 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Behavioral motivations for self-insurance under different disaster risk insurance schemes</title>
+      <link>/publication/mol-2018/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mol-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adequately reflecting the severity of tropical cyclones using the new Tropical Cyclone Severity Scale</title>
+      <link>/publication/bloemendaal-2020/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bloemendaal-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Insights into flood risk misperceptions of homeowners in the Dutch river delta</title>
@@ -42,14 +58,6 @@
       <link>/publication/mol-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/publication/mol-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Behavioral motivations for self-insurance under different disaster risk insurance schemes</title>
-      <link>/publication/mol-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2018/</guid>
       <description></description>
     </item>
     

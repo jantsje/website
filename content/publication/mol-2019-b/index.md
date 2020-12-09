@@ -2,7 +2,7 @@
 title: "Risk reduction in compulsory disaster insurance: Experimental evidence on moral hazard and financial incentives"
 date: 2020-02-02
 publishDate: 2019-02-12T09:11:10.461171Z
-authors: ["Jantsje M Mol", "W J Wouter Botzen", "Julia E Blasch"]
+authors: ["**Jantsje M Mol**", "W J Wouter Botzen", "Julia E Blasch"]
 publication_types: ["2"]
 abstract: "In a world in which economic losses due to natural disasters are expected to increase,
 it is important to study risk reduction strategies, including individual investments
