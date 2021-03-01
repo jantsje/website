@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtual reality experiment | Jantsje Mol</title>
-    <link>/tag/virtual-reality-experiment/</link>
-      <atom:link href="/tag/virtual-reality-experiment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jantsje.nl/tag/virtual-reality-experiment/</link>
+      <atom:link href="https://www.jantsje.nl/tag/virtual-reality-experiment/index.xml" rel="self" type="application/rss+xml" />
     <description>Virtual reality experiment</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Virtual reality experiment</title>
-      <link>/tag/virtual-reality-experiment/</link>
+      <link>https://www.jantsje.nl/tag/virtual-reality-experiment/</link>
     </image>
     
     <item>
       <title>After the virtual flood</title>
-      <link>/project/after-the-vr-flood/</link>
+      <link>https://www.jantsje.nl/project/after-the-vr-flood/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/project/after-the-vr-flood/</guid>
+      <guid>https://www.jantsje.nl/project/after-the-vr-flood/</guid>
       <description>&lt;h3&gt; After the virtual flood: risk perceptions and flood preparedness after virtual reality risk communication  &lt;/h3&gt; 
 &lt;p&gt;With 
 &lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
@@ -29,9 +29,9 @@ Many individuals experience problems understanding and preparing for low-probabi
     
     <item>
       <title>(Not) alone in the world: Cheating in the presence of a virtual observer</title>
-      <link>/publication/mol-2020/</link>
+      <link>https://www.jantsje.nl/publication/mol-2020/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2020/</guid>
+      <guid>https://www.jantsje.nl/publication/mol-2020/</guid>
       <description></description>
     </item>
     

@@ -88,17 +88,17 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "j.m.mol@vu.nl"
+email = "j.m.mol@uva.nl"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-address = {street = "Room NU-8A-40, De Boelelaan 1111", postcode = "1081 HV", city = "Amsterdam"}
+address = {street = "Room E7.30, Roetersstraat 11", postcode = "1018 WB", city = "Amsterdam"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.3329398", longitude = "4.8649114"}
+coordinates = {}
 
 
 # Directions for visitors to locate you.

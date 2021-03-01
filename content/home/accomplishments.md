@@ -18,48 +18,21 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+  
 [[item]]
   organization = "Teaching assistant"
   organization_url = ""
   title = "Environmental Economics for ERM (AM_468060)"
-  url = "https://studiegids.vu.nl/en/2016-2017/courses/AM_468020"
+  url = "https://studiegids.vu.nl/en/2020-2021/courses/AM_468020"
   certificate_url = ""
   date_start = "2016-10-01"
-  date_end = ""
-  description = ""
-  
+  date_end = "2020-10-01"
+  description = """This graduate course gives an introduction to the economic analysis of
+environmental problems for students in the MSc programme Environmental and Resource Management (ERM).
+I teach tutorials and interactive events, such as classroom games. I give an (online) lecture about experimental economics. I created assignments and assist in grading. I programmed several <a href="https://github.com/jantsje/classroom_pgg" target="_blank">online classroom public goods games</a>
+and an <a href="https://github.com/jantsje/classroom_aia" target="_blank">online classroom all-in-water-auction</a>."""  
 
-[[item]]
-  organization = "Teaching assistant"
-  organization_url = ""
-  title = "Environmental Economics for ERM (AM_468060)"
-  url = "https://studiegids.vu.nl/en/2017-2018/courses/AM_468020"
-  certificate_url = ""
-  date_start = "2017-10-01"
-  date_end = ""
-  description = ""
-  
 
-[[item]]
-  organization = "Teaching assistant"
-  organization_url = ""
-  title = "Environmental Economics for ERM (AM_468060)"
-  url = "https://studiegids.vu.nl/en/2018-2019/courses/AM_468020"
-  certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = "" 
-  
-[[item]]
-  organization = "Teaching assistant"
-  organization_url = ""
-  title = "Environmental Economics for ERM (AM_468060)"
-  url = "https://studiegids.vu.nl/en/2019-2020/courses/AM_468020"
-  certificate_url = ""
-  date_start = "2019-10-01"
-  date_end = ""
-  description = "" 
-  
 [[item]]
   organization = "Instructor Statistics using R"
   organization_url = ""
@@ -83,19 +56,6 @@ lab sessions in which students get familiar with statistical analysis using R.""
   description = """MSc. Environmental and Resource Management (ERM), L. Braconi, 2020. <br>
   MSc. Environmental and Resource Management (ERM), A. Carvallo, 2019. <br>
   BSc. Earth & Economics, A. Molenaar, 2018."""  
-  
-[[item]]
-  organization = "Teaching assistant"
-  organization_url = ""
-  title = "Environmental Economics for ERM (AM_468060)"
-  url = "https://studiegids.vu.nl/en/2020-2021/courses/AM_468020"
-  certificate_url = ""
-  date_start = "2020-10-01"
-  date_end = ""
-  description = """This graduate course gives an introduction to the economic analysis of
-environmental problems for students in the MSc programme Environmental and Resource Management (ERM).
-I teach tutorials and interactive events, such as classroom games. I give an (online) lecture about experimental economics. I created assignments and assist in grading. I programmed several <a href="https://github.com/jantsje/classroom_pgg" target="_blank">online classroom public goods games</a>
-and an <a href="https://github.com/jantsje/classroom_aia" target="_blank">online classroom all-in-water-auction</a>."""  
 
   
 

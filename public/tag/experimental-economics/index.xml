@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimental economics | Jantsje Mol</title>
-    <link>/tag/experimental-economics/</link>
-      <atom:link href="/tag/experimental-economics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jantsje.nl/tag/experimental-economics/</link>
+      <atom:link href="https://www.jantsje.nl/tag/experimental-economics/index.xml" rel="self" type="application/rss+xml" />
     <description>Experimental economics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Experimental economics</title>
-      <link>/tag/experimental-economics/</link>
+      <link>https://www.jantsje.nl/tag/experimental-economics/</link>
     </image>
     
     <item>
       <title>Goggles in the lab: Economic experiments in immersive virtual environments</title>
-      <link>/publication/mol-2019/</link>
+      <link>https://www.jantsje.nl/publication/mol-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2019/</guid>
+      <guid>https://www.jantsje.nl/publication/mol-2019/</guid>
       <description></description>
     </item>
     

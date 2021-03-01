@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jantsje Mol</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jantsje.nl/</link>
+      <atom:link href="https://www.jantsje.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jantsje Mol</title>
-      <link>/</link>
+      <link>https://www.jantsje.nl/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://www.jantsje.nl/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://www.jantsje.nl/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://www.jantsje.nl/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://www.jantsje.nl/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -55,26 +55,54 @@
     </item>
     
     <item>
+      <title>The importance of trust in the sharing economy</title>
+      <link>https://www.jantsje.nl/project/trustpath/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/trustpath/</guid>
+      <description>&lt;h3&gt; The importance of trust in the sharing economy &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaul Shalvi&lt;/a&gt;, 
+&lt;a href=&#34;https://sites.google.com/site/ivansoraperra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ivan Soraperra&lt;/a&gt;, 
+&lt;a href=&#34;https://www.uva.nl/en/profile/l/e/m.leib/m.leib.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Margarita Leib&lt;/a&gt;, 
+
+&lt;a href=&#34;https://behavioralethics.org/author/linh-vu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linh Vu&lt;/a&gt; and 
+&lt;a href=&#34;https://behavioralethics.org/author/catherine-molho/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Catherine Molho&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+The collaborative economy covers a variety of sectors and is rapidly emerging across Europe. Adding hundreds of billions of euro to the EU economy, it offers more choices to consumers and new opportunities to entrepreneurs. However, little is known about the bottom-up psychological factors driving the collaborative economy users’ behaviour. For responsible sharing, trust is necessary but not sufficient. The EU-funded TRUSTPATH project will develop and test a psychological theory of how people use the collaborative economy. The hypothesis is that trust encouraged without transparency can lead users to neglect the negative side effects trade has on others. The findings will advance our understanding of the psychology of the collaborative economy and inform policymakers seeking to regulate it. The results will also be useful for companies seeking to promote responsible sharing among users.&lt;/p&gt;
+&lt;p&gt;More information on the 
+&lt;a href=&#34;https://behavioralethics.org/project/trustpath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Behavioral Ethics project website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Behavioral motivations for self-insurance under different disaster risk insurance schemes</title>
-      <link>/publication/mol-2018/</link>
+      <link>https://www.jantsje.nl/publication/mol-2018/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2018/</guid>
+      <guid>https://www.jantsje.nl/publication/mol-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adequately reflecting the severity of tropical cyclones using the new Tropical Cyclone Severity Scale</title>
-      <link>/publication/bloemendaal-2020/</link>
+      <link>https://www.jantsje.nl/publication/bloemendaal-2020/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/bloemendaal-2020/</guid>
+      <guid>https://www.jantsje.nl/publication/bloemendaal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASI Seed Money Showcases</title>
+      <link>https://www.jantsje.nl/talk/interview_asi/</link>
+      <pubDate>Fri, 27 Nov 2020 15:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/interview_asi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>After the virtual flood</title>
-      <link>/project/after-the-vr-flood/</link>
+      <link>https://www.jantsje.nl/project/after-the-vr-flood/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/project/after-the-vr-flood/</guid>
+      <guid>https://www.jantsje.nl/project/after-the-vr-flood/</guid>
       <description>&lt;h3&gt; After the virtual flood: risk perceptions and flood preparedness after virtual reality risk communication  &lt;/h3&gt; 
 &lt;p&gt;With 
 &lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
@@ -87,9 +115,9 @@ Many individuals experience problems understanding and preparing for low-probabi
     
     <item>
       <title>Dag van het Gedrag (Dutch)</title>
-      <link>/talk/dvhg2020/</link>
+      <link>https://www.jantsje.nl/talk/dvhg2020/</link>
       <pubDate>Tue, 24 Nov 2020 12:15:00 +0000</pubDate>
-      <guid>/talk/dvhg2020/</guid>
+      <guid>https://www.jantsje.nl/talk/dvhg2020/</guid>
       <description>&lt;h3&gt; Dag van het Gedrag &lt;/h3&gt;
 &lt;p&gt;De Dag van het gedrag wordt jaarlijks georganiseerd door het Behavioural Insights Netwerk Nederland (BIN NL). Dit is een samenwerkingsverband van alle ministeries op het gebied van gedragswetenschappen en is bedoeld voor het uitwisselen van kennis en ervaring. Tijdens de Dag van het gedrag brengen we kennis, wetenschap en praktijkervaringen bij elkaar. We leren van opgedane ervaringen en bieden inspiratie om zelf aan de slag te gaan en nieuwe samenwerkingspartners te vinden.&lt;/p&gt;
 &lt;p&gt;De Dag van het gedrag is bedoeld voor beleidsmakers, uitvoerders, toezichthouders, wetgevingsjuristen en communicatiedeskundigen op alle overheidsniveaus, voor geïnteresseerden uit de wetenschap én professionals werkzaam bij kennisinstellingen en adviesbureaus. &lt;a href=&#34;http://www.dagvanhetgedrag.nl&#34;&gt;www.dagvanhetgedrag.nl&lt;/a&gt;&lt;/p&gt;
@@ -101,17 +129,17 @@ Many individuals experience problems understanding and preparing for low-probabi
     
     <item>
       <title>ESA 2020 (online)</title>
-      <link>/talk/esa2020/</link>
+      <link>https://www.jantsje.nl/talk/esa2020/</link>
       <pubDate>Fri, 11 Sep 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/esa2020/</guid>
+      <guid>https://www.jantsje.nl/talk/esa2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hurricane preparedness during the Covid-19 pandemic</title>
-      <link>/project/dorian-covid/</link>
+      <link>https://www.jantsje.nl/project/dorian-covid/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/dorian-covid/</guid>
+      <guid>https://www.jantsje.nl/project/dorian-covid/</guid>
       <description>&lt;h3&gt; Individual Hurricane Preparedness During the COVID-19 Pandemic: Insights for Risk Communication and Emergency Management Policies. &lt;/h3&gt; 
 &lt;p&gt;With 
 &lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt;, 
@@ -121,24 +149,22 @@ Many individuals experience problems understanding and preparing for low-probabi
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Climate change adaptation strategies should anticipate that the 2020 situation which resembles an above average hurricane season coinciding with a pandemic may occur more frequently in the future. This study draws lessons on how individual hurricane preparedness is influenced by a pandemic, which turns out to be a combination of perceptions of flood and pandemic risks that have opposite effects on preparedness behavior. We conducted three waves of surveys during 2019-2020 to monitor hurricane preparedness activities in flood-prone coastal areas in Florida, including a survey of 600 respondents in early June 2020 to obtain insights into households’ risk perceptions and preparedness for this hurricane season under COVID-19. The results show that this hurricane season is dominated by concerns over COVID-19 which influences people’s evacuation intentions. Whereas hotel costs were the main obstacle to evacuating during Hurricane Dorian in 2019, the main evacuation obstacle identified in the 2020 hurricane season is COVID-19. Our statistical analyses that investigates the factors influencing evacuation intentions consistently show that older individuals are less likely to evacuate voluntarily, because they are concerned about becoming infected by COVID-19. We discuss the implications of our findings for adaptation policies that aim to improve hurricane preparedness in situations of a pandemic, such as risk communication and emergency management policies.&lt;/p&gt;
 &lt;p&gt;[in review]&lt;/p&gt;
-&lt;p&gt;Working paper available 
-&lt;a href=&#34;https://dx.doi.org/10.2139/ssrn.3699277&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SABE 2020 (online)</title>
-      <link>/talk/sabe2020/</link>
+      <link>https://www.jantsje.nl/talk/sabe2020/</link>
       <pubDate>Wed, 22 Jul 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/sabe2020/</guid>
+      <guid>https://www.jantsje.nl/talk/sabe2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BIT Bühne gedrag en klimaat (Dutch)</title>
-      <link>/talk/bit-buhne/</link>
+      <link>https://www.jantsje.nl/talk/bit-buhne/</link>
       <pubDate>Thu, 25 Jun 2020 10:00:00 +0000</pubDate>
-      <guid>/talk/bit-buhne/</guid>
+      <guid>https://www.jantsje.nl/talk/bit-buhne/</guid>
       <description>&lt;h3&gt; Hoe stimuleer je klimaatbewust gedrag? &lt;/h3&gt;
 &lt;p&gt;Het Behavioral Insights Team (BIT) van IenW bestaat uit teamleden met een achtergrond in de gedragssociologie, -psychologie en – economie. Het team werkt vanuit een aantal prioritaire werkpakketten, zoals groene mobiliteit en klimaatadaptatie. De rol van het BIT binnen het ministerie is om doormiddel van gedragsinzichten bij te dragen aan effectief beleid. De deelnemers aan de BIT Bühne zijn beleidsmedewerkers van IenW en de uitvoeringsorganisaties van IenW.&lt;/p&gt;
 &lt;p&gt;Met de presentatie van Jantsje Mol tijdens deze kregen de deelnemers inzicht in waarom mensen zich niet voorbereiden op overstromingen. Daarnaast gaf Jantsje op basis van economische (lab) experimenten aan welke (financiële) prikkels het beste werken om mensen te motiveren om maatregelen te nemen. Voor de deelnemers was deze presentatie een verdieping op een eerdere presentatie over kansrijke gedragsinterventies.
@@ -152,82 +178,82 @@ Link naar de slides van &lt;a href=&#34;bit-jantsje.pdf&#34; target=&#34;_blank&
     
     <item>
       <title>Insights into flood risk misperceptions of homeowners in the Dutch river delta</title>
-      <link>/publication/mol-2020-b/</link>
+      <link>https://www.jantsje.nl/publication/mol-2020-b/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2020-b/</guid>
+      <guid>https://www.jantsje.nl/publication/mol-2020-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental Economics for the Environment (poster)</title>
-      <link>/talk/heidelberg2020/</link>
+      <link>https://www.jantsje.nl/talk/heidelberg2020/</link>
       <pubDate>Wed, 19 Feb 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/heidelberg2020/</guid>
+      <guid>https://www.jantsje.nl/talk/heidelberg2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk reduction in compulsory disaster insurance: Experimental evidence on moral hazard and financial incentives</title>
-      <link>/publication/mol-2019-b/</link>
+      <link>https://www.jantsje.nl/publication/mol-2019-b/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2019-b/</guid>
+      <guid>https://www.jantsje.nl/publication/mol-2019-b/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>(Not) alone in the world: Cheating in the presence of a virtual observer</title>
-      <link>/publication/mol-2020/</link>
+      <link>https://www.jantsje.nl/publication/mol-2020/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2020/</guid>
+      <guid>https://www.jantsje.nl/publication/mol-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NoBeC 2019 (poster)</title>
-      <link>/talk/nobec2019/</link>
+      <link>https://www.jantsje.nl/talk/nobec2019/</link>
       <pubDate>Fri, 18 Oct 2019 12:12:15 +0000</pubDate>
-      <guid>/talk/nobec2019/</guid>
+      <guid>https://www.jantsje.nl/talk/nobec2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BEEMA5</title>
-      <link>/talk/beema5/</link>
+      <link>https://www.jantsje.nl/talk/beema5/</link>
       <pubDate>Fri, 04 Oct 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/beema5/</guid>
+      <guid>https://www.jantsje.nl/talk/beema5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPUDM 2019 (poster)</title>
-      <link>/talk/spudm2019/</link>
+      <link>https://www.jantsje.nl/talk/spudm2019/</link>
       <pubDate>Wed, 21 Aug 2019 14:30:00 +0000</pubDate>
-      <guid>/talk/spudm2019/</guid>
+      <guid>https://www.jantsje.nl/talk/spudm2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Changing diets</title>
-      <link>/project/avocado-paradox/</link>
+      <link>https://www.jantsje.nl/project/avocado-paradox/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/avocado-paradox/</guid>
+      <guid>https://www.jantsje.nl/project/avocado-paradox/</guid>
       <description>&lt;h3&gt; Changing diets - Testing the impact of knowledge and information nudges on sustainable dietary choices &lt;/h3&gt;
 &lt;p&gt;With 
 &lt;a href=&#34;https://www.meikemorren.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meike Morren&lt;/a&gt;, 
 &lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt; and 
 &lt;a href=&#34;https://research.vu.nl/en/persons/%C5%BEiga-malek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Žiga Malek&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-A shift to more sustainable diets is needed to ensure food security and to reduce the pressure on the environment. Yet, many consumers have misconceptions about the environmental impacts of their diets and lack knowledge on how to prepare sustainable meals. This study uses a mixed-methods approach to develop four information nudges and to test their impact on dietary choices among a representative sample of Dutch consumers. A 2 X 2 between-subjects design crossing type of information (procedural versus declarative) with type of impacts (health versus environmental) is applied. The environmental impact is measured in terms of CO2 emissions, land use and water use. We find that pre-intervention knowledge about sustainable or healthy diets is related to the sustainability of participants&amp;rsquo; dietary choices. Procedural knowledge on how to prepare a healthier meal has the greatest potential to influence dietary behavior, in particular for participants without prior self-reported dietary restrictions.&lt;/p&gt;
+A shift to more sustainable diets is needed to ensure food security and to reduce the pressure on the environment. Yet, many consumers have misconceptions about the environmental impacts of their diets and lack knowledge on how to prepare sustainable meals. This study uses a mixed-methods approach to develop four information nudges and to test their impact on dietary choices among a representative sample of Dutch consumers. A 2 X 2 between-subjects design crossing type of information (procedural versus declarative) with type of impacts (health versus environmental) is applied. The environmental impact is measured in terms of CO2 emissions, land use and water use. We find that pre-intervention knowledge about sustainable or healthy diets is related to the sustainability of participants&#39; dietary choices. Procedural knowledge on how to prepare a healthier meal has the greatest potential to influence dietary behavior, in particular for participants without prior self-reported dietary restrictions.&lt;/p&gt;
 &lt;p&gt;[manuscript in review]&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Social norms for flood preparedness</title>
-      <link>/project/social-norms/</link>
+      <link>https://www.jantsje.nl/project/social-norms/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/social-norms/</guid>
+      <guid>https://www.jantsje.nl/project/social-norms/</guid>
       <description>&lt;h3&gt; All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners &lt;/h3&gt; 
 &lt;p&gt;With 
 &lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt;, 
@@ -244,41 +270,41 @@ Nudges based on social norms (norm-nudges) can be compelling behavioral interven
     
     <item>
       <title>WINK</title>
-      <link>/talk/wink-2019/</link>
+      <link>https://www.jantsje.nl/talk/wink-2019/</link>
       <pubDate>Wed, 19 Jun 2019 15:00:00 +0000</pubDate>
-      <guid>/talk/wink-2019/</guid>
+      <guid>https://www.jantsje.nl/talk/wink-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opening ASI</title>
-      <link>/talk/opening_asi/</link>
+      <link>https://www.jantsje.nl/talk/opening_asi/</link>
       <pubDate>Thu, 16 May 2019 15:00:00 +0000</pubDate>
-      <guid>/talk/opening_asi/</guid>
+      <guid>https://www.jantsje.nl/talk/opening_asi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Goggles in the lab: Economic experiments in immersive virtual environments</title>
-      <link>/publication/mol-2019/</link>
+      <link>https://www.jantsje.nl/publication/mol-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2019/</guid>
+      <guid>https://www.jantsje.nl/publication/mol-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>European conference on risk perception</title>
-      <link>/talk/paris-risk/</link>
+      <link>https://www.jantsje.nl/talk/paris-risk/</link>
       <pubDate>Wed, 13 Mar 2019 15:00:00 +0000</pubDate>
-      <guid>/talk/paris-risk/</guid>
+      <guid>https://www.jantsje.nl/talk/paris-risk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://www.jantsje.nl/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://www.jantsje.nl/slides/example/</guid>
       <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
@@ -404,24 +430,6 @@ Three
 &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

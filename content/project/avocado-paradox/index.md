@@ -14,10 +14,10 @@ summary: Changing diets - Testing the impact of knowledge and information nudges
 tags:
 - 
 title: Changing diets 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+links:
+  - name: Working paper
+    url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765248'
+
 ---
 
 <h3> Changing diets - Testing the impact of knowledge and information nudges on sustainable dietary choices </h3>

@@ -3,396 +3,416 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://www.jantsje.nl/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://www.jantsje.nl/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://www.jantsje.nl/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/jantsje-m-mol/</loc>
+    <loc>https://www.jantsje.nl/tag/information/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/project/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tag/sharing-economy/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tags/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/project/trustpath/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tag/trust/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tag/willful-ignorance/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/author/jantsje-m-mol/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>https://www.jantsje.nl/publication-type/2/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://www.jantsje.nl/authors/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/behavioral-insurance/</loc>
+    <loc>https://www.jantsje.nl/tag/behavioral-insurance/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mol-2018/</loc>
+    <loc>https://www.jantsje.nl/publication/mol-2018/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/disaster-damage-reduction/</loc>
+    <loc>https://www.jantsje.nl/tag/disaster-damage-reduction/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/flood-preparedness/</loc>
+    <loc>https://www.jantsje.nl/tag/flood-preparedness/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/homeowners/</loc>
+    <loc>https://www.jantsje.nl/tag/homeowners/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.jantsje.nl/author/julia-e-blasch/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/julia-e-blasch/</loc>
+    <loc>https://www.jantsje.nl/tag/lab-in-the-field-experiment/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/lab-in-the-field-experiment/</loc>
+    <loc>https://www.jantsje.nl/publication_types/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://www.jantsje.nl/publication/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://www.jantsje.nl/tag/self-insurance/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/self-insurance/</loc>
+    <loc>https://www.jantsje.nl/author/w-j-wouter-botzen/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/w-j-wouter-botzen/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/bloemendaal-2020/</loc>
+    <loc>https://www.jantsje.nl/publication/bloemendaal-2020/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/amy-n-polen/</loc>
+    <loc>https://www.jantsje.nl/author/amy-n-polen/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/hans-de-moel/</loc>
+    <loc>https://www.jantsje.nl/author/hans-de-moel/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/jennifer-m-collins/</loc>
+    <loc>https://www.jantsje.nl/author/jennifer-m-collins/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/nadia-bloemendaal/</loc>
+    <loc>https://www.jantsje.nl/author/nadia-bloemendaal/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/priscilla-r-m-bosma/</loc>
+    <loc>https://www.jantsje.nl/author/priscilla-r-m-bosma/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/risk-communication/</loc>
+    <loc>https://www.jantsje.nl/tag/risk-communication/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/risk-perception/</loc>
+    <loc>https://www.jantsje.nl/tag/risk-perception/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/saffir-simpson-hurricane-wind-scale/</loc>
+    <loc>https://www.jantsje.nl/tag/saffir-simpson-hurricane-wind-scale/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/tropical-cyclones/</loc>
+    <loc>https://www.jantsje.nl/tag/tropical-cyclones/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/after-the-vr-flood/</loc>
+    <loc>https://www.jantsje.nl/talk/interview_asi/</loc>
+    <lastmod>2020-11-27T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/talk/</loc>
+    <lastmod>2020-11-27T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/project/after-the-vr-flood/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://www.jantsje.nl/tag/virtual-reality-experiment/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/virtual-reality-experiment/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/dvhg2020/</loc>
+    <loc>https://www.jantsje.nl/talk/dvhg2020/</loc>
     <lastmod>2020-11-24T12:15:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-11-24T12:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/esa2020/</loc>
+    <loc>https://www.jantsje.nl/talk/esa2020/</loc>
     <lastmod>2020-09-11T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/evacuation/</loc>
+    <loc>https://www.jantsje.nl/tag/evacuation/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/hurricane-preparedness/</loc>
+    <loc>https://www.jantsje.nl/tag/hurricane-preparedness/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/dorian-covid/</loc>
+    <loc>https://www.jantsje.nl/project/dorian-covid/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/survey/</loc>
+    <loc>https://www.jantsje.nl/tag/survey/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/sabe2020/</loc>
+    <loc>https://www.jantsje.nl/talk/sabe2020/</loc>
     <lastmod>2020-07-22T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/bit-buhne/</loc>
+    <loc>https://www.jantsje.nl/talk/bit-buhne/</loc>
     <lastmod>2020-06-25T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/affect-heuristic/</loc>
+    <loc>https://www.jantsje.nl/tag/affect-heuristic/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/availability-heuristic/</loc>
+    <loc>https://www.jantsje.nl/tag/availability-heuristic/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mol-2020-b/</loc>
+    <loc>https://www.jantsje.nl/publication/mol-2020-b/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/objective-risk/</loc>
+    <loc>https://www.jantsje.nl/tag/objective-risk/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/heidelberg2020/</loc>
+    <loc>https://www.jantsje.nl/talk/heidelberg2020/</loc>
     <lastmod>2020-02-19T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/damage-reduction-measures/</loc>
+    <loc>https://www.jantsje.nl/tag/damage-reduction-measures/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/lab-experiment/</loc>
+    <loc>https://www.jantsje.nl/tag/lab-experiment/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/moral-hazard/</loc>
+    <loc>https://www.jantsje.nl/tag/moral-hazard/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/natural-disasters/</loc>
+    <loc>https://www.jantsje.nl/tag/natural-disasters/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mol-2019-b/</loc>
+    <loc>https://www.jantsje.nl/publication/mol-2019-b/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mol-2020/</loc>
+    <loc>https://www.jantsje.nl/publication/mol-2020/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/cheating/</loc>
+    <loc>https://www.jantsje.nl/tag/cheating/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/eline-c-m-van-der-heijden/</loc>
+    <loc>https://www.jantsje.nl/author/eline-c-m-van-der-heijden/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/jan-j-m-potters/</loc>
+    <loc>https://www.jantsje.nl/author/jan-j-m-potters/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/watching-eyes-effect/</loc>
+    <loc>https://www.jantsje.nl/tag/watching-eyes-effect/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/nobec2019/</loc>
+    <loc>https://www.jantsje.nl/talk/nobec2019/</loc>
     <lastmod>2019-10-18T12:12:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/beema5/</loc>
+    <loc>https://www.jantsje.nl/talk/beema5/</loc>
     <lastmod>2019-10-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spudm2019/</loc>
+    <loc>https://www.jantsje.nl/talk/spudm2019/</loc>
     <lastmod>2019-08-21T14:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/avocado-paradox/</loc>
+    <loc>https://www.jantsje.nl/project/avocado-paradox/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/norm-nudges/</loc>
+    <loc>https://www.jantsje.nl/tag/norm-nudges/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/social-information/</loc>
+    <loc>https://www.jantsje.nl/tag/social-information/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/social-norms/</loc>
+    <loc>https://www.jantsje.nl/tag/social-norms/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/social-norms/</loc>
+    <loc>https://www.jantsje.nl/project/social-norms/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/wink-2019/</loc>
+    <loc>https://www.jantsje.nl/talk/wink-2019/</loc>
     <lastmod>2019-06-19T15:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/opening_asi/</loc>
+    <loc>https://www.jantsje.nl/talk/opening_asi/</loc>
     <lastmod>2019-05-16T15:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://www.jantsje.nl/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/experimental-economics/</loc>
+    <loc>https://www.jantsje.nl/tag/experimental-economics/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mol-2019/</loc>
+    <loc>https://www.jantsje.nl/publication/mol-2019/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/high-immersive-virtual-environments/</loc>
+    <loc>https://www.jantsje.nl/tag/high-immersive-virtual-environments/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/laboratory-methods/</loc>
+    <loc>https://www.jantsje.nl/tag/laboratory-methods/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/virtual-reality/</loc>
+    <loc>https://www.jantsje.nl/tag/virtual-reality/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/paris-risk/</loc>
+    <loc>https://www.jantsje.nl/talk/paris-risk/</loc>
     <lastmod>2019-03-13T15:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://www.jantsje.nl/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://www.jantsje.nl/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://www.jantsje.nl/author/</loc>
   </url>
   
   <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>https://www.jantsje.nl/categories/</loc>
   </url>
   
 </urlset>

@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Jantsje Mol</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jantsje.nl/talk/</link>
+      <atom:link href="https://www.jantsje.nl/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Tue, 24 Nov 2020 12:15:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Fri, 27 Nov 2020 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://www.jantsje.nl/talk/</link>
     </image>
     
     <item>
+      <title>ASI Seed Money Showcases</title>
+      <link>https://www.jantsje.nl/talk/interview_asi/</link>
+      <pubDate>Fri, 27 Nov 2020 15:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/interview_asi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dag van het Gedrag (Dutch)</title>
-      <link>/talk/dvhg2020/</link>
+      <link>https://www.jantsje.nl/talk/dvhg2020/</link>
       <pubDate>Tue, 24 Nov 2020 12:15:00 +0000</pubDate>
-      <guid>/talk/dvhg2020/</guid>
+      <guid>https://www.jantsje.nl/talk/dvhg2020/</guid>
       <description>&lt;h3&gt; Dag van het Gedrag &lt;/h3&gt;
 &lt;p&gt;De Dag van het gedrag wordt jaarlijks georganiseerd door het Behavioural Insights Netwerk Nederland (BIN NL). Dit is een samenwerkingsverband van alle ministeries op het gebied van gedragswetenschappen en is bedoeld voor het uitwisselen van kennis en ervaring. Tijdens de Dag van het gedrag brengen we kennis, wetenschap en praktijkervaringen bij elkaar. We leren van opgedane ervaringen en bieden inspiratie om zelf aan de slag te gaan en nieuwe samenwerkingspartners te vinden.&lt;/p&gt;
 &lt;p&gt;De Dag van het gedrag is bedoeld voor beleidsmakers, uitvoerders, toezichthouders, wetgevingsjuristen en communicatiedeskundigen op alle overheidsniveaus, voor geïnteresseerden uit de wetenschap én professionals werkzaam bij kennisinstellingen en adviesbureaus. &lt;a href=&#34;http://www.dagvanhetgedrag.nl&#34;&gt;www.dagvanhetgedrag.nl&lt;/a&gt;&lt;/p&gt;
@@ -28,25 +36,25 @@
     
     <item>
       <title>ESA 2020 (online)</title>
-      <link>/talk/esa2020/</link>
+      <link>https://www.jantsje.nl/talk/esa2020/</link>
       <pubDate>Fri, 11 Sep 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/esa2020/</guid>
+      <guid>https://www.jantsje.nl/talk/esa2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SABE 2020 (online)</title>
-      <link>/talk/sabe2020/</link>
+      <link>https://www.jantsje.nl/talk/sabe2020/</link>
       <pubDate>Wed, 22 Jul 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/sabe2020/</guid>
+      <guid>https://www.jantsje.nl/talk/sabe2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BIT Bühne gedrag en klimaat (Dutch)</title>
-      <link>/talk/bit-buhne/</link>
+      <link>https://www.jantsje.nl/talk/bit-buhne/</link>
       <pubDate>Thu, 25 Jun 2020 10:00:00 +0000</pubDate>
-      <guid>/talk/bit-buhne/</guid>
+      <guid>https://www.jantsje.nl/talk/bit-buhne/</guid>
       <description>&lt;h3&gt; Hoe stimuleer je klimaatbewust gedrag? &lt;/h3&gt;
 &lt;p&gt;Het Behavioral Insights Team (BIT) van IenW bestaat uit teamleden met een achtergrond in de gedragssociologie, -psychologie en – economie. Het team werkt vanuit een aantal prioritaire werkpakketten, zoals groene mobiliteit en klimaatadaptatie. De rol van het BIT binnen het ministerie is om doormiddel van gedragsinzichten bij te dragen aan effectief beleid. De deelnemers aan de BIT Bühne zijn beleidsmedewerkers van IenW en de uitvoeringsorganisaties van IenW.&lt;/p&gt;
 &lt;p&gt;Met de presentatie van Jantsje Mol tijdens deze kregen de deelnemers inzicht in waarom mensen zich niet voorbereiden op overstromingen. Daarnaast gaf Jantsje op basis van economische (lab) experimenten aan welke (financiële) prikkels het beste werken om mensen te motiveren om maatregelen te nemen. Voor de deelnemers was deze presentatie een verdieping op een eerdere presentatie over kansrijke gedragsinterventies.
@@ -60,57 +68,57 @@ Link naar de slides van &lt;a href=&#34;bit-jantsje.pdf&#34; target=&#34;_blank&
     
     <item>
       <title>Experimental Economics for the Environment (poster)</title>
-      <link>/talk/heidelberg2020/</link>
+      <link>https://www.jantsje.nl/talk/heidelberg2020/</link>
       <pubDate>Wed, 19 Feb 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/heidelberg2020/</guid>
+      <guid>https://www.jantsje.nl/talk/heidelberg2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NoBeC 2019 (poster)</title>
-      <link>/talk/nobec2019/</link>
+      <link>https://www.jantsje.nl/talk/nobec2019/</link>
       <pubDate>Fri, 18 Oct 2019 12:12:15 +0000</pubDate>
-      <guid>/talk/nobec2019/</guid>
+      <guid>https://www.jantsje.nl/talk/nobec2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BEEMA5</title>
-      <link>/talk/beema5/</link>
+      <link>https://www.jantsje.nl/talk/beema5/</link>
       <pubDate>Fri, 04 Oct 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/beema5/</guid>
+      <guid>https://www.jantsje.nl/talk/beema5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPUDM 2019 (poster)</title>
-      <link>/talk/spudm2019/</link>
+      <link>https://www.jantsje.nl/talk/spudm2019/</link>
       <pubDate>Wed, 21 Aug 2019 14:30:00 +0000</pubDate>
-      <guid>/talk/spudm2019/</guid>
+      <guid>https://www.jantsje.nl/talk/spudm2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WINK</title>
-      <link>/talk/wink-2019/</link>
+      <link>https://www.jantsje.nl/talk/wink-2019/</link>
       <pubDate>Wed, 19 Jun 2019 15:00:00 +0000</pubDate>
-      <guid>/talk/wink-2019/</guid>
+      <guid>https://www.jantsje.nl/talk/wink-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opening ASI</title>
-      <link>/talk/opening_asi/</link>
+      <link>https://www.jantsje.nl/talk/opening_asi/</link>
       <pubDate>Thu, 16 May 2019 15:00:00 +0000</pubDate>
-      <guid>/talk/opening_asi/</guid>
+      <guid>https://www.jantsje.nl/talk/opening_asi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>European conference on risk perception</title>
-      <link>/talk/paris-risk/</link>
+      <link>https://www.jantsje.nl/talk/paris-risk/</link>
       <pubDate>Wed, 13 Mar 2019 15:00:00 +0000</pubDate>
-      <guid>/talk/paris-risk/</guid>
+      <guid>https://www.jantsje.nl/talk/paris-risk/</guid>
       <description></description>
     </item>
     

@@ -8,7 +8,7 @@ abstract: "This review outlines the potential of virtual reality for creating na
 featured: false
 publication: "*Journal of Behavioral and Experimental Economics*"
 tags: ["Experimental economics", "High-immersive virtual environments", "Laboratory methods", "Virtual reality"]
-url_pdf: "publication/mol-2019/postprint-mol-2019.pdf"
+url_pdf: "https://research.vu.nl/files/104538669/Gogglesinthelab_Economicexperimentsinimmersivevirtualenvironments.pdf"
 doi: "10.1016/j.socec.2019.02.007"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

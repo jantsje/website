@@ -25,9 +25,16 @@ measures and worry about flooding.
 featured: false
 tags: ["Behavioral insurance", "Moral hazard", "Lab experiment", "Natural disasters", "Damage-reduction measures"]
 publication: "*Journal of Behavioral and Experimental Economics*"
-url_pdf: "publication/mol-2019-b/postprint-mol-2019-b.pdf"
-doi: "https://doi.org/10.1016/j.socec.2019.101500"
-url_code: "https://github.com/jantsje/floodgame"
+
+
+links:
+  - name: PDF
+    url: 'https://research.vu.nl/files/123513238/Risk_reduction_in_compulsory_disaster_insurance.pdf'
+  - name: DOI
+    url: "https://doi.org/10.1016/j.socec.2019.101500"
+  - name: oTree code
+    url: "https://github.com/jantsje/floodgame"
+    
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:

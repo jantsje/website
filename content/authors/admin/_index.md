@@ -4,10 +4,13 @@ authors:
 bio: My research interests include experimental economics, behavioral economics and virtual reality.
 education:
   courses:
+  - course: PhD in Behavioral Economics
+    institution: Vrije Universiteit Amsterdam
+    year: 2021 (expected)
   - course: MSc in Cognitive and Clinical Neuroscience (Research Master, Neuroeconomics)
     institution: Maastricht University
     year: 2016
-  - course: BSc in Liberal Arts & Sciences (Social Sciences)
+  - course: BSc in Liberal Arts & Sciences
     institution: Tilburg University
     year: 2014
 email: ""
@@ -18,9 +21,9 @@ interests:
 - Virtual Reality
 name: Jantsje Mol
 organizations:
-- name: Institute for Environmental Studies, Vrije Universiteit Amsterdam
-  url: "https://ivm.vu.nl/en"
-role: PhD researcher
+- name: Department of Experimental and Political Economics, University of Amsterdam
+  url: "https://www.creedexperiment.nl/creed/"
+role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,8 +43,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD researcher in the department of Environmental Economics of the Institute for Environmental Studies (IVM) at the Vrije Universiteit Amsterdam. My main interests are experimental economics and behavioral economics. My PhD project aims at improving individual flood-preparedness by finding the determinants of individual decisions to invest in flood damage mitigation measures. 
+I am a postdoctoral researcher at [CREED](https://www.creedexperiment.nl/creed/), the Center for Research in Experimental Economics and political Decision making of the University of Amsterdam. My main interests are experimental economics and behavioral economics. 
 
-I have a research master in Neuroeconomics from Maastricht University, with a particular focus on experimental economics and behavioural economics. My PhD supervisors are [Wouter Botzen](https://research.vu.nl/en/persons/wjw-botzen) and [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch). I expect to complete my PhD at the end of 2020. 
+I have a research master in Neuroeconomics from Maastricht University, with a particular focus on experimental economics, behavioral economics and virtual reality. My PhD supervisors are [Wouter Botzen](https://research.vu.nl/en/persons/wjw-botzen) and [Julia Blasch](https://research.vu.nl/en/persons/julia-blasch). My PhD project aimed to improve individual flood-preparedness by finding the determinants of individual decisions to invest in flood damage mitigation measures. 
+*I expect to defend my dissertation in Summer 2021.*
 
-I will join the amazing team of [Shaul Shalvi](https://www.uva.nl/profiel/s/h/s.shalvi/s.shalvi.html) at [CREED](https://www.creedexperiment.nl/creed/) (University of Amsterdam) as a postdoctoral researcher in January 2021.
+Currently, I am working in the team of [Shaul Shalvi](https://www.uva.nl/profiel/s/h/s.shalvi/s.shalvi.html) on a [project](https://behavioralethics.org/project/trustpath/) studying the importance of trust in the sharing economy. 

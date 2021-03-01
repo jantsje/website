@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natural disasters | Jantsje Mol</title>
-    <link>/tag/natural-disasters/</link>
-      <atom:link href="/tag/natural-disasters/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jantsje.nl/tag/natural-disasters/</link>
+      <atom:link href="https://www.jantsje.nl/tag/natural-disasters/index.xml" rel="self" type="application/rss+xml" />
     <description>Natural disasters</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Natural disasters</title>
-      <link>/tag/natural-disasters/</link>
+      <link>https://www.jantsje.nl/tag/natural-disasters/</link>
     </image>
     
     <item>
       <title>Risk reduction in compulsory disaster insurance: Experimental evidence on moral hazard and financial incentives</title>
-      <link>/publication/mol-2019-b/</link>
+      <link>https://www.jantsje.nl/publication/mol-2019-b/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2019-b/</guid>
+      <guid>https://www.jantsje.nl/publication/mol-2019-b/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>

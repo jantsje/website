@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social information | Jantsje Mol</title>
-    <link>/tag/social-information/</link>
-      <atom:link href="/tag/social-information/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jantsje.nl/tag/social-information/</link>
+      <atom:link href="https://www.jantsje.nl/tag/social-information/index.xml" rel="self" type="application/rss+xml" />
     <description>Social information</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Social information</title>
-      <link>/tag/social-information/</link>
+      <link>https://www.jantsje.nl/tag/social-information/</link>
     </image>
     
     <item>
       <title>Social norms for flood preparedness</title>
-      <link>/project/social-norms/</link>
+      <link>https://www.jantsje.nl/project/social-norms/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/social-norms/</guid>
+      <guid>https://www.jantsje.nl/project/social-norms/</guid>
       <description>&lt;h3&gt; All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners &lt;/h3&gt; 
 &lt;p&gt;With 
 &lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt;, 

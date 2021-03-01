@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab experiment | Jantsje Mol</title>
-    <link>/tag/lab-experiment/</link>
-      <atom:link href="/tag/lab-experiment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jantsje.nl/tag/lab-experiment/</link>
+      <atom:link href="https://www.jantsje.nl/tag/lab-experiment/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab experiment</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2020</copyright><lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Lab experiment</title>
-      <link>/tag/lab-experiment/</link>
+      <link>https://www.jantsje.nl/tag/lab-experiment/</link>
     </image>
     
     <item>
       <title>Risk reduction in compulsory disaster insurance: Experimental evidence on moral hazard and financial incentives</title>
-      <link>/publication/mol-2019-b/</link>
+      <link>https://www.jantsje.nl/publication/mol-2019-b/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mol-2019-b/</guid>
+      <guid>https://www.jantsje.nl/publication/mol-2019-b/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
