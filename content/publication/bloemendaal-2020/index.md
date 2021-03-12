@@ -1,6 +1,6 @@
 ---
 title: "Adequately reflecting the severity of tropical cyclones using the new Tropical Cyclone Severity Scale"
-date: 2020-12-08
+date: 2021-01-11
 publishDate: 2020-12-07T09:11:10.439228Z
 authors: ["Nadia Bloemendaal", "Hans de Moel", "**Jantsje M Mol**", "Priscilla R M Bosma", "Amy N Polen", "Jennifer M Collins"]
 publication_types: ["2"]

@@ -5,12 +5,28 @@
     <link>https://www.jantsje.nl/project/</link>
       <atom:link href="https://www.jantsje.nl/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://www.jantsje.nl/project/</link>
     </image>
+    
+    <item>
+      <title>Changing diets</title>
+      <link>https://www.jantsje.nl/project/avocado-paradox/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/avocado-paradox/</guid>
+      <description>&lt;h3&gt; Changing diets - Testing the impact of knowledge and information nudges on sustainable dietary choices &lt;/h3&gt;
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.meikemorren.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meike Morren&lt;/a&gt;, 
+&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt; and 
+&lt;a href=&#34;https://research.vu.nl/en/persons/%C5%BEiga-malek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Žiga Malek&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+A shift to more sustainable diets is needed to ensure food security and to reduce the pressure on the environment. Yet, many consumers have misconceptions about the environmental impacts of their diets and lack knowledge on how to prepare sustainable meals. This study uses a mixed-methods approach to develop four information nudges and to test their impact on dietary choices among a representative sample of Dutch consumers. A 2 X 2 between-subjects design crossing type of information (procedural versus declarative) with type of impacts (health versus environmental) is applied. The environmental impact is measured in terms of CO2 emissions, land use and water use. We find that pre-intervention knowledge about sustainable or healthy diets is related to the sustainability of participants&#39; dietary choices. Procedural knowledge on how to prepare a healthier meal has the greatest potential to influence dietary behavior, in particular for participants without prior self-reported dietary restrictions.&lt;/p&gt;
+&lt;p&gt;[manuscript in review]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The importance of trust in the sharing economy</title>
@@ -61,22 +77,6 @@ Many individuals experience problems understanding and preparing for low-probabi
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Climate change adaptation strategies should anticipate that the 2020 situation which resembles an above average hurricane season coinciding with a pandemic may occur more frequently in the future. This study draws lessons on how individual hurricane preparedness is influenced by a pandemic, which turns out to be a combination of perceptions of flood and pandemic risks that have opposite effects on preparedness behavior. We conducted three waves of surveys during 2019-2020 to monitor hurricane preparedness activities in flood-prone coastal areas in Florida, including a survey of 600 respondents in early June 2020 to obtain insights into households’ risk perceptions and preparedness for this hurricane season under COVID-19. The results show that this hurricane season is dominated by concerns over COVID-19 which influences people’s evacuation intentions. Whereas hotel costs were the main obstacle to evacuating during Hurricane Dorian in 2019, the main evacuation obstacle identified in the 2020 hurricane season is COVID-19. Our statistical analyses that investigates the factors influencing evacuation intentions consistently show that older individuals are less likely to evacuate voluntarily, because they are concerned about becoming infected by COVID-19. We discuss the implications of our findings for adaptation policies that aim to improve hurricane preparedness in situations of a pandemic, such as risk communication and emergency management policies.&lt;/p&gt;
 &lt;p&gt;[in review]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Changing diets</title>
-      <link>https://www.jantsje.nl/project/avocado-paradox/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/avocado-paradox/</guid>
-      <description>&lt;h3&gt; Changing diets - Testing the impact of knowledge and information nudges on sustainable dietary choices &lt;/h3&gt;
-&lt;p&gt;With 
-&lt;a href=&#34;https://www.meikemorren.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meike Morren&lt;/a&gt;, 
-&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt; and 
-&lt;a href=&#34;https://research.vu.nl/en/persons/%C5%BEiga-malek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Žiga Malek&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-A shift to more sustainable diets is needed to ensure food security and to reduce the pressure on the environment. Yet, many consumers have misconceptions about the environmental impacts of their diets and lack knowledge on how to prepare sustainable meals. This study uses a mixed-methods approach to develop four information nudges and to test their impact on dietary choices among a representative sample of Dutch consumers. A 2 X 2 between-subjects design crossing type of information (procedural versus declarative) with type of impacts (health versus environmental) is applied. The environmental impact is measured in terms of CO2 emissions, land use and water use. We find that pre-intervention knowledge about sustainable or healthy diets is related to the sustainability of participants&#39; dietary choices. Procedural knowledge on how to prepare a healthier meal has the greatest potential to influence dietary behavior, in particular for participants without prior self-reported dietary restrictions.&lt;/p&gt;
-&lt;p&gt;[manuscript in review]&lt;/p&gt;
 </description>
     </item>
     

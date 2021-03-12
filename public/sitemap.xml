@@ -18,17 +18,22 @@
   </url>
   
   <url>
-    <loc>https://www.jantsje.nl/tag/information/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+    <loc>https://www.jantsje.nl/project/avocado-paradox/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.jantsje.nl/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.jantsje.nl/project/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tag/information/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,17 +64,77 @@
   
   <url>
     <loc>https://www.jantsje.nl/author/jantsje-m-mol/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.jantsje.nl/publication-type/2/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/publication/bloemendaal-2020/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/author/amy-n-polen/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.jantsje.nl/authors/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/author/hans-de-moel/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/author/jennifer-m-collins/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/author/nadia-bloemendaal/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/author/priscilla-r-m-bosma/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/publication_types/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/publication/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tag/risk-communication/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tag/risk-perception/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tag/saffir-simpson-hurricane-wind-scale/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tag/tropical-cyclones/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -108,16 +173,6 @@
   </url>
   
   <url>
-    <loc>https://www.jantsje.nl/publication_types/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/publication/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jantsje.nl/tag/self-insurance/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
@@ -125,56 +180,6 @@
   <url>
     <loc>https://www.jantsje.nl/author/w-j-wouter-botzen/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/publication/bloemendaal-2020/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/amy-n-polen/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/hans-de-moel/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/jennifer-m-collins/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/nadia-bloemendaal/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/priscilla-r-m-bosma/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/tag/risk-communication/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/tag/risk-perception/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/tag/saffir-simpson-hurricane-wind-scale/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/tag/tropical-cyclones/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -325,11 +330,6 @@
   <url>
     <loc>https://www.jantsje.nl/talk/spudm2019/</loc>
     <lastmod>2019-08-21T14:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/project/avocado-paradox/</loc>
-    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
