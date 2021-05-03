@@ -9,8 +9,20 @@ abstract: "A shift to more sustainable diets is needed to ensure food security a
 featured: true
 publication: "*Journal of Environmental Psychology*"
 tags: ["Food choices", "Declarative knowledge", "Procedural knowledge", "Health motivations", "Environmental motivations"]
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0272494421000633/pdfft?md5=72737ce0d3bc287c3f29f6c387ac71f1&pid=1-s2.0-S0272494421000633-main.pdf"
-doi: "https://doi.org/10.1016/j.jenvp.2021.101610"
+
+links:
+  - name: PDF
+    url: 'https://www.sciencedirect.com/science/article/pii/S0272494421000633/pdfft?md5=72737ce0d3bc287c3f29f6c387ac71f1&pid=1-s2.0-S0272494421000633-main.pdf'  
+  - name: DOI
+    url: "https://doi.org/10.1016/j.jenvp.2021.101610"
+  - name: Analysis code
+    url: 'https://ars.els-cdn.com/content/image/1-s2.0-S0272494421000633-mmc5.zip'
+  - name: LCA data
+    url: https://ars.els-cdn.com/content/image/1-s2.0-S0272494421000633-mmc4.xlsx
+
+
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
