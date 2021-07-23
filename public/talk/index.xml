@@ -5,12 +5,44 @@
     <link>https://www.jantsje.nl/talk/</link>
       <atom:link href="https://www.jantsje.nl/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Fri, 27 Nov 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Sun, 22 Aug 2021 14:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://www.jantsje.nl/talk/</link>
     </image>
+    
+    <item>
+      <title>SPUDM 2021 (online)</title>
+      <link>https://www.jantsje.nl/talk/spudm2021/</link>
+      <pubDate>Sun, 22 Aug 2021 14:30:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/spudm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIBER 2021 (poster)</title>
+      <link>https://www.jantsje.nl/talk/tiber2021/</link>
+      <pubDate>Fri, 20 Aug 2021 09:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/tiber2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESA 2021 (online)</title>
+      <link>https://www.jantsje.nl/talk/esa2021/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/esa2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veganism Paradigm Shift</title>
+      <link>https://www.jantsje.nl/talk/veganism/</link>
+      <pubDate>Wed, 19 May 2021 15:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/veganism/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ASI Seed Money Showcases</title>

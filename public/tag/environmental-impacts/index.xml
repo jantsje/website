@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environmental impacts | Jantsje Mol</title>
+    <link>https://www.jantsje.nl/tag/environmental-impacts/</link>
+      <atom:link href="https://www.jantsje.nl/tag/environmental-impacts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Environmental impacts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_2.png</url>
+      <title>Environmental impacts</title>
+      <link>https://www.jantsje.nl/tag/environmental-impacts/</link>
+    </image>
+    
+    <item>
+      <title>Meat opinions</title>
+      <link>https://www.jantsje.nl/project/meat-opinions/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/meat-opinions/</guid>
+      <description>&lt;h3&gt; Meat opinions - Exploring unconscious reasons for resistance towards a plant-based diet  &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;www.meikemorren.com&#34;&gt;Meike Morren&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Despite the increased availability of plant-based products, a large group of consumers eats meat and dairy every day, unaware of the impact on environment and health. Increasing awareness is important, but ineffective without procedural knowledge (such as recipes) on how to change this diet. Furthermore, the global challenge to provide sustainable food security to a growing population cannot be tackled by a focus on consumers who are already transitioning to a plant-based diet. This project targets the heaviest meat-eaters and tests the most effective way to make them part of the solution. Despite the evident benefits, many people do not even consider changing to a plant-based diet and meat, dairy and egg consumption continues to increase worldwide. These consumers likely ignore information as it does not align with their beliefs. 
+We will obtain insights into the origins of resistance towards a plant-based diet using in-depth interviews and text mining of blogs, pod casts and internet forums. We will gather podcast transcripts, reviews and remarks about meat versus plant-based diets posed on fora such as Quora through web scraping. This way, we will create a database of texts (i.e. referred to as documents) in which the underlying resistance towards a plant-based diet is discussed openly.&lt;/p&gt;
+&lt;p&gt;First, we will identify the topics being discussed repeatedly across the collected documents using an unsupervised machine learning model such as Latent Dirichlet Allocation (Blei et al., 2003). LDA allows us to gather topics that are mentioned in multiple documents. Next, using advanced natural language processing models, such as BERT (Devlin et al., 2018), and recent advances such as GoEmotions (Demszky et al., 2021) we will attempt to discover the emotions underlying a resistance towards a plant-based diet. Finally, we will survey the general population to examine the interplay of current diet, emotions and arguments for underlying resistance to transition to a plant-based diet. We will apply a novel method that we recently developed to measure actual environmental impacts of current diet (Morren et al., 2021). This method is suitable for internet-based surveys in the general population.&lt;/p&gt;
+&lt;p&gt;Our research aims to explain why certain people resist a plant-based diet. As meat-eaters are responsible for a large share of environmental impacts, there is a lot to be gained. We will deliver specific recommendations to policy makers about the most promising type of message to encourage heavy meat-eaters to transition to a plant-based diet.&lt;/p&gt;
+&lt;p&gt;[in data collection phase]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

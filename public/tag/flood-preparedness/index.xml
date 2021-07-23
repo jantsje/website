@@ -5,12 +5,20 @@
     <link>https://www.jantsje.nl/tag/flood-preparedness/</link>
       <atom:link href="https://www.jantsje.nl/tag/flood-preparedness/index.xml" rel="self" type="application/rss+xml" />
     <description>Flood preparedness</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_2.png</url>
       <title>Flood preparedness</title>
       <link>https://www.jantsje.nl/tag/flood-preparedness/</link>
     </image>
+    
+    <item>
+      <title>All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners</title>
+      <link>https://www.jantsje.nl/publication/mol-2021/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/mol-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Behavioral motivations for self-insurance under different disaster risk insurance schemes</title>
@@ -41,25 +49,6 @@ Many individuals experience problems understanding and preparing for low-probabi
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/publication/mol-2020-b/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Social norms for flood preparedness</title>
-      <link>https://www.jantsje.nl/project/social-norms/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/social-norms/</guid>
-      <description>&lt;h3&gt; All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt;, 
-&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;, 
-&lt;a href=&#34;https://riskcenter.wharton.upenn.edu/elissa-kranzler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elissa Kranzler&lt;/a&gt; and 
-&lt;a href=&#34;https://oid.wharton.upenn.edu/profile/kunreuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Kunreuther&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Nudges based on social norms (norm-nudges) can be compelling behavioral interventions compared to traditional interventions such as taxes and regulations, but they do not work in all circumstances. We tested two empirical norm-nudge frames in an online experiment on taking measures for flood preparedness with large samples of homeowners (N = 1805) in two European countries, to evaluate the possible interactions between norm-nudge effectiveness, individual characteristics and intercultural differences. We contrasted these norm-nudge treatments with a control and norm focusing treatment by asking respondents to express their beliefs about what other respondents would do before making a decision relevant to their own payoff. We find no evidence of a treatment effect, suggesting that our social norm-nudges do not affect flood preparedness in the context of a flood risk investment game.&lt;/p&gt;
-&lt;p&gt;[revise &amp;amp; resubmit]&lt;/p&gt;
-&lt;p&gt;Working paper available 
-&lt;a href=&#34;https://dx.doi.org/10.2139/ssrn.3616189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

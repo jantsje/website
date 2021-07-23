@@ -5,9 +5,9 @@
     <link>https://www.jantsje.nl/</link>
       <atom:link href="https://www.jantsje.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Sun, 22 Aug 2021 14:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_2.png</url>
       <title>Jantsje Mol</title>
       <link>https://www.jantsje.nl/</link>
     </image>
@@ -52,6 +52,63 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>SPUDM 2021 (online)</title>
+      <link>https://www.jantsje.nl/talk/spudm2021/</link>
+      <pubDate>Sun, 22 Aug 2021 14:30:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/spudm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIBER 2021 (poster)</title>
+      <link>https://www.jantsje.nl/talk/tiber2021/</link>
+      <pubDate>Fri, 20 Aug 2021 09:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/tiber2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESA 2021 (online)</title>
+      <link>https://www.jantsje.nl/talk/esa2021/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/esa2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meat opinions</title>
+      <link>https://www.jantsje.nl/project/meat-opinions/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/meat-opinions/</guid>
+      <description>&lt;h3&gt; Meat opinions - Exploring unconscious reasons for resistance towards a plant-based diet  &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;www.meikemorren.com&#34;&gt;Meike Morren&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Despite the increased availability of plant-based products, a large group of consumers eats meat and dairy every day, unaware of the impact on environment and health. Increasing awareness is important, but ineffective without procedural knowledge (such as recipes) on how to change this diet. Furthermore, the global challenge to provide sustainable food security to a growing population cannot be tackled by a focus on consumers who are already transitioning to a plant-based diet. This project targets the heaviest meat-eaters and tests the most effective way to make them part of the solution. Despite the evident benefits, many people do not even consider changing to a plant-based diet and meat, dairy and egg consumption continues to increase worldwide. These consumers likely ignore information as it does not align with their beliefs. 
+We will obtain insights into the origins of resistance towards a plant-based diet using in-depth interviews and text mining of blogs, pod casts and internet forums. We will gather podcast transcripts, reviews and remarks about meat versus plant-based diets posed on fora such as Quora through web scraping. This way, we will create a database of texts (i.e. referred to as documents) in which the underlying resistance towards a plant-based diet is discussed openly.&lt;/p&gt;
+&lt;p&gt;First, we will identify the topics being discussed repeatedly across the collected documents using an unsupervised machine learning model such as Latent Dirichlet Allocation (Blei et al., 2003). LDA allows us to gather topics that are mentioned in multiple documents. Next, using advanced natural language processing models, such as BERT (Devlin et al., 2018), and recent advances such as GoEmotions (Demszky et al., 2021) we will attempt to discover the emotions underlying a resistance towards a plant-based diet. Finally, we will survey the general population to examine the interplay of current diet, emotions and arguments for underlying resistance to transition to a plant-based diet. We will apply a novel method that we recently developed to measure actual environmental impacts of current diet (Morren et al., 2021). This method is suitable for internet-based surveys in the general population.&lt;/p&gt;
+&lt;p&gt;Our research aims to explain why certain people resist a plant-based diet. As meat-eaters are responsible for a large share of environmental impacts, there is a lot to be gained. We will deliver specific recommendations to policy makers about the most promising type of message to encourage heavy meat-eaters to transition to a plant-based diet.&lt;/p&gt;
+&lt;p&gt;[in data collection phase]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Veganism Paradigm Shift</title>
+      <link>https://www.jantsje.nl/talk/veganism/</link>
+      <pubDate>Wed, 19 May 2021 15:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/veganism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners</title>
+      <link>https://www.jantsje.nl/publication/mol-2021/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/mol-2021/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -239,25 +296,6 @@ Link naar de slides van &lt;a href=&#34;bit-jantsje.pdf&#34; target=&#34;_blank&
       <pubDate>Wed, 21 Aug 2019 14:30:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/talk/spudm2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Social norms for flood preparedness</title>
-      <link>https://www.jantsje.nl/project/social-norms/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/social-norms/</guid>
-      <description>&lt;h3&gt; All by myself? Testing descriptive social norm-nudges to increase flood preparedness among homeowners &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt;, 
-&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;, 
-&lt;a href=&#34;https://riskcenter.wharton.upenn.edu/elissa-kranzler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elissa Kranzler&lt;/a&gt; and 
-&lt;a href=&#34;https://oid.wharton.upenn.edu/profile/kunreuth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Kunreuther&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Nudges based on social norms (norm-nudges) can be compelling behavioral interventions compared to traditional interventions such as taxes and regulations, but they do not work in all circumstances. We tested two empirical norm-nudge frames in an online experiment on taking measures for flood preparedness with large samples of homeowners (N = 1805) in two European countries, to evaluate the possible interactions between norm-nudge effectiveness, individual characteristics and intercultural differences. We contrasted these norm-nudge treatments with a control and norm focusing treatment by asking respondents to express their beliefs about what other respondents would do before making a decision relevant to their own payoff. We find no evidence of a treatment effect, suggesting that our social norm-nudges do not affect flood preparedness in the context of a flood risk investment game.&lt;/p&gt;
-&lt;p&gt;[revise &amp;amp; resubmit]&lt;/p&gt;
-&lt;p&gt;Working paper available 
-&lt;a href=&#34;https://dx.doi.org/10.2139/ssrn.3616189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
