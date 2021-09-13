@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "10 September 2021"
@@ -33,15 +33,17 @@ title = "10 September 2021"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
-#   url = "https://www.youtube.com/channel/UCnN8TaVYe83472ewz9CH9HA"
-#   label = "Watch live"
-#   icon_pack = "fas"
-#   icon = "play"
-  
 [cta]
-  url = "https://research.vu.nl/en/publications/improving-flood-preparedness-using-insights-from-economic-experim"
-  label = "Get a PDF at the library"
+  url = "https://www.youtube.com/c/VUBeadlesOffice/"
+  label = "Watch the defense live on YouTube"
+  icon_pack = "fas"
+  icon = "play"
+  
+# [cta]
+#   url = "https://research.vu.nl/en/publications/improving-flood-preparedness-using-insights-from-economic-experim"
+#   label = "Get a PDF at the library"
+  
+
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
@@ -49,5 +51,5 @@ title = "10 September 2021"
 +++
 
 I will defend my thesis in the Aula of Vrije Universiteit Amsterdam at 1.45 pm.
-
+Get a PDF of the thesis [here](https://research.vu.nl/en/publications/improving-flood-preparedness-using-insights-from-economic-experim).
 

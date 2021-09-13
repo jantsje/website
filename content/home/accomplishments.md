@@ -17,6 +17,15 @@ date_format = "2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "Lecturer and co-ordinator"
+  organization_url = ""
+  title = "Climate Change Economics"
+  url = "https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/92936"
+  certificate_url = ""
+  date_start = "2022-01-01"
+  date_end = ""
+  description = """By the end of this course the students must be able to use economic tools to measure the impact of climate change and to determine the best policies to combat it. Lectures will cover a wide range of topics, including the link between the economic and climate systems, methods used to discount the future, the risk of disasters and irreversibilities, and many more."""  
 
   
 [[item]]
@@ -51,11 +60,11 @@ lab sessions in which students get familiar with statistical analysis using R.""
   title = "Theses supervision"
   url = ""
   certificate_url = ""
-  date_start = "2018-11-01"
-  date_end = "2020-06-01"
-  description = """MSc. Environmental and Resource Management (ERM), L. Braconi, 2020. <br>
-  MSc. Environmental and Resource Management (ERM), A. Carvallo, 2019. <br>
-  BSc. Earth & Economics, A. Molenaar, 2018."""  
+  date_start = "2018-12-09"
+  date_end = "2021-12-30"
+  description = """2021 - present &nbsp;&nbsp;&nbsp;&nbsp;		University of Amsterdam: MSc. Economics & Business (7 students) <br>
+2018- 2020		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VU Amsterdam: MSc. Environmental Resource Management (2 students) and BSc. Earth & Economics (1 student)
+"""  
 
   
 
