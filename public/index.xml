@@ -5,9 +5,9 @@
     <link>https://www.jantsje.nl/</link>
       <atom:link href="https://www.jantsje.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
       <title>Jantsje Mol</title>
       <link>https://www.jantsje.nl/</link>
     </image>
@@ -55,11 +55,24 @@
     </item>
     
     <item>
+      <title>Individual hurricane evacuation intentions during the COVID-19 pandemic: insights for risk communication and emergency management policies</title>
+      <link>https://www.jantsje.nl/publication/botzen-2021/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/botzen-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving flood preparedness using insights from economic experiments</title>
       <link>https://www.jantsje.nl/publication/mol-2021-thesis/</link>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/publication/mol-2021-thesis/</guid>
-      <description></description>
+      <description>&lt;p&gt;You can find the PDF of the full thesis 
+&lt;a href=&#34;https://research.vu.nl/en/publications/improving-flood-preparedness-using-insights-from-economic-experim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and you can watch the 10 minute (English) summary here:&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/610548300&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;A one hour interview (in Dutch) about the thesis can be found here:&lt;/p&gt;
+&lt;iframe src=&#34;https://content.omroep.nl/arla/p/npo/visualradio/nporadio1_vsr/2021/9/28/nporadio1_vsr-20210928-013700-003lqp.mp4&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
     </item>
     
     <item>
@@ -201,7 +214,8 @@ Many individuals experience problems understanding and preparing for low-probabi
       <guid>https://www.jantsje.nl/talk/dvhg2020/</guid>
       <description>&lt;h3&gt; Dag van het Gedrag &lt;/h3&gt;
 &lt;p&gt;De Dag van het gedrag wordt jaarlijks georganiseerd door het Behavioural Insights Netwerk Nederland (BIN NL). Dit is een samenwerkingsverband van alle ministeries op het gebied van gedragswetenschappen en is bedoeld voor het uitwisselen van kennis en ervaring. Tijdens de Dag van het gedrag brengen we kennis, wetenschap en praktijkervaringen bij elkaar. We leren van opgedane ervaringen en bieden inspiratie om zelf aan de slag te gaan en nieuwe samenwerkingspartners te vinden.&lt;/p&gt;
-&lt;p&gt;De Dag van het gedrag is bedoeld voor beleidsmakers, uitvoerders, toezichthouders, wetgevingsjuristen en communicatiedeskundigen op alle overheidsniveaus, voor geïnteresseerden uit de wetenschap én professionals werkzaam bij kennisinstellingen en adviesbureaus. &lt;a href=&#34;http://www.dagvanhetgedrag.nl&#34;&gt;www.dagvanhetgedrag.nl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;De Dag van het gedrag is bedoeld voor beleidsmakers, uitvoerders, toezichthouders, wetgevingsjuristen en communicatiedeskundigen op alle overheidsniveaus, voor geïnteresseerden uit de wetenschap én professionals werkzaam bij kennisinstellingen en adviesbureaus. 
+&lt;a href=&#34;http://www.dagvanhetgedrag.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.dagvanhetgedrag.nl&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt; Sessie: Klimaatbewust gedrag bij huiseigenaren&lt;/h3&gt;
 &lt;p&gt;Uit onderzoek blijkt dat er veel obstakels zijn die klimaatbewust gedrag in de weg staan. Hoe kunnen we klimaatbewust gedrag het beste sturen? In deze sessie wordt eerst kort de theoretische kant belicht. Daarna zullen we de resultaten van verschillende onderzoeken presenteren, waarin lab- en veldexperimenten zijn gebruikt om te testen hoe bepaalde prikkels klimaatbewust gedrag kunnen stimuleren. Als afsluiting zullen beide sprekers reflecteren op de vraag; waar en hoe werken wetenschap en beleid op dit thema het beste samen?&lt;/p&gt;
 &lt;h3&gt;Video terugkijken&lt;/h3&gt;
@@ -214,23 +228,6 @@ Many individuals experience problems understanding and preparing for low-probabi
       <pubDate>Fri, 11 Sep 2020 09:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/talk/esa2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hurricane preparedness during the Covid-19 pandemic</title>
-      <link>https://www.jantsje.nl/project/dorian-covid/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/dorian-covid/</guid>
-      <description>&lt;h3&gt; Individual Hurricane Preparedness During the COVID-19 Pandemic: Insights for Risk Communication and Emergency Management Policies. &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt;, 
-&lt;a href=&#34;https://research.vu.nl/en/persons/peter-john-robinson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Robinson&lt;/a&gt;, 
-&lt;a href=&#34;https://sites.google.com/temple.edu/juan-zhang/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Juan Zhang&lt;/a&gt; and 
-&lt;a href=&#34;http://media.iccsafe.org/2019_ICC_AnCon/docs/Bio_J_Czajkowski.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeffrey Czajkowski&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Climate change adaptation strategies should anticipate that the 2020 situation which resembles an above average hurricane season coinciding with a pandemic may occur more frequently in the future. This study draws lessons on how individual hurricane preparedness is influenced by a pandemic, which turns out to be a combination of perceptions of flood and pandemic risks that have opposite effects on preparedness behavior. We conducted three waves of surveys during 2019-2020 to monitor hurricane preparedness activities in flood-prone coastal areas in Florida, including a survey of 600 respondents in early June 2020 to obtain insights into households’ risk perceptions and preparedness for this hurricane season under COVID-19. The results show that this hurricane season is dominated by concerns over COVID-19 which influences people’s evacuation intentions. Whereas hotel costs were the main obstacle to evacuating during Hurricane Dorian in 2019, the main evacuation obstacle identified in the 2020 hurricane season is COVID-19. Our statistical analyses that investigates the factors influencing evacuation intentions consistently show that older individuals are less likely to evacuate voluntarily, because they are concerned about becoming infected by COVID-19. We discuss the implications of our findings for adaptation policies that aim to improve hurricane preparedness in situations of a pandemic, such as risk communication and emergency management policies.&lt;/p&gt;
-&lt;p&gt;[in review]&lt;/p&gt;
-</description>
     </item>
     
     <item>
