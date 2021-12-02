@@ -5,7 +5,7 @@
     <link>https://www.jantsje.nl/</link>
       <atom:link href="https://www.jantsje.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Tue, 16 Nov 2021 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
       <title>Jantsje Mol</title>
@@ -51,6 +51,54 @@
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supply of willful ignorance</title>
+      <link>https://www.jantsje.nl/project/the-button/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/the-button/</guid>
+      <description>&lt;h3&gt; You wouldn&#39;t want to know. Experimental evidence about the supply of willful ignorance in a simple button game &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaul Shalvi&lt;/a&gt;, 
+&lt;a href=&#34;https://sites.google.com/site/ivansoraperra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ivan Soraperra&lt;/a&gt; and 
+&lt;a href=&#34;https://sites.google.com/site/joelvdweele/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël van der Weele&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Many people would rather not tell their friends that their decisions can negatively affect a third party, for example by explaining the environmental harm of meat consumption. This paper examines under which circumstances people are willing to interfere by sharing or hiding information: in other words, the supply of willful ignorance. We use a simple online experiment to explore three possible concerns in this situation: own payoffs, charity payoffs and concerns about the decision maker. We developed a new two-person sender-receiver game in which the Receiver decides between a default option with fixed payoffs for self and charity versus an alternative which yields a slightly higher payoff to self, but uncertain payoffs for charity. Senders can send a message with the true value of charity payoff, or suppress such inconvenient information to ‘help’ decision makers staying ignorant. We measure the impact of the three concerns and their relationships with different treatments in a large pre-registered online experiment, controlling for charity preference and the size of the externality.&lt;/p&gt;
+&lt;p&gt;[in design phase]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information design in matching problems</title>
+      <link>https://www.jantsje.nl/project/task-matching/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/task-matching/</guid>
+      <description>&lt;h3&gt; Information design in matching problems: Evidence from an online experiment &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.lenkafiala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lenka Fiala&lt;/a&gt; and 
+&lt;a href=&#34;https://sites.google.com/view/sulagna/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sulagna Dasgupta&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+In one-sided matching settings such as school choice and task allocation, objects are allocated to agents based on agent preferences. However, agents may not always know, a priori, their preferences over the objects, because they do not have enough information. In this context, we experimentally investigate the question: How should a benevolent planner optimally reveal information to the agents to maximize welfare? To this end, we conduct an online experiment to test the theoretical predictions of 
+&lt;a href=&#34;https://drive.google.com/file/d/1yedWFi3ijiKn9zaFUU8BQPFjy-iwAc2l/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dasgupta (2020)&lt;/a&gt; who proposes recommendations, and identify behavioral explanations in case of a possible mismatch between model and behavior in the experiment.&lt;/p&gt;
+&lt;p&gt;[in testing phase]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testing a new hurricane scale</title>
+      <link>https://www.jantsje.nl/project/testing-new-storm-scale/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/testing-new-storm-scale/</guid>
+      <description>&lt;h3&gt; An experimental test of risk perceptions under a new hurricane classification system &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://research.vu.nl/en/persons/nadia-bloemendaal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nadia Bloemendaal&lt;/a&gt; and 
+&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amy Polen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+During a hurricane, it is vital that individuals receive communications that are easy to process and provide sufficient information to allow informed hurricane evacuation decisions and prevent loss of life. Without satisfactory and complete information, an individual is likely to miscalculate their personal risk or even potentially be moved to inaction. However, much recent research has shown an over-reliance on the currently-utilized Saffir-Simpson Hurricane Wind Scale (SSHWS) despite the fact that it only captures one aspect of a hurricane: the wind threat. Communications campaigns have been attempting to bridge this divide by providing additional information, but the importance of a category cannot be escaped. As such, researchers have begun to formulate more holistic hurricane classification systems that account for water-based hazards, the biggest killer in hurricane events. These scales have not been previously tested on a large scale to determine their usability and clarity as a practical risk communication tool. This study will observe the efficacy of the Tropical Cyclone Severity Scale, or TCSS 
+&lt;a href=&#34;https://www.jantsje.nl/publication/bloemendaal-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bloemendaal et al., 2021&lt;/a&gt;, in practice and its viability as a wide-reaching communications tool. Utilizing surveys and online experiments, we will identify potential differences in comprehension, risk perception, and anticipated evacuation decisions between the current SSHWS and the new TCSS. The information gained from this study will be leveraged to influence emergency planning and risk communication in the formation of a nationwide scale that best serves the public.&lt;/p&gt;
+&lt;p&gt;[in design phase]&lt;/p&gt;
 </description>
     </item>
     
@@ -198,21 +246,6 @@ The collaborative economy covers a variety of sectors and is rapidly emerging ac
       <pubDate>Fri, 27 Nov 2020 15:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/talk/interview_asi/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>After the virtual flood</title>
-      <link>https://www.jantsje.nl/project/after-the-vr-flood/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/after-the-vr-flood/</guid>
-      <description>&lt;h3&gt; After the virtual flood: risk perceptions and flood preparedness after virtual reality risk communication  &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt; and 
-&lt;a href=&#34;https://research.vu.nl/en/persons/julia-blasch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Blasch&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Many individuals experience problems understanding and preparing for lowprobability/high-impact risk, like natural disasters and pandemics – unless they experience these events, yet then it is often too late to avoid damages. Individuals with recent disaster risk experience are, on average, better prepared. This seems to be mediated through emotions and a better understanding of the consequences. In this study, we use immersive virtual reality (VR) technology to examine whether a simulated disaster can stimulate people to invest in risk reducing measures in the context of flooding, which is one of the deadliest and most damaging natural disasters in the world. We investigate the possibility to boost risk perception, coping appraisal, negative emotions and damage-reducing behavior through a simulated flooding experience. We find that participants who experienced the virtual flood invest significantly more in the flood risk investment game than those in the control group. The investments in the VR treatment seem to decrease after four weeks but not significantly so.&lt;/p&gt;
-&lt;p&gt;[accepted at Judgment and Decision Making]&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/482506190&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>

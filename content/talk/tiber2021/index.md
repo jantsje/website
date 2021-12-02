@@ -18,7 +18,7 @@ links:
 location: Tilburg (NL)
 math: true
 projects: 
-- trustpath
+- the-button
 publishDate: "2021-07-01T00:00:00Z"
 slides:
 poster:

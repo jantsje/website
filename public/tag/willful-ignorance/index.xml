@@ -5,12 +5,28 @@
     <link>https://www.jantsje.nl/tag/willful-ignorance/</link>
       <atom:link href="https://www.jantsje.nl/tag/willful-ignorance/index.xml" rel="self" type="application/rss+xml" />
     <description>Willful ignorance</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2021</copyright><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
       <title>Willful ignorance</title>
       <link>https://www.jantsje.nl/tag/willful-ignorance/</link>
     </image>
+    
+    <item>
+      <title>Supply of willful ignorance</title>
+      <link>https://www.jantsje.nl/project/the-button/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/the-button/</guid>
+      <description>&lt;h3&gt; You wouldn&#39;t want to know. Experimental evidence about the supply of willful ignorance in a simple button game &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaul Shalvi&lt;/a&gt;, 
+&lt;a href=&#34;https://sites.google.com/site/ivansoraperra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ivan Soraperra&lt;/a&gt; and 
+&lt;a href=&#34;https://sites.google.com/site/joelvdweele/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël van der Weele&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Many people would rather not tell their friends that their decisions can negatively affect a third party, for example by explaining the environmental harm of meat consumption. This paper examines under which circumstances people are willing to interfere by sharing or hiding information: in other words, the supply of willful ignorance. We use a simple online experiment to explore three possible concerns in this situation: own payoffs, charity payoffs and concerns about the decision maker. We developed a new two-person sender-receiver game in which the Receiver decides between a default option with fixed payoffs for self and charity versus an alternative which yields a slightly higher payoff to self, but uncertain payoffs for charity. Senders can send a message with the true value of charity payoff, or suppress such inconvenient information to ‘help’ decision makers staying ignorant. We measure the impact of the three concerns and their relationships with different treatments in a large pre-registered online experiment, controlling for charity preference and the size of the externality.&lt;/p&gt;
+&lt;p&gt;[in design phase]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Psychological Science for a Responsible Sharing Economy</title>
