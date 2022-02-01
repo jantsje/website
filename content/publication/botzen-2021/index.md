@@ -15,6 +15,8 @@ links:
     url: 'https://link.springer.com/content/pdf/10.1007/s11069-021-05064-2.pdf'  
   - name: DOI
     url: "https://doi.org/10.1007/s11069-021-05064-2"
+  - name: Twitter summary
+    url: "https://twitter.com/JantsjeMol/status/1453998944229466112?s=20&t=OfQ1-KtDWLEx2ATTpR1Taw"
 
 
 # Featured image

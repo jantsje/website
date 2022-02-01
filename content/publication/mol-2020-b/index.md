@@ -9,10 +9,18 @@ abstract: "Flooding is one of the most significant natural disasters worldwide. 
 featured: false
 publication: "*Risk Analysis*"
 tags: ["Risk perception", "Flood preparedness", "Objective risk", "Availability heuristic", "Affect heuristic"]
-url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/risa.13479"
-doi: "10.1111/risa.13479"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
+
+links:
+  - name: PDF
+    url: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/risa.13479"  
+  - name: DOI
+    url: "https://doi.org/10.1111/risa.13479"
+  - name: Twitter summary
+    url: https://twitter.com/JantsjeMol/status/1252573577674731521?s=20&t=OfQ1-KtDWLEx2ATTpR1Taw
+
+
 image:
   caption: ''
   focal_point: ""

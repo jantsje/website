@@ -16,6 +16,8 @@ links:
     url: 'https://link.springer.com/content/pdf/10.1007/s10683-020-09644-0.pdf'
   - name: DOI
     url: "https://doi.org/10.1007/s10683-020-09644-0"
+  - name: Twitter summary
+    url: "https://twitter.com/JantsjeMol/status/1223170267473678336?s=20&t=GSCHAA6PorfPy256K8z6sQ"
   - name: Analysis code
     url: "https://doi.org/10.34894/RZTSWA"
   - name: Dataset

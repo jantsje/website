@@ -15,6 +15,8 @@ links:
     url: 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7A2C471B6882EED4AFE113AB8B4FC4AC/S2398063X21000178a.pdf/all-by-myself-testing-descriptive-social-norm-nudges-to-increase-flood-preparedness-among-homeowners.pdf'  
   - name: DOI
     url: "https://doi.org/10.1017/bpp.2021.17"
+  - name: Twitter summary
+    url: "https://twitter.com/JantsjeMol/status/1390286540694335488?s=20&t=FG1kahJ5JJiTiaLj8JSPpQ"
   - name: oTree code
     url: 'https://github.com/jantsje/floodgame_norms'
 

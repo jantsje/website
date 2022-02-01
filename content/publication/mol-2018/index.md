@@ -15,6 +15,8 @@ links:
     url: 'https://research.vu.nl/ws/portalfiles/portal/122162437/Behavioral_motivations_for_selfinsurance_under_different_disaster_risk_insurance_schemes.pdf'  
   - name: DOI
     url: "10.1016/j.jebo.2018.12.007"
+  - name: Twitter summary
+    url: "https://twitter.com/JantsjeMol/status/1339154720624160770?s=20&t=OfQ1-KtDWLEx2ATTpR1Taw"
   - name: oTree code
     url: 'https://github.com/jantsje/floodgame_online'
 

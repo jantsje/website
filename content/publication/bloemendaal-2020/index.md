@@ -9,8 +9,15 @@ abstract: "For decades, meteorologists and governments have been warning communi
 featured: false
 publication: "*Environmental Research Letters*"
 tags: ["Risk perception", "Risk communication", "Saffir-Simpson Hurricane Wind Scale", "Tropical cyclones"]
-url_pdf: "https://iopscience.iop.org/article/10.1088/1748-9326/abd131/pdf"
-doi: "https://doi.org/10.1088/1748-9326/abd131"
+
+links:
+  - name: PDF
+    url: "https://iopscience.iop.org/article/10.1088/1748-9326/abd131/pdf"  
+  - name: DOI
+    url: "https://doi.org/10.1088/1748-9326/abd131"
+  - name: Twitter summary
+    url: "https://twitter.com/Bloemendaal_N/status/1348630249379160072?s=20&t=FG1kahJ5JJiTiaLj8JSPpQ"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
