@@ -20,7 +20,7 @@ date_format = "2006"
 [[item]]
   organization = "Lecturer and co-ordinator"
   organization_url = ""
-  title = "Climate Change Economics"
+  title = "Climate Change Economics (6414M0504Y)"
   url = "https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/92936"
   certificate_url = ""
   date_start = "2022-01-01"

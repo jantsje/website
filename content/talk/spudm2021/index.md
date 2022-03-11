@@ -25,8 +25,9 @@ poster:
 summary: Subjective Probability, Utility and Decision Making Conference 2021.  
 tags: []
 title: SPUDM 2021 (online)
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+
+links:
+  - name: Project
+    url: /publication/mol-2022
+
 ---
