@@ -5,7 +5,7 @@
     <link>https://www.jantsje.nl/tag/school-choice/</link>
       <atom:link href="https://www.jantsje.nl/tag/school-choice/index.xml" rel="self" type="application/rss+xml" />
     <description>School choice</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2022</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2022</copyright><lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
       <title>School choice</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Information design in matching problems</title>
       <link>https://www.jantsje.nl/project/task-matching/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/project/task-matching/</guid>
       <description>&lt;h3&gt; Information design in matching problems: Evidence from an online experiment &lt;/h3&gt; 
 &lt;p&gt;With 
@@ -24,7 +24,7 @@
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 In one-sided matching settings such as school choice and task allocation, objects are allocated to agents based on agent preferences. However, agents may not always know, a priori, their preferences over the objects, because they do not have enough information. In this context, we experimentally investigate the question: How should a benevolent planner optimally reveal information to the agents to maximize welfare? To this end, we conduct an online experiment to test the theoretical predictions of 
 &lt;a href=&#34;https://drive.google.com/file/d/1yedWFi3ijiKn9zaFUU8BQPFjy-iwAc2l/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dasgupta (2020)&lt;/a&gt; who proposes recommendations, and identify behavioral explanations in case of a possible mismatch between model and behavior in the experiment.&lt;/p&gt;
-&lt;p&gt;[in testing phase]&lt;/p&gt;
+&lt;p&gt;[in data collection phase]&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,28 @@
     <link>https://www.jantsje.nl/project/</link>
       <atom:link href="https://www.jantsje.nl/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2022</copyright><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2022</copyright><lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://www.jantsje.nl/project/</link>
     </image>
+    
+    <item>
+      <title>Information design in matching problems</title>
+      <link>https://www.jantsje.nl/project/task-matching/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/task-matching/</guid>
+      <description>&lt;h3&gt; Information design in matching problems: Evidence from an online experiment &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.lenkafiala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lenka Fiala&lt;/a&gt; and 
+&lt;a href=&#34;https://sites.google.com/view/sulagna/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sulagna Dasgupta&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+In one-sided matching settings such as school choice and task allocation, objects are allocated to agents based on agent preferences. However, agents may not always know, a priori, their preferences over the objects, because they do not have enough information. In this context, we experimentally investigate the question: How should a benevolent planner optimally reveal information to the agents to maximize welfare? To this end, we conduct an online experiment to test the theoretical predictions of 
+&lt;a href=&#34;https://drive.google.com/file/d/1yedWFi3ijiKn9zaFUU8BQPFjy-iwAc2l/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dasgupta (2020)&lt;/a&gt; who proposes recommendations, and identify behavioral explanations in case of a possible mismatch between model and behavior in the experiment.&lt;/p&gt;
+&lt;p&gt;[in data collection phase]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Supply of willful ignorance</title>
@@ -24,22 +40,6 @@
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Many people would rather not tell their friends that their decisions can negatively affect a third party, for example by explaining the environmental harm of meat consumption. This paper examines under which circumstances people are willing to interfere by sharing or hiding information: in other words, the supply of willful ignorance. We use a simple online experiment to explore three possible concerns in this situation: own payoffs, charity payoffs and concerns about the decision maker. We developed a new two-person sender-receiver game in which the Receiver decides between a default option with fixed payoffs for self and charity versus an alternative which yields a slightly higher payoff to self, but uncertain payoffs for charity. Senders can send a message with the true value of charity payoff, or suppress such inconvenient information to ‘help’ decision makers staying ignorant. We measure the impact of the three concerns and their relationships with different treatments in a large pre-registered online experiment, controlling for charity preference and the size of the externality.&lt;/p&gt;
 &lt;p&gt;[in design phase]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Information design in matching problems</title>
-      <link>https://www.jantsje.nl/project/task-matching/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/task-matching/</guid>
-      <description>&lt;h3&gt; Information design in matching problems: Evidence from an online experiment &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://www.lenkafiala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lenka Fiala&lt;/a&gt; and 
-&lt;a href=&#34;https://sites.google.com/view/sulagna/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sulagna Dasgupta&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-In one-sided matching settings such as school choice and task allocation, objects are allocated to agents based on agent preferences. However, agents may not always know, a priori, their preferences over the objects, because they do not have enough information. In this context, we experimentally investigate the question: How should a benevolent planner optimally reveal information to the agents to maximize welfare? To this end, we conduct an online experiment to test the theoretical predictions of 
-&lt;a href=&#34;https://drive.google.com/file/d/1yedWFi3ijiKn9zaFUU8BQPFjy-iwAc2l/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dasgupta (2020)&lt;/a&gt; who proposes recommendations, and identify behavioral explanations in case of a possible mismatch between model and behavior in the experiment.&lt;/p&gt;
-&lt;p&gt;[in testing phase]&lt;/p&gt;
 </description>
     </item>
     

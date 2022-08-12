@@ -1,5 +1,5 @@
 ---
-abstract: "Many people would rather not tell their friends that their decisions can negatively affect a third party, for example by explaining the environmental harm of meat consumption. This paper examines under which circumstances people are willing to interfere by sharing or hiding information: in other words, the supply of willful ignorance. We use a simple online experiment to explore three possible concerns in this situation: own payoffs, charity payoffs and concerns about the decision maker. We developed a new two-person sender-receiver game in which the Receiver decides between a default option with fixed payoffs for self and charity versus an alternative which yields a slightly higher payoff to self, but uncertain payoffs for charity. Senders can send a message with the true value of charity payoff, or suppress such inconvenient information to 'help' decision makers staying ignorant. We measure the impact of the three concerns and their relationships with different treatments in a large pre-registered online experiment, controlling for charity preference and the size of the externality."
+abstract: "In one-sided matching settings such as school choice and task allocation, objects are allocated to agents based on agent preferences. However, agents may not always know, a priori, their preferences over the objects, because they do not have enough information. In this context, we experimentally investigate the question: How should a benevolent planner optimally reveal information to the agents to maximize welfare? To this end, we conduct an online experiment to test the theoretical predictions of Dasgupta (2020) who proposes recommendations, and identify behavioral explanations in case of a possible mismatch between model and behavior in the experiment."
 
 all_day: false
 authors: []
@@ -19,7 +19,7 @@ links:
 location: Maastricht (NL)
 math: true
 projects:
-- the-button
+- task-matching
 
 publishDate: "2022-01-01T00:00:00Z"
 slides: 
