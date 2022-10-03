@@ -1,5 +1,5 @@
 ---
-date: "2021-01-15T00:00:00Z"
+date: "2022-09-15T00:00:00Z"
 external_link: ""
 image:
   caption: © European Commission
@@ -10,25 +10,28 @@ links:
   name: 
   url: 
 slides: 
-summary: The importance of trust in the sharing economy. With Shaul Shalvi, Ivan Soraperra, Margarita Leib, Linh Vu and Catherine Molho. 
+summary: Information about changes in platform economy taxation. With Catherine Molho. [in review]
 tags:
+- Taxation
 - Sharing economy
 - Trust
 - Willful ignorance
 - Information
 
-title: The importance of trust in the sharing economy
+title: Information about changes in platform economy taxation
 links:
   - name: Project website
     url: 'https://behavioralethics.org/project/trustpath/'
 ---
 
-<h3> The importance of trust in the sharing economy </h3> 
+<h3> Information about changes in platform economy taxation diminishes optimism regarding future use
+ </h3> 
 
-With [Shaul Shalvi](https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html), [Ivan Soraperra](https://sites.google.com/site/ivansoraperra/), [Margarita Leib](https://www.uva.nl/en/profile/l/e/m.leib/m.leib.html), 
-[Linh Vu](https://behavioralethics.org/author/linh-vu/) and [Catherine Molho](https://behavioralethics.org/author/catherine-molho/). 
+With [Catherine Molho](https://catherinemolho.github.io/). 
 
 <b>Abstract:</b>
-The collaborative economy covers a variety of sectors and is rapidly emerging across Europe. Adding hundreds of billions of euro to the EU economy, it offers more choices to consumers and new opportunities to entrepreneurs. However, little is known about the bottom-up psychological factors driving the collaborative economy users’ behaviour. For responsible sharing, trust is necessary but not sufficient. The EU-funded TRUSTPATH project will develop and test a psychological theory of how people use the collaborative economy. The hypothesis is that trust encouraged without transparency can lead users to neglect the negative side effects trade has on others. The findings will advance our understanding of the psychology of the collaborative economy and inform policymakers seeking to regulate it. The results will also be useful for companies seeking to promote responsible sharing among users.
+Some economic interactions are based on trust, others on monetary incentives or monitoring. In the tax compliance context, the monitoring approach creates compliance based on audits and fines (enforced compliance), in contrast to the trust-based (voluntary compliance) approach, which is based on taxpayers’ willingness to comply. In both approaches, taxpayers’ trust in authorities is relevant. Here, we examine changes in taxation regarding platform economy revenues. Currently, in some European countries this taxation is entirely trust-based, and trade on those platforms prospers. New EU legislation, introduced in 2023, will mandate data sharing between platforms and tax authorities across Europe. As a result, the taxation of platform economy revenues will shift from voluntary compliance into enforced compliance. How would this shift affect the intended use of platforms? We use a survey among platform workers (N = 626) in the Netherlands to examine views of the proposed regulation change, corrected for the proportion of platform income and several measures of trust. We experimentally manipulate information by either informing participants about the upcoming change or not. Results show that informing respondents about the change negatively affects expected supply of labor, mainly among women and part-time workers. The policy implications of these results are discussed. 
 
-More information on the [Behavioral Ethics project website](https://behavioralethics.org/project/trustpath/). 
+[in review]
+
+See also the [Behavioral Ethics project website](https://behavioralethics.org/project/trustpath/). 

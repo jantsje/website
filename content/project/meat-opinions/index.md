@@ -1,5 +1,5 @@
 ---
-date: "2021-05-27T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -10,7 +10,7 @@ links:
   name: 
   url: 
 slides: 
-summary: Meat opinions - Exploring unconscious reasons for resistance towards a plant-based diet. With Meike Morren.
+summary: Meat opinions - Exploring unconscious reasons for resistance towards a plant-based diet. With Meike Morren. [in data collection phase]
 tags:
 - Willful ignorance
 - Text analysis

@@ -1,5 +1,5 @@
 ---
-date: "2021-12-02T00:00:00Z"
+date: "2022-10-03T09:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -10,7 +10,7 @@ links:
   name: 
   url: 
 slides: 
-summary: Supply of willful ignorance. With Ivan Soraperra and Joël van der Weele.
+summary: Supply of willful ignorance. With Ivan Soraperra and Joël van der Weele. [in data collection phase]
 tags:
 - Lab experiment
 - Willful ignorance

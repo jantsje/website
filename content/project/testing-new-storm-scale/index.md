@@ -10,7 +10,7 @@ links:
   name: 
   url: 
 slides: 
-summary: Testing a new hurricane scale. With Nadia Bloemendaal and Amy Polen.
+summary: Testing a new hurricane scale. With Nadia Bloemendaal and Amy Polen. [in design phase]
 tags:
 - Risk communication
 - Risk perception
