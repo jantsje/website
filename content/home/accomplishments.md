@@ -17,6 +17,18 @@ date_format = "2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Obtained in October"
+  organization_url = ""
+  title = "University Teaching Qualification (BKO)"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-09-01"
+  date_end = ""
+  description = """"""  
+
+
 [[item]]
   organization = "Lecturer"
   organization_url = ""
@@ -73,8 +85,9 @@ lab sessions in which students get familiar with statistical analysis using R.""
   certificate_url = ""
   date_start = "2018-12-09"
   date_end = "2022-12-30"
-  description = """2021 - present &nbsp;&nbsp;&nbsp;&nbsp;		University of Amsterdam: MSc. Economics & Business (7 students) <br>
-2018- 2020		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VU Amsterdam: MSc. Environmental Resource Management (2 students) and BSc. Earth & Economics (1 student)
+  description = """2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; [ASF thesis prize](https://asf.uva.nl/grants-and-prizes/thesis-prize/shortlist-finalists-asf-thesis-prize-2022.html) for supervision of MSc. student Jessica Loureiro Simões <br>
+  2021 - present &nbsp;&nbsp;&nbsp;&nbsp;		University of Amsterdam: MSc. Economics & Business (7 students) <br> 
+2018- 2020		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VU Amsterdam: MSc. (2 students) and BSc. (1 student)
 """  
 
   

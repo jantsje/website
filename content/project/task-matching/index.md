@@ -10,7 +10,7 @@ links:
   name: 
   url: 
 slides: 
-summary: Information design in matching problems. With Lenka Fiala and Sulagna Dasgupta. [in analysis phase]
+summary: Information design in matching problems. With Lenka Fiala and Sulagna Dasgupta. [manuscript in preparation]
 tags:
 - Lab experiment
 - Matching
