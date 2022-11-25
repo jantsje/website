@@ -18,9 +18,9 @@ links:
   - name: Twitter summary
     url: "https://twitter.com/JantsjeMol/status/1385606536807043072?s=20&t=FG1kahJ5JJiTiaLj8JSPpQ"
   - name: Analysis code
-    url: 'https://ars.els-cdn.com/content/image/1-s2.0-S0272494421000633-mmc5.zip'
+    url: 'https://ars.els-cdn.com/content/image/1-s2.0-S0272494421000633-mmc6.zip'
   - name: LCA data
-    url: https://ars.els-cdn.com/content/image/1-s2.0-S0272494421000633-mmc4.xlsx
+    url: https://ars.els-cdn.com/content/image/1-s2.0-S0272494421000633-mmc5.xlsx
 
 
 

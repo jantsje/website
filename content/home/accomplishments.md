@@ -30,7 +30,7 @@ date_format = "2006"
 
 
 [[item]]
-  organization = "Lecturer"
+  organization = "Lecturer (co-taught with [Dr. Thomas Douenne](https://sites.google.com/view/thomasdouenne/))"
   organization_url = ""
   title = "Economics of Climate Change (BSc. 6414M0504Y)"
   url = "https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/101767"
@@ -52,7 +52,7 @@ date_format = "2006"
 
   
 [[item]]
-  organization = "Teaching assistant"
+  organization = "Teaching Assistant (for [dr. Mark Koetse](https://research.vu.nl/en/persons/mark-koetse))"
   organization_url = ""
   title = "Environmental Economics for ERM (MSc. AM_468060)"
   url = "https://studiegids.vu.nl/en/2020-2021/courses/AM_468020"
@@ -85,7 +85,7 @@ lab sessions in which students get familiar with statistical analysis using R.""
   certificate_url = ""
   date_start = "2018-12-09"
   date_end = "2022-12-30"
-  description = """2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; [ASF thesis prize](https://asf.uva.nl/grants-and-prizes/thesis-prize/shortlist-finalists-asf-thesis-prize-2022.html) for supervision of MSc. student Jessica Loureiro Simões <br>
+  description = """2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; [ASF thesis prize](https://asf.uva.nl/grants-and-prizes/thesis-prize/winner-asf-thesis-prize-2022.html) for supervision of MSc. student Jessica Loureiro Simões <br>
   2021 - present &nbsp;&nbsp;&nbsp;&nbsp;		University of Amsterdam: MSc. Economics & Business (7 students) <br> 
 2018- 2020		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VU Amsterdam: MSc. (2 students) and BSc. (1 student)
 """  

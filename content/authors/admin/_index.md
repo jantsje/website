@@ -43,7 +43,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at [CREED](https://www.creedexperiment.nl/creed/), the Center for Research in Experimental Economics and political Decision making of the University of Amsterdam and a Research Fellow at [Tinbergen](https://www.tinbergen.nl). My main interests are experimental economics and behavioral economics. 
+I am a postdoctoral researcher at [CREED](https://www.creedexperiment.nl/creed/), the Center for Research in Experimental Economics and political Decision making of the University of Amsterdam and a Research Fellow at [Tinbergen](https://www.tinbergen.nl). My main interests are experimental economics, behavioral economics and environmental economics. 
 
 I have a research master in neuroeconomics from Maastricht University and a PhD in behavioral economics from Vrije Universiteit Amsterdam. My PhD thesis entitled **Improving flood preparedness using insights from economic experiments** can be found [here](https://research.vu.nl/en/publications/improving-flood-preparedness-using-insights-from-economic-experim). 
 
