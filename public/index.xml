@@ -5,7 +5,7 @@
     <link>https://www.jantsje.nl/</link>
       <atom:link href="https://www.jantsje.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2022</copyright><lastBuildDate>Tue, 22 Nov 2022 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2023</copyright><lastBuildDate>Mon, 26 Jun 2023 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
       <title>Jantsje Mol</title>
@@ -52,6 +52,14 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Presentation at ESA World Meeting 2023</title>
+      <link>https://www.jantsje.nl/talk/esa-2023/</link>
+      <pubDate>Mon, 26 Jun 2023 12:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/talk/esa-2023/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -137,18 +145,17 @@ Losses from natural disasters are increasing around the world. These losses can 
     </item>
     
     <item>
-      <title>Information design in matching problems</title>
+      <title>Information Design in Object Allocation Problems</title>
       <link>https://www.jantsje.nl/project/task-matching/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/project/task-matching/</guid>
-      <description>&lt;h3&gt; Information design in matching problems: Evidence from an online experiment &lt;/h3&gt; 
+      <description>&lt;h3&gt; Information Design in Object Allocation Problems &lt;/h3&gt; 
 &lt;p&gt;With 
 &lt;a href=&#34;https://www.lenkafiala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lenka Fiala&lt;/a&gt; and 
 &lt;a href=&#34;https://sites.google.com/view/sulagna/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sulagna Dasgupta&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-In one-sided matching settings such as school choice and task allocation, objects are allocated to agents based on agent preferences. However, agents may not always know, a priori, their preferences over the objects, because they do not have enough information. In this context, we experimentally investigate the question: How should a benevolent planner optimally reveal information to the agents to maximize welfare? To this end, we conduct an online experiment to test the theoretical predictions of 
-&lt;a href=&#34;https://drive.google.com/file/d/1yedWFi3ijiKn9zaFUU8BQPFjy-iwAc2l/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dasgupta (2020)&lt;/a&gt; who proposes recommendations, and identify behavioral explanations in case of a possible mismatch between model and behavior in the experiment.&lt;/p&gt;
-&lt;p&gt;[in analysis phase]&lt;/p&gt;
+We investigate how people trade off individual and group interests in a setting of strategic interaction with imperfect information about private benefits of a specific action. In a large-scale online experiment with 2600 subjects, we compare three information provision settings and their impact on people&amp;rsquo;s choices and resulting social welfare. Contrary to theoretical predictions, we find that a partial-information policy designed to maximize group welfare does not improve upon a full information benchmark even when individual and group objectives are aligned. In a setting where individual and group interests clash, in accordance with theoretical predictions, additional information provided by the same partial-information policy is ignored by the subjects. Our results are robust to accounting for different types of risk- and social- preferences, and various types of subject errors.&lt;/p&gt;
+&lt;p&gt;[manuscript in preparation]&lt;/p&gt;
 </description>
     </item>
     
@@ -194,6 +201,14 @@ In one-sided matching settings such as school choice and task allocation, object
     </item>
     
     <item>
+      <title>Psychological Science for a Responsible Sharing Economy</title>
+      <link>https://www.jantsje.nl/publication/shalvi-2021/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/shalvi-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Experimental Economics for the Environment (online at ZEW)</title>
       <link>https://www.jantsje.nl/talk/eee-2022-online/</link>
       <pubDate>Thu, 31 Mar 2022 09:00:00 +0000</pubDate>
@@ -218,6 +233,14 @@ In one-sided matching settings such as school choice and task allocation, object
     </item>
     
     <item>
+      <title>Individual hurricane evacuation intentions during the COVID-19 pandemic: insights for risk communication and emergency management policies</title>
+      <link>https://www.jantsje.nl/publication/botzen-2021/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/botzen-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Testing a new hurricane scale</title>
       <link>https://www.jantsje.nl/project/testing-new-storm-scale/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -231,7 +254,7 @@ In one-sided matching settings such as school choice and task allocation, object
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 During a hurricane, it is vital that individuals receive communications that are easy to process and provide sufficient information to allow informed hurricane evacuation decisions and prevent loss of life. Without satisfactory and complete information, an individual is likely to miscalculate their personal risk or even potentially be moved to inaction. However, much recent research has shown an over-reliance on the currently-utilized Saffir-Simpson Hurricane Wind Scale (SSHWS) despite the fact that it only captures one aspect of a hurricane: the wind threat. Communications campaigns have been attempting to bridge this divide by providing additional information, but the importance of a category cannot be escaped. As such, researchers have begun to formulate more holistic hurricane classification systems that account for water-based hazards, the biggest killer in hurricane events. These scales have not been previously tested on a large scale to determine their usability and clarity as a practical risk communication tool. This study will observe the efficacy of the Tropical Cyclone Severity Scale, or TCSS 
 &lt;a href=&#34;https://www.jantsje.nl/publication/bloemendaal-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bloemendaal et al., 2021&lt;/a&gt;, in practice and its viability as a wide-reaching communications tool. Utilizing surveys and online experiments, we will identify potential differences in comprehension, risk perception, and anticipated evacuation decisions between the current SSHWS and the new TCSS. The information gained from this study will be leveraged to influence emergency planning and risk communication in the formation of a nationwide scale that best serves the public.&lt;/p&gt;
-&lt;p&gt;[in design phase]&lt;/p&gt;
+&lt;p&gt;[in cata collection phase]&lt;/p&gt;
 </description>
     </item>
     
@@ -240,14 +263,6 @@ During a hurricane, it is vital that individuals receive communications that are
       <link>https://www.jantsje.nl/talk/kvs-cafe-2021/</link>
       <pubDate>Tue, 16 Nov 2021 16:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/talk/kvs-cafe-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Individual hurricane evacuation intentions during the COVID-19 pandemic: insights for risk communication and emergency management policies</title>
-      <link>https://www.jantsje.nl/publication/botzen-2021/</link>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/botzen-2021/</guid>
       <description></description>
     </item>
     
@@ -269,14 +284,6 @@ During a hurricane, it is vital that individuals receive communications that are
 &lt;iframe src=&#34;https://player.vimeo.com/video/610548300&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;A one hour interview (in Dutch) about the thesis can be found here:&lt;/p&gt;
 &lt;iframe src=&#34;https://content.omroep.nl/arla/p/npo/visualradio/nporadio1_vsr/2021/9/28/nporadio1_vsr-20210928-013700-003lqp.mp4&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>Psychological Science for a Responsible Sharing Economy</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2021/</link>
-      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2021/</guid>
-      <description></description>
     </item>
     
     <item>

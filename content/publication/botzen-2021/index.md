@@ -1,6 +1,6 @@
 ---
 title: "Individual hurricane evacuation intentions during the COVID-19 pandemic: insights for risk communication and emergency management policies"
-date: 2021-10-20
+date: 2022-01-01
 publishDate: 2021-10-03T08:00:00
 authors: ["W J Wouter Botzen", "**Jantsje M Mol**", "Peter J Robinson", "Juan Zhang", "Jeffrey Czajkowski"]
 publication_types: ["2"]

@@ -5,7 +5,7 @@
     <link>https://www.jantsje.nl/tag/lab-experiment/</link>
       <atom:link href="https://www.jantsje.nl/tag/lab-experiment/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab experiment</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2022</copyright><lastBuildDate>Mon, 03 Oct 2022 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2023</copyright><lastBuildDate>Mon, 03 Oct 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
       <title>Lab experiment</title>
@@ -28,18 +28,17 @@ Many people would rather not tell their friends that their decisions can negativ
     </item>
     
     <item>
-      <title>Information design in matching problems</title>
+      <title>Information Design in Object Allocation Problems</title>
       <link>https://www.jantsje.nl/project/task-matching/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/project/task-matching/</guid>
-      <description>&lt;h3&gt; Information design in matching problems: Evidence from an online experiment &lt;/h3&gt; 
+      <description>&lt;h3&gt; Information Design in Object Allocation Problems &lt;/h3&gt; 
 &lt;p&gt;With 
 &lt;a href=&#34;https://www.lenkafiala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lenka Fiala&lt;/a&gt; and 
 &lt;a href=&#34;https://sites.google.com/view/sulagna/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sulagna Dasgupta&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-In one-sided matching settings such as school choice and task allocation, objects are allocated to agents based on agent preferences. However, agents may not always know, a priori, their preferences over the objects, because they do not have enough information. In this context, we experimentally investigate the question: How should a benevolent planner optimally reveal information to the agents to maximize welfare? To this end, we conduct an online experiment to test the theoretical predictions of 
-&lt;a href=&#34;https://drive.google.com/file/d/1yedWFi3ijiKn9zaFUU8BQPFjy-iwAc2l/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dasgupta (2020)&lt;/a&gt; who proposes recommendations, and identify behavioral explanations in case of a possible mismatch between model and behavior in the experiment.&lt;/p&gt;
-&lt;p&gt;[in analysis phase]&lt;/p&gt;
+We investigate how people trade off individual and group interests in a setting of strategic interaction with imperfect information about private benefits of a specific action. In a large-scale online experiment with 2600 subjects, we compare three information provision settings and their impact on people&amp;rsquo;s choices and resulting social welfare. Contrary to theoretical predictions, we find that a partial-information policy designed to maximize group welfare does not improve upon a full information benchmark even when individual and group objectives are aligned. In a setting where individual and group interests clash, in accordance with theoretical predictions, additional information provided by the same partial-information policy is ignored by the subjects. Our results are robust to accounting for different types of risk- and social- preferences, and various types of subject errors.&lt;/p&gt;
+&lt;p&gt;[manuscript in preparation]&lt;/p&gt;
 </description>
     </item>
     

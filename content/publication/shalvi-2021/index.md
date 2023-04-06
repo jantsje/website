@@ -1,6 +1,6 @@
 ---
 title: "Psychological Science for a Responsible Sharing Economy"
-date: 2021-09-09
+date: 2022-04-02
 publishDate: 2021-09-13T08:00:00
 authors: ["S Shalvi", "**Jantsje M Mol**", "Catherine Molho", "Linh Vu", "Margarita Leib", "Ivan Soraperra"]
 publication_types: ["2"]
