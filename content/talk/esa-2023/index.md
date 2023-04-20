@@ -23,7 +23,7 @@ projects:
 - the-button
 publishDate: "2023-04-06T00:00:00Z"
 slides: 
-summary: Talk at ESA World Meeting in Lyon, France
+summary: Talk at ESA World Meeting in Lyon (FR)
 tags: []
 title: Presentation at ESA World Meeting 2023
 url_code: ""
