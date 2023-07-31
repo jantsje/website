@@ -1,5 +1,5 @@
 ---
-abstract: To be determined.
+abstract: Closing keynote of the Behavioural Ecological Economics Workshop in Tuscany, Italy. On experimental economics for disaster preparedness. 
 
 
 all_day: false
@@ -20,6 +20,8 @@ links:
 location: Florence (IT)
 math: true
 projects:
+  - testing-new-storm-scale
+
 publishDate: "2023-04-20T00:00:00Z"
 slides: 
 summary: Closing keynote at Behavioural Ecological Economics Workshop
@@ -27,6 +29,6 @@ tags: []
 title: Keynote at Behavioural Ecological Economics
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://ecologicaleconomicstuscany.ec.unipi.it/wp-content/uploads/2023/07/Behavioural-Ecological-Econ-MOL_PDF.pdf"
 url_video: ""
 ---
