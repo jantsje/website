@@ -5,7 +5,7 @@
     <link>https://www.jantsje.nl/</link>
       <atom:link href="https://www.jantsje.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Jantsje Mol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2023</copyright><lastBuildDate>Fri, 25 Aug 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2023</copyright><lastBuildDate>Wed, 27 Sep 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
       <title>Jantsje Mol</title>
@@ -51,6 +51,21 @@
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supply of willful ignorance</title>
+      <link>https://www.jantsje.nl/project/the-button/</link>
+      <pubDate>Wed, 27 Sep 2023 09:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/the-button/</guid>
+      <description>&lt;h3&gt; Spoiling the party. Experimental evidence on the willingness to transmit inconvenient ethical information &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://sites.google.com/site/ivansoraperra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ivan Soraperra&lt;/a&gt; and 
+&lt;a href=&#34;https://www.joelvanderweele.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël van der Weele&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Information about the consequences of our consumption choices can be unwelcome, and people sometimes avoid it. We investigate a situation where one person possesses information that is inconvenient for another, and study why and when they decide to transmit that information. We introduce a simple and portable experimental game to analyze transmission of inconvenient information. In this game, a Sender can inform a Receiver at a small cost about a negative externality associated with a tempting and profitable action for the Receiver. The results from our online experiment (N = 1,512) show that Senders transmit more information for large negative externalities. Sender&amp;rsquo;s decisions are largely driven by their own preferences for information. However, some Senders take the Receiver&amp;rsquo;s feelings into account, by transmitting evidence of positive externalities or by suppressing negative information upon the Receiver&amp;rsquo;s request. Understanding the decision to share inconvenient information matters, as it will affect the personal and political will to address important externalities and can inform strategies to encourage the transmission of inconvenient information within organizations.&lt;/p&gt;
+&lt;p&gt;[submitted]&lt;/p&gt;
 </description>
     </item>
     
@@ -111,21 +126,6 @@
     </item>
     
     <item>
-      <title>Supply of willful ignorance</title>
-      <link>https://www.jantsje.nl/project/the-button/</link>
-      <pubDate>Mon, 03 Oct 2022 09:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/the-button/</guid>
-      <description>&lt;h3&gt; Spoiling the Party: Experimental Evidence on the Willingness to Transmit Inconvenient Ethical Information &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://sites.google.com/site/ivansoraperra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ivan Soraperra&lt;/a&gt; and 
-&lt;a href=&#34;https://www.joelvanderweele.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël van der Weele&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Many people would rather not tell their friends that their decisions can negatively affect a third party, for example by explaining the environmental harm of meat consumption. This paper examines under which circumstances people are willing to interfere by sharing or hiding information: in other words, the supply of willful ignorance. We use a simple online experiment to explore three possible concerns in this situation: own payoffs, charity payoffs and concerns about the decision maker. We developed a new two-person sender-receiver game in which the Receiver decides between a default option with zero payoffs for self and charity, versus a button click which yields a positive payoff to self, but uncertain payoffs for charity. Senders can send a message with the true value of charity payoff, or suppress such inconvenient information to ‘help’ decision makers staying ignorant. We measure the impact of the three concerns and their relationships with different treatments in a large (N = 1512) pre-registered online experiment, controlling for charity preference and the size of the externality.&lt;/p&gt;
-&lt;p&gt;[manuscript in preparation]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Meat opinions</title>
       <link>https://www.jantsje.nl/project/meat-opinions/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
@@ -153,7 +153,7 @@ We will obtain insights into the origins of resistance towards a plant-based die
 &lt;a href=&#34;https://catherinemolho.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Catherine Molho&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Some economic interactions are based on trust, others on monetary incentives or monitoring. In the tax compliance context, the monitoring approach creates compliance based on audits and fines (enforced compliance), in contrast to the trust-based (voluntary compliance) approach, which is based on taxpayers’ willingness to comply. In both approaches, taxpayers’ trust in authorities is relevant. Here, we examine changes in taxation regarding platform economy revenues. Currently, in some European countries this taxation is entirely trust-based, and trade on those platforms prospers. New EU legislation, introduced in 2023, will mandate data sharing between platforms and tax authorities across Europe. As a result, the taxation of platform economy revenues will shift from voluntary compliance into enforced compliance. How would this shift affect the intended use of platforms? We use a survey among platform workers (N = 626) in the Netherlands to examine views of the proposed regulation change, corrected for the proportion of platform income and several measures of trust. We experimentally manipulate information by either informing participants about the upcoming change or not. Results show that informing respondents about the change negatively affects expected supply of labor, mainly among women and part-time workers. The policy implications of these results are discussed.&lt;/p&gt;
-&lt;p&gt;[in review]&lt;/p&gt;
+&lt;p&gt;[R&amp;amp;R]&lt;/p&gt;
 &lt;p&gt;See also the 
 &lt;a href=&#34;https://behavioralethics.org/project/trustpath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Behavioral Ethics project website&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -172,7 +172,7 @@ Some economic interactions are based on trust, others on monetary incentives or 
 &lt;a href=&#34;https://www.researchgate.net/profile/Jeffrey-Czajkowski&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeffrey Czajkowski&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Losses from natural disasters are increasing around the world. These losses can be limited by improving individual preparedness for such disasters, for which it is imperative to understand the factors that enable individual actions to reduce natural disaster risks. This study offers such insights using an innovative real-time and repeated survey methodology. These survey instruments collected unique data for coastal residents in Florida regarding flood preparations and their drivers during an imminent threat posed by Hurricane Dorian and its aftermath. Compared with the common practice to conduct cross-sectional surveys in the absence of a disaster threat, our methodology better represents relationships between preparedness actions undertaken during the disaster threat and its drivers, such as risk perceptions. The repeated survey allows for examining temporal dynamics in these explanatory variables. Our results show that risk perceptions relate more strongly to emergency protection decisions made during the period of the disaster threat than to ex-ante decisions made well before. In addition to the importance of coping appraisals in explaining flood-preparedness behavior, personal characteristics significantly relate to undertaking preparedness actions, especially risk aversion and social norms. Significant changes in some of the key explanatory variables occur following the disaster threat, including a decline in risk perception, a potential learning effect in coping appraisals, and a decline in risk aversion. Finally, explanatory variables measured after the disaster threat do not fully capture relationships among factors of influence on preparedness actions taken during the threat. Taken together, our results confirm the advantage of the real-time and repeated survey approach in understanding both short and longer-term disaster preparedness actions. We discuss various lessons from our findings for researchers and policymakers in this field.&lt;/p&gt;
-&lt;p&gt;[in review]&lt;/p&gt;
+&lt;p&gt;[R&amp;amp;R]&lt;/p&gt;
 </description>
     </item>
     

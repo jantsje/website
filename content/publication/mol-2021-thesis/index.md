@@ -6,7 +6,7 @@ authors: ["**Jantsje M Mol**"]
 publication_types: ["7"]
 abstract: "Flooding is one of the most dangerous natural hazards worldwide, causing widespread economic damage in coastal areas, thousands of deaths and injuries, and displacing millions of people every year. Individual homeowners can take a number of measures to reduce potential flood damage to their homes, but few people in flood-prone areas invest in these measures. This thesis examines several factors that could explain the lack of voluntary investment, including moral hazard, risk misperceptions and bounded rationality. Furthermore, this thesis investigates various incentives to stimulate investments in damage-reducing measures, such as insurance incentives, risk communication in virtual reality and social norm-nudges. This is achieved by experimental economics methods: lab experiments with students, online experiments in surveys with homeowners in flood-prone areas, as well as an economic experiment using a virtual reality experience.
 "
-featured: true
+featured: false
 publication: "*Vrije Universiteit Amsterdam - PhD thesis*"
 tags: ["Flood preparedness", "experimental economics", "decision making under risk", "behavioral insurance", "risk perception", "virtual reality"]
 

@@ -1,5 +1,5 @@
 ---
-date: "2022-10-03T09:00:00Z"
+date: "2023-09-27T09:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -10,7 +10,7 @@ links:
   name: 
   url: 
 slides: 
-summary: Supply of willful ignorance. With Ivan Soraperra and Joël van der Weele. [manuscript in preparation]
+summary: Supply of willful ignorance. With Ivan Soraperra and Joël van der Weele. [submitted]
 tags:
 - Lab experiment
 - Willful ignorance
@@ -18,19 +18,20 @@ tags:
 - Unethical behavior
 
 title: Supply of willful ignorance
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
+links:
+  - name: Tinbergen Working Paper
+    url: 'https://papers.tinbergen.nl/23062.pdf'
+
+    
 ---
 
-<h3> Spoiling the Party: Experimental Evidence on the Willingness to Transmit Inconvenient Ethical Information </h3> 
+<h3> Spoiling the party. Experimental evidence on the willingness to transmit inconvenient ethical information </h3> 
 
 With [Ivan Soraperra](https://sites.google.com/site/ivansoraperra/) and [Joël van der Weele](https://www.joelvanderweele.eu/). 
 
 <b>Abstract:</b>
-Many people would rather not tell their friends that their decisions can negatively affect a third party, for example by explaining the environmental harm of meat consumption. This paper examines under which circumstances people are willing to interfere by sharing or hiding information: in other words, the supply of willful ignorance. We use a simple online experiment to explore three possible concerns in this situation: own payoffs, charity payoffs and concerns about the decision maker. We developed a new two-person sender-receiver game in which the Receiver decides between a default option with zero payoffs for self and charity, versus a button click which yields a positive payoff to self, but uncertain payoffs for charity. Senders can send a message with the true value of charity payoff, or suppress such inconvenient information to ‘help’ decision makers staying ignorant. We measure the impact of the three concerns and their relationships with different treatments in a large (N = 1512) pre-registered online experiment, controlling for charity preference and the size of the externality.
+Information about the consequences of our consumption choices can be unwelcome, and people sometimes avoid it. We investigate a situation where one person possesses information that is inconvenient for another, and study why and when they decide to transmit that information. We introduce a simple and portable experimental game to analyze transmission of inconvenient information. In this game, a Sender can inform a Receiver at a small cost about a negative externality associated with a tempting and profitable action for the Receiver. The results from our online experiment (N = 1,512) show that Senders transmit more information for large negative externalities. Sender's decisions are largely driven by their own preferences for information. However, some Senders take the Receiver's feelings into account, by transmitting evidence of positive externalities or by suppressing negative information upon the Receiver's request. Understanding the decision to share inconvenient information matters, as it will affect the personal and political will to address important externalities and can inform strategies to encourage the transmission of inconvenient information within organizations.
 
-[manuscript in preparation] 
+[submitted] 
 

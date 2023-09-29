@@ -32,11 +32,11 @@ date_format = "2006"
 [[item]]
   organization = "Lecturer (co-taught with [Dr. Thomas Douenne](https://sites.google.com/view/thomasdouenne/))"
   organization_url = ""
-  title = "Economics of Climate Change (BSc. 6414M0504Y)"
-  url = "https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/101767"
+  title = "Economics of Climate Change (BSc. 6013B0412Y)"
+  url = "https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/112125"
   certificate_url = ""
   date_start = "2022-09-01"
-  date_end = "2023-09-01"
+  date_end = "2024-09-01"
   description = """This course will discuss the interconnections between human societies and the climate system: how do humans affect the climate, how does climate change affect humans, and what can society do to mitigate or adapt to climate change? The topics covered include dynamic cost-benefit analysis (i.e., the valuation of climate damages, discounting future mitigation benefits, mitigation costs as investment decisions), integrated assessment models used to determine optimal emission abatement and the social cost of carbon, the choice of policy instruments (e.g., carbon taxes, polluting permits, standards) considering their effectiveness, their distributive effects, and their public support, as well as other topics such as international climate agreements, the link between international trade and climate change, the risk of stranded assets, and the prospects of a green technological revolution."""  
   
 
@@ -44,10 +44,10 @@ date_format = "2006"
   organization = "Lecturer and co-ordinator"
   organization_url = ""
   title = "Climate Change Economics (MSc. 6414M0504Y)"
-  url = "https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/92936"
+  url = "https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/112125"
   certificate_url = ""
   date_start = "2021-09-01"
-  date_end = "2022-09-01"
+  date_end = "2024-09-01"
   description = """By the end of this course the students must be able to use economic tools to measure the impact of climate change and to determine the best policies to combat it. Lectures will cover a wide range of topics, including the link between the economic and climate systems, methods used to discount the future, the risk of disasters and irreversibilities, and many more."""  
 
   
@@ -84,10 +84,10 @@ lab sessions in which students get familiar with statistical analysis using R.""
   url = ""
   certificate_url = ""
   date_start = "2018-12-09"
-  date_end = "2022-12-30"
-  description = """2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; [ASF thesis prize](https://asf.uva.nl/grants-and-prizes/thesis-prize/winner-asf-thesis-prize-2022.html) for supervision of MSc. student Jessica Loureiro Simões <br>
-  2021 - present &nbsp;&nbsp;&nbsp;&nbsp;		University of Amsterdam: MSc. Economics & Business (7 students) <br> 
-2018- 2020		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VU Amsterdam: MSc. (2 students) and BSc. (1 student)
+  date_end = "2023-12-30"
+  description = """
+  2021 - present &nbsp;&nbsp;&nbsp;&nbsp;		University of Amsterdam: MSc. Economics & Business (8 students) <br> 
+2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; [ASF thesis prize](https://asf.uva.nl/grants-and-prizes/thesis-prize/winner-asf-thesis-prize-2022.html) for supervision of MSc. student Jessica Loureiro Simões <br>2018- 2020		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VU Amsterdam: MSc. (2 students) and BSc. (1 student)
 """  
 
   
