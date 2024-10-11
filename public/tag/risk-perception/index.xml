@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Risk perception | Jantsje Mol</title>
+    <title>Risk Perception | Jantsje Mol</title>
     <link>https://www.jantsje.nl/tag/risk-perception/</link>
       <atom:link href="https://www.jantsje.nl/tag/risk-perception/index.xml" rel="self" type="application/rss+xml" />
-    <description>Risk perception</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2023</copyright><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <description>Risk Perception</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2024</copyright><lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
-      <title>Risk perception</title>
+      <url>https://www.jantsje.nl/images/icon_hu7859828887360647904.png</url>
+      <title>Risk Perception</title>
       <link>https://www.jantsje.nl/tag/risk-perception/</link>
     </image>
     
     <item>
-      <title>Natural disaster preparedness</title>
-      <link>https://www.jantsje.nl/project/dorian/</link>
-      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/dorian/</guid>
-      <description>&lt;h3&gt; Determinants of natural disaster preparedness actions and their dynamics: Insights from real time and repeated surveys in Florida
- &lt;/h3&gt; 
+      <title>Drivers of natural disaster risk-reduction actions and their temporal dynamics: Insights from surveys during an imminent hurricane threat and its aftermath</title>
+      <link>https://www.jantsje.nl/publication/botzen-2024/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/botzen-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing a new hurricane scale</title>
+      <link>https://www.jantsje.nl/project/testing-new-storm-scale/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/testing-new-storm-scale/</guid>
+      <description>&lt;h3&gt; An experimental test of risk perceptions under a new hurricane classification system &lt;/h3&gt; 
 &lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt;, 
-&lt;a href=&#34;https://research.vu.nl/en/persons/peter-john-robinson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Robinson&lt;/a&gt; and 
-&lt;a href=&#34;https://www.researchgate.net/profile/Jeffrey-Czajkowski&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeffrey Czajkowski&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://research.vu.nl/en/persons/nadia-bloemendaal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nadia Bloemendaal&lt;/a&gt;, 
+&lt;a href=&#34;https://research.vu.nl/en/persons/hans-de-moel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans de Moel&lt;/a&gt;, 
+&lt;a href=&#34;https://sites.google.com/view/dianna-amasino/bio?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dianna Amasino&lt;/a&gt; and 
+&lt;a href=&#34;https://www.usf.edu/arts-sciences/departments/geosciences/people/faculty/jennifer-collins.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jennifer Collins&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Losses from natural disasters are increasing around the world. These losses can be limited by improving individual preparedness for such disasters, for which it is imperative to understand the factors that enable individual actions to reduce natural disaster risks. This study offers such insights using an innovative real-time and repeated survey methodology. These survey instruments collected unique data for coastal residents in Florida regarding flood preparations and their drivers during an imminent threat posed by Hurricane Dorian and its aftermath. Compared with the common practice to conduct cross-sectional surveys in the absence of a disaster threat, our methodology better represents relationships between preparedness actions undertaken during the disaster threat and its drivers, such as risk perceptions. The repeated survey allows for examining temporal dynamics in these explanatory variables. Our results show that risk perceptions relate more strongly to emergency protection decisions made during the period of the disaster threat than to ex-ante decisions made well before. In addition to the importance of coping appraisals in explaining flood-preparedness behavior, personal characteristics significantly relate to undertaking preparedness actions, especially risk aversion and social norms. Significant changes in some of the key explanatory variables occur following the disaster threat, including a decline in risk perception, a potential learning effect in coping appraisals, and a decline in risk aversion. Finally, explanatory variables measured after the disaster threat do not fully capture relationships among factors of influence on preparedness actions taken during the threat. Taken together, our results confirm the advantage of the real-time and repeated survey approach in understanding both short and longer-term disaster preparedness actions. We discuss various lessons from our findings for researchers and policymakers in this field.&lt;/p&gt;
-&lt;p&gt;[R&amp;amp;R]&lt;/p&gt;
+During a hurricane, it is vital that individuals receive communications that are easy to process and provide sufficient information to allow informed hurricane preparedness decisions and prevent loss of life. We study how the hurricane warning scale (traditional Saffir-Simpson Hurricane Wind Scale versus the newly developed 
+&lt;a href=&#34;https://www.jantsje.nl/publication/bloemendaal-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tropical Cyclone Severity Scale&lt;/a&gt;) impacts intent to evacuate and understanding of hurricane severity. We use a between-subject design where participants are assigned to either the traditional SSHWS or the new TCSS scale. We will collect data in a large-scale (~4000 participants) online experiment to examine potential differences in comprehension, risk perception and anticipated evacuation and preparation decisions among citizens in U.S. coastal states prone to hurricanes. We test the hypotheses that the new scale increases understanding about the main hazard, increases evacuation intent for severe events and increases relevant precautionary measures (window protection for wind-driven storms, sandbags for rainfall-driven storms).&lt;/p&gt;
+&lt;p&gt;[submitted]&lt;/p&gt;
 </description>
     </item>
     
@@ -43,24 +52,6 @@ Losses from natural disasters are increasing around the world. These losses can 
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/publication/botzen-2021/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Testing a new hurricane scale</title>
-      <link>https://www.jantsje.nl/project/testing-new-storm-scale/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/testing-new-storm-scale/</guid>
-      <description>&lt;h3&gt; An experimental test of risk perceptions under a new hurricane classification system &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/nadia-bloemendaal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nadia Bloemendaal&lt;/a&gt;, 
-&lt;a href=&#34;https://www.usf.edu/arts-sciences/departments/geosciences/people/faculty/jennifer-collins.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jennifer Collins&lt;/a&gt;, 
-&lt;a href=&#34;https://sites.google.com/view/dianna-amasino/bio?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dianna Amasino&lt;/a&gt; and 
-&lt;a href=&#34;https://www.linkedin.com/in/amypolen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amy Polen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-During a hurricane, it is vital that individuals receive communications that are easy to process and provide sufficient information to allow informed hurricane evacuation decisions and prevent loss of life. Without satisfactory and complete information, an individual is likely to miscalculate their personal risk or even potentially be moved to inaction. However, much recent research has shown an over-reliance on the currently-utilized Saffir-Simpson Hurricane Wind Scale (SSHWS) despite the fact that it only captures one aspect of a hurricane: the wind threat. Communications campaigns have been attempting to bridge this divide by providing additional information, but the importance of a category cannot be escaped. As such, researchers have begun to formulate more holistic hurricane classification systems that account for water-based hazards, the biggest killer in hurricane events. These scales have not been previously tested on a large scale to determine their usability and clarity as a practical risk communication tool. This study will observe the efficacy of the Tropical Cyclone Severity Scale, or TCSS 
-&lt;a href=&#34;https://www.jantsje.nl/publication/bloemendaal-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bloemendaal et al., 2021&lt;/a&gt;, in practice and its viability as a wide-reaching communications tool. Utilizing surveys and online experiments, we will identify potential differences in comprehension, risk perception, and anticipated evacuation decisions between the current SSHWS and the new TCSS. The information gained from this study will be leveraged to influence emergency planning and risk communication in the formation of a nationwide scale that best serves the public.&lt;/p&gt;
-&lt;p&gt;[in cata collection phase]&lt;/p&gt;
-</description>
     </item>
     
     <item>

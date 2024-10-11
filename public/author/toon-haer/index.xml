@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toon Haer | Jantsje Mol</title>
+    <link>https://www.jantsje.nl/author/toon-haer/</link>
+      <atom:link href="https://www.jantsje.nl/author/toon-haer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toon Haer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2024</copyright><lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hu7859828887360647904.png</url>
+      <title>Toon Haer</title>
+      <link>https://www.jantsje.nl/author/toon-haer/</link>
+    </image>
+    
+    <item>
+      <title>Factors of influence on flood risk perceptions related to Hurricane Dorian: an assessment of heuristics, time dynamics and accuracy of risk perceptions</title>
+      <link>https://www.jantsje.nl/publication/de-wolf-2024/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/de-wolf-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

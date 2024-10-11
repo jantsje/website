@@ -10,11 +10,6 @@ featured: false
 image:
   caption: ''
   focal_point: Right
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
 location: Amsterdam (NL)
 math: true
 projects:

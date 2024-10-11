@@ -5,12 +5,27 @@
     <link>https://www.jantsje.nl/project/</link>
       <atom:link href="https://www.jantsje.nl/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2023</copyright><lastBuildDate>Wed, 27 Sep 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2024</copyright><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.jantsje.nl/images/icon_hu7859828887360647904.png</url>
       <title>Projects</title>
       <link>https://www.jantsje.nl/project/</link>
     </image>
+    
+    <item>
+      <title>Information design in one-sided matching problems</title>
+      <link>https://www.jantsje.nl/project/task-matching/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/task-matching/</guid>
+      <description>&lt;h3&gt; For the &#39;Greater Good&#39;: Please Choose A&lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.lenkafiala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lenka Fiala&lt;/a&gt; and 
+&lt;a href=&#34;https://sites.google.com/view/sulagna/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sulagna Dasgupta&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+How do people trade off individual versus group welfare in the face of uncertainty regarding private benefits of different actions? We propose a partial information revelation (&amp;lsquo;recommendation&amp;rsquo;) policy  designed to maximize group welfare, and we show its theoretical robustness to well-documented behavioral deviations from the risk neutral, Bayesian, and self-interested benchmark. In a large-scale online experiment with 2600 subjects, we then show that this policy fails to improve upon a full information benchmark even when individual and group objectives are aligned, as the recommended course of action is not followed often enough. In a setting where individual and group interests clash, the recommendation is followed less often, largely by subjects who misunderstand the policy. This provides suggestive evidence in favor of simplicity in information design in multi-agent strategic settings.&lt;/p&gt;
+&lt;p&gt;[submitted]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Supply of willful ignorance</title>
@@ -28,86 +43,20 @@ Information about the consequences of our consumption choices can be unwelcome, 
     </item>
     
     <item>
-      <title>Meat opinions</title>
-      <link>https://www.jantsje.nl/project/meat-opinions/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/meat-opinions/</guid>
-      <description>&lt;h3&gt; Meat opinions - Exploring unconscious reasons for resistance towards a plant-based diet  &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;www.meikemorren.com&#34;&gt;Meike Morren&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Despite the increased availability of plant-based products, a large group of consumers eats meat and dairy every day, unaware of the impact on environment and health. Increasing awareness is important, but ineffective without procedural knowledge (such as recipes) on how to change this diet. Furthermore, the global challenge to provide sustainable food security to a growing population cannot be tackled by a focus on consumers who are already transitioning to a plant-based diet. This project targets the heaviest meat-eaters and tests the most effective way to make them part of the solution. Despite the evident benefits, many people do not even consider changing to a plant-based diet and meat, dairy and egg consumption continues to increase worldwide. These consumers likely ignore information as it does not align with their beliefs. 
-We will obtain insights into the origins of resistance towards a plant-based diet using in-depth interviews and text mining of blogs, pod casts and internet forums. We will gather podcast transcripts, reviews and remarks about meat versus plant-based diets posed on fora such as Quora through web scraping. This way, we will create a database of texts (i.e. referred to as documents) in which the underlying resistance towards a plant-based diet is discussed openly.&lt;/p&gt;
-&lt;p&gt;First, we will identify the topics being discussed repeatedly across the collected documents using an unsupervised machine learning model such as Latent Dirichlet Allocation (Blei et al., 2003). LDA allows us to gather topics that are mentioned in multiple documents. Next, using advanced natural language processing models, such as BERT (Devlin et al., 2018), and recent advances such as GoEmotions (Demszky et al., 2021) we will attempt to discover the emotions underlying a resistance towards a plant-based diet. Finally, we will survey the general population to examine the interplay of current diet, emotions and arguments for underlying resistance to transition to a plant-based diet. We will apply a novel method that we recently developed to measure actual environmental impacts of current diet (Morren et al., 2021). This method is suitable for internet-based surveys in the general population.&lt;/p&gt;
-&lt;p&gt;Our research aims to explain why certain people resist a plant-based diet. As meat-eaters are responsible for a large share of environmental impacts, there is a lot to be gained. We will deliver specific recommendations to policy makers about the most promising type of message to encourage heavy meat-eaters to transition to a plant-based diet.&lt;/p&gt;
-&lt;p&gt;[in data collection phase]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Information about changes in platform economy taxation</title>
-      <link>https://www.jantsje.nl/project/trustpath/</link>
-      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/trustpath/</guid>
-      <description>&lt;h3&gt; Information about changes in platform economy taxation diminishes optimism regarding future use
- &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://catherinemolho.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Catherine Molho&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Some economic interactions are based on trust, others on monetary incentives or monitoring. In the tax compliance context, the monitoring approach creates compliance based on audits and fines (enforced compliance), in contrast to the trust-based (voluntary compliance) approach, which is based on taxpayers’ willingness to comply. In both approaches, taxpayers’ trust in authorities is relevant. Here, we examine changes in taxation regarding platform economy revenues. Currently, in some European countries this taxation is entirely trust-based, and trade on those platforms prospers. New EU legislation, introduced in 2023, will mandate data sharing between platforms and tax authorities across Europe. As a result, the taxation of platform economy revenues will shift from voluntary compliance into enforced compliance. How would this shift affect the intended use of platforms? We use a survey among platform workers (N = 626) in the Netherlands to examine views of the proposed regulation change, corrected for the proportion of platform income and several measures of trust. We experimentally manipulate information by either informing participants about the upcoming change or not. Results show that informing respondents about the change negatively affects expected supply of labor, mainly among women and part-time workers. The policy implications of these results are discussed.&lt;/p&gt;
-&lt;p&gt;[R&amp;amp;R]&lt;/p&gt;
-&lt;p&gt;See also the 
-&lt;a href=&#34;https://behavioralethics.org/project/trustpath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Behavioral Ethics project website&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Natural disaster preparedness</title>
-      <link>https://www.jantsje.nl/project/dorian/</link>
-      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/dorian/</guid>
-      <description>&lt;h3&gt; Determinants of natural disaster preparedness actions and their dynamics: Insights from real time and repeated surveys in Florida
- &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://research.vu.nl/en/persons/wjw-botzen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wouter Botzen&lt;/a&gt;, 
-&lt;a href=&#34;https://research.vu.nl/en/persons/peter-john-robinson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Robinson&lt;/a&gt; and 
-&lt;a href=&#34;https://www.researchgate.net/profile/Jeffrey-Czajkowski&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeffrey Czajkowski&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-Losses from natural disasters are increasing around the world. These losses can be limited by improving individual preparedness for such disasters, for which it is imperative to understand the factors that enable individual actions to reduce natural disaster risks. This study offers such insights using an innovative real-time and repeated survey methodology. These survey instruments collected unique data for coastal residents in Florida regarding flood preparations and their drivers during an imminent threat posed by Hurricane Dorian and its aftermath. Compared with the common practice to conduct cross-sectional surveys in the absence of a disaster threat, our methodology better represents relationships between preparedness actions undertaken during the disaster threat and its drivers, such as risk perceptions. The repeated survey allows for examining temporal dynamics in these explanatory variables. Our results show that risk perceptions relate more strongly to emergency protection decisions made during the period of the disaster threat than to ex-ante decisions made well before. In addition to the importance of coping appraisals in explaining flood-preparedness behavior, personal characteristics significantly relate to undertaking preparedness actions, especially risk aversion and social norms. Significant changes in some of the key explanatory variables occur following the disaster threat, including a decline in risk perception, a potential learning effect in coping appraisals, and a decline in risk aversion. Finally, explanatory variables measured after the disaster threat do not fully capture relationships among factors of influence on preparedness actions taken during the threat. Taken together, our results confirm the advantage of the real-time and repeated survey approach in understanding both short and longer-term disaster preparedness actions. We discuss various lessons from our findings for researchers and policymakers in this field.&lt;/p&gt;
-&lt;p&gt;[R&amp;amp;R]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Information Design in Object Allocation Problems</title>
-      <link>https://www.jantsje.nl/project/task-matching/</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/task-matching/</guid>
-      <description>&lt;h3&gt; Information Design in Object Allocation Problems &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://www.lenkafiala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lenka Fiala&lt;/a&gt; and 
-&lt;a href=&#34;https://sites.google.com/view/sulagna/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sulagna Dasgupta&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-We investigate how people trade off individual and group interests in a setting of strategic interaction with imperfect information about private benefits of a specific action. In a large-scale online experiment with 2600 subjects, we compare three information provision settings and their impact on people&amp;rsquo;s choices and resulting social welfare. Contrary to theoretical predictions, we find that a partial-information policy designed to maximize group welfare does not improve upon a full information benchmark even when individual and group objectives are aligned. In a setting where individual and group interests clash, in accordance with theoretical predictions, additional information provided by the same partial-information policy is ignored by the subjects. Our results are robust to accounting for different types of risk- and social- preferences, and various types of subject errors.&lt;/p&gt;
-&lt;p&gt;[manuscript in preparation]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Testing a new hurricane scale</title>
       <link>https://www.jantsje.nl/project/testing-new-storm-scale/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jantsje.nl/project/testing-new-storm-scale/</guid>
       <description>&lt;h3&gt; An experimental test of risk perceptions under a new hurricane classification system &lt;/h3&gt; 
 &lt;p&gt;With 
 &lt;a href=&#34;https://research.vu.nl/en/persons/nadia-bloemendaal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nadia Bloemendaal&lt;/a&gt;, 
-&lt;a href=&#34;https://www.usf.edu/arts-sciences/departments/geosciences/people/faculty/jennifer-collins.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jennifer Collins&lt;/a&gt;, 
+&lt;a href=&#34;https://research.vu.nl/en/persons/hans-de-moel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans de Moel&lt;/a&gt;, 
 &lt;a href=&#34;https://sites.google.com/view/dianna-amasino/bio?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dianna Amasino&lt;/a&gt; and 
-&lt;a href=&#34;https://www.linkedin.com/in/amypolen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amy Polen&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.usf.edu/arts-sciences/departments/geosciences/people/faculty/jennifer-collins.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jennifer Collins&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-During a hurricane, it is vital that individuals receive communications that are easy to process and provide sufficient information to allow informed hurricane evacuation decisions and prevent loss of life. Without satisfactory and complete information, an individual is likely to miscalculate their personal risk or even potentially be moved to inaction. However, much recent research has shown an over-reliance on the currently-utilized Saffir-Simpson Hurricane Wind Scale (SSHWS) despite the fact that it only captures one aspect of a hurricane: the wind threat. Communications campaigns have been attempting to bridge this divide by providing additional information, but the importance of a category cannot be escaped. As such, researchers have begun to formulate more holistic hurricane classification systems that account for water-based hazards, the biggest killer in hurricane events. These scales have not been previously tested on a large scale to determine their usability and clarity as a practical risk communication tool. This study will observe the efficacy of the Tropical Cyclone Severity Scale, or TCSS 
-&lt;a href=&#34;https://www.jantsje.nl/publication/bloemendaal-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bloemendaal et al., 2021&lt;/a&gt;, in practice and its viability as a wide-reaching communications tool. Utilizing surveys and online experiments, we will identify potential differences in comprehension, risk perception, and anticipated evacuation decisions between the current SSHWS and the new TCSS. The information gained from this study will be leveraged to influence emergency planning and risk communication in the formation of a nationwide scale that best serves the public.&lt;/p&gt;
-&lt;p&gt;[in cata collection phase]&lt;/p&gt;
+During a hurricane, it is vital that individuals receive communications that are easy to process and provide sufficient information to allow informed hurricane preparedness decisions and prevent loss of life. We study how the hurricane warning scale (traditional Saffir-Simpson Hurricane Wind Scale versus the newly developed 
+&lt;a href=&#34;https://www.jantsje.nl/publication/bloemendaal-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tropical Cyclone Severity Scale&lt;/a&gt;) impacts intent to evacuate and understanding of hurricane severity. We use a between-subject design where participants are assigned to either the traditional SSHWS or the new TCSS scale. We will collect data in a large-scale (~4000 participants) online experiment to examine potential differences in comprehension, risk perception and anticipated evacuation and preparation decisions among citizens in U.S. coastal states prone to hurricanes. We test the hypotheses that the new scale increases understanding about the main hazard, increases evacuation intent for severe events and increases relevant precautionary measures (window protection for wind-driven storms, sandbags for rainfall-driven storms).&lt;/p&gt;
+&lt;p&gt;[submitted]&lt;/p&gt;
 </description>
     </item>
     

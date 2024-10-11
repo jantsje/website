@@ -4,11 +4,6 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
 slides: 
 summary: Supply of willful ignorance. With Ivan Soraperra and Joël van der Weele. [submitted]
 tags:

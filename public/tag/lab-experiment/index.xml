@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lab experiment | Jantsje Mol</title>
+    <title>Lab Experiment | Jantsje Mol</title>
     <link>https://www.jantsje.nl/tag/lab-experiment/</link>
       <atom:link href="https://www.jantsje.nl/tag/lab-experiment/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lab experiment</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2023</copyright><lastBuildDate>Wed, 27 Sep 2023 09:00:00 +0000</lastBuildDate>
+    <description>Lab Experiment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2024</copyright><lastBuildDate>Wed, 27 Sep 2023 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hue4a4de327998694cb345fdb70473462a_27719_512x512_fill_lanczos_center_3.png</url>
-      <title>Lab experiment</title>
+      <url>https://www.jantsje.nl/images/icon_hu7859828887360647904.png</url>
+      <title>Lab Experiment</title>
       <link>https://www.jantsje.nl/tag/lab-experiment/</link>
     </image>
     
@@ -24,21 +24,6 @@
 &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
 Information about the consequences of our consumption choices can be unwelcome, and people sometimes avoid it. We investigate a situation where one person possesses information that is inconvenient for another, and study why and when they decide to transmit that information. We introduce a simple and portable experimental game to analyze transmission of inconvenient information. In this game, a Sender can inform a Receiver at a small cost about a negative externality associated with a tempting and profitable action for the Receiver. The results from our online experiment (N = 1,512) show that Senders transmit more information for large negative externalities. Sender&amp;rsquo;s decisions are largely driven by their own preferences for information. However, some Senders take the Receiver&amp;rsquo;s feelings into account, by transmitting evidence of positive externalities or by suppressing negative information upon the Receiver&amp;rsquo;s request. Understanding the decision to share inconvenient information matters, as it will affect the personal and political will to address important externalities and can inform strategies to encourage the transmission of inconvenient information within organizations.&lt;/p&gt;
 &lt;p&gt;[submitted]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Information Design in Object Allocation Problems</title>
-      <link>https://www.jantsje.nl/project/task-matching/</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/task-matching/</guid>
-      <description>&lt;h3&gt; Information Design in Object Allocation Problems &lt;/h3&gt; 
-&lt;p&gt;With 
-&lt;a href=&#34;https://www.lenkafiala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lenka Fiala&lt;/a&gt; and 
-&lt;a href=&#34;https://sites.google.com/view/sulagna/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sulagna Dasgupta&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
-We investigate how people trade off individual and group interests in a setting of strategic interaction with imperfect information about private benefits of a specific action. In a large-scale online experiment with 2600 subjects, we compare three information provision settings and their impact on people&amp;rsquo;s choices and resulting social welfare. Contrary to theoretical predictions, we find that a partial-information policy designed to maximize group welfare does not improve upon a full information benchmark even when individual and group objectives are aligned. In a setting where individual and group interests clash, in accordance with theoretical predictions, additional information provided by the same partial-information policy is ignored by the subjects. Our results are robust to accounting for different types of risk- and social- preferences, and various types of subject errors.&lt;/p&gt;
-&lt;p&gt;[manuscript in preparation]&lt;/p&gt;
 </description>
     </item>
     

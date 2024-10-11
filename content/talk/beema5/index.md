@@ -12,14 +12,8 @@ image:
   focal_point: ""
   preview_only: false
   caption: 'Image credit: **Wikimedia Commons**'
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
 location: Villanova, Pennsylvania (US)
 
-summary: Presentation at the Villanova Meeting on Behavioral and Experimental Economics.
 math: true
 projects:
 - social-norms

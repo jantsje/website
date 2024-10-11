@@ -21,9 +21,9 @@ interests:
 - Virtual Reality
 name: Jantsje Mol
 organizations:
-- name: Department of Experimental and Political Economics, University of Amsterdam
-  url: "https://www.creedexperiment.nl/creed/"
-role: Postdoctoral researcher
+- name: Rotterdam University of Applied Sciences (CoE HRTech)
+  url: "https://www.hogeschoolrotterdam.nl/onderzoek/kenniscentra/coe-hrtech/home/"
+role: Senior researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,9 +43,9 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at [CREED](https://www.creedexperiment.nl/creed/), the Center for Research in Experimental Economics and political Decision making of the University of Amsterdam and a Research Fellow at [Tinbergen](https://www.tinbergen.nl). My main interests are experimental economics, behavioral economics and environmental economics. 
+I am a senior researcher at the Centre of Expertise HRTech of [Rotterdam University of Applied Sciences](https://www.hogeschoolrotterdam.nl/onderzoek/kenniscentra/coe-hrtech/home/) and a Research Associate at the [University of Amsterdam](https://www.creedexperiment.nl/creed/). My main interests are experimental economics, behavioral economics and environmental economics. 
 
 I have a research master in neuroeconomics from Maastricht University and a PhD in behavioral economics from Vrije Universiteit Amsterdam. My PhD thesis entitled **Improving flood preparedness using insights from economic experiments** can be found [here](https://research.vu.nl/en/publications/improving-flood-preparedness-using-insights-from-economic-experim). 
 
-Currently, I am working on a [project](https://behavioralethics.org/project/trustpath/) studying the importance of trust in the sharing economy.
+Currently, I am working on a [project](https://www.linkedin.com/company/fmaas-it-s-a-cargo-match/about/) studying studying sustainable matching platforms for the logistics sector.
 <font size="2">(photo: Ljilja Suvajdžić)</font>

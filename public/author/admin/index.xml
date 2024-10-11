@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin | Jantsje Mol</title>
+    <link>https://www.jantsje.nl/author/admin/</link>
+      <atom:link href="https://www.jantsje.nl/author/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Admin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2024</copyright>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hu7859828887360647904.png</url>
+      <title>Admin</title>
+      <link>https://www.jantsje.nl/author/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://www.jantsje.nl/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/author/</guid>
+      <description>&lt;p&gt;I am a postdoctoral researcher at 
+&lt;a href=&#34;https://www.creedexperiment.nl/creed/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CREED&lt;/a&gt;, the Center for Research in Experimental Economics and political Decision making of the University of Amsterdam and a Research Fellow at 
+&lt;a href=&#34;https://www.tinbergen.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tinbergen&lt;/a&gt;. My main interests are experimental economics, behavioral economics and environmental economics.&lt;/p&gt;
+&lt;p&gt;I have a research master in neuroeconomics from Maastricht University and a PhD in behavioral economics from Vrije Universiteit Amsterdam. My PhD thesis entitled &lt;strong&gt;Improving flood preparedness using insights from economic experiments&lt;/strong&gt; can be found 
+&lt;a href=&#34;https://research.vu.nl/en/publications/improving-flood-preparedness-using-insights-from-economic-experim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Currently, I am working on a 
+&lt;a href=&#34;https://behavioralethics.org/project/trustpath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project&lt;/a&gt; studying the importance of trust in the sharing economy.
+&lt;font size=&#34;2&#34;&gt;(photo: Ljilja Suvajdžić)&lt;/font&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

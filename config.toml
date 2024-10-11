@@ -16,7 +16,7 @@ baseurl = "https://www.jantsje.nl/"
 copyright = "Jantsje Mol &copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+# googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""

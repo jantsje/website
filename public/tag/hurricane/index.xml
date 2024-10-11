@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hurricane | Jantsje Mol</title>
+    <link>https://www.jantsje.nl/tag/hurricane/</link>
+      <atom:link href="https://www.jantsje.nl/tag/hurricane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hurricane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2024</copyright><lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hu7859828887360647904.png</url>
+      <title>Hurricane</title>
+      <link>https://www.jantsje.nl/tag/hurricane/</link>
+    </image>
+    
+    <item>
+      <title>Drivers of natural disaster risk-reduction actions and their temporal dynamics: Insights from surveys during an imminent hurricane threat and its aftermath</title>
+      <link>https://www.jantsje.nl/publication/botzen-2024/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/botzen-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
