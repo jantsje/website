@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 slides: 
-summary: For the 'Greater Good', Please Choose A. With Lenka Fiala and Sulagna Dasgupta. [submitted]
+summary: For the 'Greater Good', Please Choose A. With Lenka Fiala and Sulagna Dasgupta. [in review]
 tags:
 - Online experiment
 - Matching
@@ -34,5 +34,5 @@ With [Lenka Fiala](https://www.lenkafiala.com) and [Sulagna Dasgupta](https://si
 <b>Abstract:</b>
 How do people trade off individual versus group welfare in the face of uncertainty regarding private benefits of different actions? We propose a partial information revelation ('recommendation') policy  designed to maximize group welfare, and we show its theoretical robustness to well-documented behavioral deviations from the risk neutral, Bayesian, and self-interested benchmark. In a large-scale online experiment with 2600 subjects, we then show that this policy fails to improve upon a full information benchmark even when individual and group objectives are aligned, as the recommended course of action is not followed often enough. In a setting where individual and group interests clash, the recommendation is followed less often, largely by subjects who misunderstand the policy. This provides suggestive evidence in favor of simplicity in information design in multi-agent strategic settings.
 
-[submitted] 
+[in review] 
 

@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 
 slides: 
-summary: Testing a new hurricane scale. With Nadia Bloemendaal, Hans de Moel, Diana Amasino and Jennifer Collins. [submitted]
+summary: Testing a new hurricane scale. With Nadia Bloemendaal, Hans de Moel, Diana Amasino and Jennifer Collins. [in-principle-acceptance]
 tags:
 - Risk communication
 - Risk perception
@@ -32,5 +32,5 @@ With [Nadia Bloemendaal](https://research.vu.nl/en/persons/nadia-bloemendaal), [
 <b>Abstract:</b>
 	During a hurricane, it is vital that individuals receive communications that are easy to process and provide sufficient information to allow informed hurricane preparedness decisions and prevent loss of life. We study how the hurricane warning scale (traditional Saffir-Simpson Hurricane Wind Scale versus the newly developed [Tropical Cyclone Severity Scale](https://www.jantsje.nl/publication/bloemendaal-2020/)) impacts intent to evacuate and understanding of hurricane severity. We use a between-subject design where participants are assigned to either the traditional SSHWS or the new TCSS scale. We will collect data in a large-scale (~4000 participants) online experiment to examine potential differences in comprehension, risk perception and anticipated evacuation and preparation decisions among citizens in U.S. coastal states prone to hurricanes. We test the hypotheses that the new scale increases understanding about the main hazard, increases evacuation intent for severe events and increases relevant precautionary measures (window protection for wind-driven storms, sandbags for rainfall-driven storms). 
 	
-[submitted] 
+[in-conditional-acceptance at Scientific Reports] 
 

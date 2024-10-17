@@ -47,5 +47,5 @@ I am a senior researcher at the Centre of Expertise HRTech of [Rotterdam Univers
 
 I have a research master in neuroeconomics from Maastricht University and a PhD in behavioral economics from Vrije Universiteit Amsterdam. My PhD thesis entitled **Improving flood preparedness using insights from economic experiments** can be found [here](https://research.vu.nl/en/publications/improving-flood-preparedness-using-insights-from-economic-experim). 
 
-Currently, I am working on a [project](https://www.linkedin.com/company/fmaas-it-s-a-cargo-match/about/) studying studying sustainable matching platforms for the logistics sector.
+Currently, I am working on a [project](https://www.linkedin.com/company/fmaas-it-s-a-cargo-match/about/) about sustainable matching platforms for the logistics sector, as well as two VR projects.
 <font size="2">(photo: Ljilja Suvajdžić)</font>
