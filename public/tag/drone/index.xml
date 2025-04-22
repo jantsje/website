@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drone | Jantsje Mol</title>
+    <link>https://www.jantsje.nl/tag/drone/</link>
+      <atom:link href="https://www.jantsje.nl/tag/drone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Drone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2025</copyright><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hu7859828887360647904.png</url>
+      <title>Drone</title>
+      <link>https://www.jantsje.nl/tag/drone/</link>
+    </image>
+    
+    <item>
+      <title>Educational perspective on Aquabots</title>
+      <link>https://www.jantsje.nl/project/aquabots/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/aquabots/</guid>
+      <description>&lt;h3&gt; An educational perspective on the Aquabots development platform for autonomous navigation &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.linkedin.com/in/peter-verheijen-96b8a1a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Verheijen&lt;/a&gt;, 
+&lt;a href=&#34;https://www.linkedin.com/in/jan-smallegange-9996777/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jan Smallegange&lt;/a&gt; and 
+&lt;a href=&#34;https://www.linkedin.com/in/jan-scholtens-93a316aa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jan Scholtens&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Aquabots is a development platform for autonomous navigation which was initiated in 2010 by the Rotterdam University of Applied Sciences and system integrator Imtech. In 2014, the first student team successfully crossed the river Nieuwe Maas with their Remotely Operated Vessel (Aquabot) EindMaas. By structuring the project as stacked research, where each team builds upon the work of their predecessors, significant time savings and deeper knowledge development have been achieved. This modular concept, starting from 2017, has enabled various, consecutive student teams to develop individual components of the system architecture. This approach ensured continuity, prevented knowledge loss, and allowed teams to focus on advancing the technology rather than redoing previous work. Over the years, as developments have progressed, it has become increasingly difficult to preserve and extend the knowledge base. To combat the major drawback of various consecutive student teams, a community system will be set up, which consists of teachers, company representatives and students who have contributed to the Aquabots project over the years. This will require active and fruitful cooperation and knowledge sharing, not only from the academic side (students plus teachers), but also from the business sector. In this way common resources as well as knowledge can accumulate, academic potential can be explored, and the related business sector will have access to building blocks which can be applied to exploit their business potential. We believe that the incubation phase of follow-up multidisciplinary student teams working on the Aquabots project can be shortened significantly. This paper documents best practices and challenges of such a modular learning community.&lt;/p&gt;
+&lt;p&gt;[accepted for IEEE Symposium on Maritime Informatics &amp;amp; Robotics]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

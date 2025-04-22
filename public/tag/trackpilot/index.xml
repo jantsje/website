@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trackpilot | Jantsje Mol</title>
+    <link>https://www.jantsje.nl/tag/trackpilot/</link>
+      <atom:link href="https://www.jantsje.nl/tag/trackpilot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trackpilot</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jantsje Mol © 2025</copyright><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hu7859828887360647904.png</url>
+      <title>Trackpilot</title>
+      <link>https://www.jantsje.nl/tag/trackpilot/</link>
+    </image>
+    
+    <item>
+      <title>Increasing trackpilot information load</title>
+      <link>https://www.jantsje.nl/project/trackpilot-information-load/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/project/trackpilot-information-load/</guid>
+      <description>&lt;h3&gt; Measuring situational awareness onboard and ashore under increasing trackpilot information load  &lt;/h3&gt; 
+&lt;p&gt;With 
+&lt;a href=&#34;https://www.hogeschoolrotterdam.nl/onderzoek/lectoren/coe-hrtech/lectoren/verduijn-thierry/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thierry Verduijn&lt;/a&gt;, 
+&lt;a href=&#34;https://www.linkedin.com/in/monique-van-der-drift-65908399/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monique van der Drift&lt;/a&gt; and 
+&lt;a href=&#34;https://www.linkedin.com/in/andreea-s-pop-34b24970/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andreea Pop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt;
+Trackpilots can help inland shippers sail an optimal route with minimal human input, which has the potential to save fuel costs and human attention. In theory, widespread adoption of trackpilots is not only beneficial for crew on board, but also for traffic operators ashore, for example by minimizing verbal communication which could allow operators to focus on the most important safety concerns. However, a larger information load in the form of trackpilot data may not necessarily increase situational awareness. This paper examines the effect of trackpilots on situational awareness in practice, with two field experiments run by students of the Rotterdam University of Applied Sciences. The exploratory results suggest that a trackpilot has a positive effect on situational awareness and decreases workload on board. At the same time, when vessel traffic services (VTS) operators ashore receive trackpilot information, situational awareness is unaffected, but operators expect the workload to increase. Policy implications and suggestions for further research are discussed.&lt;/p&gt;
+&lt;p&gt;[analysis phase]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

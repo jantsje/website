@@ -18,8 +18,10 @@ links:
     url: https://doi.org/10.1007/s40881-024-00160-y
   - name: Radio interview
     url: https://www.bnr.nl/podcast/de-economische-stand-van-nederland/10546959/de-economische-stand-van-nederland-wat-is-er-terecht-gekomen-van-de-nederlandse-deeleconomie
-  - name: Twitter summary
-    url: https://x.com/JantsjeMol/status/1772929925009342975?s=20
+  - name: 100-word summary
+    url: https://jantsje.nl/files/twitter-archives/Your%20archive.html#/tweets/tweets?since=2024-03-27&sort=asc
+  - name: 100-word summary 2
+    url: https://jantsje.nl/files/twitter-archives/Your%20archive.html#/tweets/replies?since=2024-03-27&sort=asc
   - name: Data
     url: "https://osf.io/6w87b"
   - name: Analysis code

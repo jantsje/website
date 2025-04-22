@@ -17,8 +17,11 @@ links:
     url: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/risa.13479"  
   - name: DOI
     url: "https://doi.org/10.1111/risa.13479"
-  - name: Twitter summary
-    url: https://twitter.com/JantsjeMol/status/1252573577674731521?s=20&t=OfQ1-KtDWLEx2ATTpR1Taw
+  - name: 100-word summary
+    url: "https://jantsje.nl/files/twitter-archives/Your%20archive.html#/tweets/tweets?q=the&since=2020-04-21&until=2020-04-22&sort=asc"
+  - name: 100-word summary 2
+    url: "https://jantsje.nl/files/twitter-archives/Your%20archive.html#/tweets/replies?q=the&since=2020-04-21&until=2020-04-22&sort=asc"
+
 
 
 image:

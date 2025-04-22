@@ -15,8 +15,10 @@ links:
     url: 'https://www.sciencedirect.com/science/article/pii/S0272494421000633/pdfft?md5=72737ce0d3bc287c3f29f6c387ac71f1&pid=1-s2.0-S0272494421000633-main.pdf'  
   - name: DOI
     url: "https://doi.org/10.1016/j.jenvp.2021.101610"
-  - name: Twitter summary
-    url: "https://twitter.com/JantsjeMol/status/1385606536807043072?s=20&t=FG1kahJ5JJiTiaLj8JSPpQ"
+  - name: 100-word summary
+    url: "https://jantsje.nl/files/twitter-archives/Your%20archive.html#/tweets/tweets?since=2021-04-23&until=2021-04-24&sort=asc"
+  - name: 100-word summary 2
+    url: "https://jantsje.nl/files/twitter-archives/Your%20archive.html#/tweets/replies?since=2021-04-23&until=2021-04-24&sort=asc"
   - name: Analysis code
     url: 'https://ars.els-cdn.com/content/image/1-s2.0-S0272494421000633-mmc6.zip'
   - name: LCA data
